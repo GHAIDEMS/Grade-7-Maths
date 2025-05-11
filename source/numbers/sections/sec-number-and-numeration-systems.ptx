@@ -59,6 +59,8 @@
             
                 How do doctors know the right amount of medicine?
            </p>
+  <xi:include href="./sections/sec-whole-numbers.ptx" />
+
            <p>
             <m>\textbf{Real Number System.}</m>
            </p>
@@ -144,482 +146,485 @@
             </image>
          </solution> 
            </example>
+                       
            <p>
-               Rational Numbers
-           </p>
-           <p>
-               <m>\textbf{What are rational numbers?}</m>
-               A <m>\textbf{rational number}</m> is any number that can be made by dividing two integers.
-           </p>
-            <p>
-               Remember that integers can be positive numbers, negative numbers or zero, but they cannot have fractional or decimal parts.
-               All rational numbers can be written in the form
-               <m>\frac{p}{q}</m>
-               where p and q are integers and q is not zero.
-            </p>
-            <p>
-               <m>\frac{2}{3}</m>is a rational number. </p>
-            <p>
-               <m>-5</m> is a rational number because it can be written as
-               <m>\frac{-5}{1}</m>
-           </p>
-            <p>
-             4.75 is a rational number because it can be written as <m>\frac{19}{4}</m>
-            </p>
-            <p>         
-             0.36  is a rational number because it can be written as <m>\frac{9}{25}</m>
-            </p>
-            <p>
-            1.18 is a rational number because it can be written as <m>\frac{13}{11}</m>
-            </p>
-            <p>
-            Integers, fractions, terminating decimal and repeating decimals are all rational numbers.
-               
-         </p>
-           <p>
-            <m>\textbf{A rational number}</m>
-               is any number that can be made by dividing two integers. Rational numbers can be positive, negative, or zero. They can be integers, fractions, terminating decimals and repeating decimals.
-               <m>\textbf{Adding rational numbers}</m></p>
-            <p>
-             To add rational numbers, follow these steps:
-            </p>
-            <p>
-             Make sure both two numbers to be added have the same form. They should both be fractions or both be decimals. If the numbers are fractions, write them to have common denominators
-          </p>
+            Rational Numbers
+        </p>
+        <p>
+            <m>\textbf{What are rational numbers?}</m>
+            A <m>\textbf{rational number}</m> is any number that can be made by dividing two integers.
+        </p>
          <p>
-            Look at the signs of the numbers to be added to determine how to solve. If the addends have the same sign add their absolute values
+            Remember that integers can be positive numbers, negative numbers or zero, but they cannot have fractional or decimal parts.
+            All rational numbers can be written in the form
+            <m>\frac{p}{q}</m>
+            where p and q are integers and q is not zero.
          </p>
-          <p>
-            If the addends have different signs, subtract the lesser absolute value from the greater absolute value.
-            Determine the sign of the sum. If the rational numbers have the same sign, the sum will have that sign. If the addends have different signs, the sum will have the sign of the addend with the greater absolute value.
+         <p>
+            <m>\frac{2}{3}</m>is a rational number. </p>
+         <p>
+            <m>-5</m> is a rational number because it can be written as
+            <m>\frac{-5}{1}</m>
+        </p>
+         <p>
+          4.75 is a rational number because it can be written as <m>\frac{19}{4}</m>
+         </p>
+         <p>         
+          0.36  is a rational number because it can be written as <m>\frac{9}{25}</m>
+         </p>
+         <p>
+         1.18 is a rational number because it can be written as <m>\frac{13}{11}</m>
+         </p>
+         <p>
+         Integers, fractions, terminating decimal and repeating decimals are all rational numbers.
+            
+      </p>
+        <p>
+         <m>\textbf{A rational number}</m>
+            is any number that can be made by dividing two integers. Rational numbers can be positive, negative, or zero. They can be integers, fractions, terminating decimals and repeating decimals.
+            <m>\textbf{Adding rational numbers}</m></p>
+         <p>
+          To add rational numbers, follow these steps:
+         </p>
+         <p>
+          Make sure both two numbers to be added have the same form. They should both be fractions or both be decimals. If the numbers are fractions, write them to have common denominators
+       </p>
+      <p>
+         Look at the signs of the numbers to be added to determine how to solve. If the addends have the same sign add their absolute values
+      </p>
+       <p>
+         If the addends have different signs, subtract the lesser absolute value from the greater absolute value.
+         Determine the sign of the sum. If the rational numbers have the same sign, the sum will have that sign. If the addends have different signs, the sum will have the sign of the addend with the greater absolute value.
+        </p>
+        <example>
+         <statement>
+            <p>
+               Adding rational numbers with the same sign
+            </p>
+            <p>
+               Add <m>-\frac{1}{4} +(-\frac{3}{5})</m>
+            </p>
+         </statement>
+         <solution>
+            <p>
+              Find the lcm of the denominators i.e 20 <m></m>
+            </p>
+              <table>
+               <title></title>
+               <tabular left="medium" bottom="medium">
+                  <row>
+                     <cell></cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                  <cell>1</cell>
+                  <cell>1</cell>
+                  </row>
+                  
+               </tabular>
+              </table>
+              <p>
+               The LCM is <m>2\times 2 \times 2 \times 5 = 20</m>
+            <md>
+               <mrow> -\frac{1}{4}  =\amp \frac{-5}{20}</mrow>
+               <mrow> -\frac{3}{5}  =\amp \frac{-12}{20}</mrow>
+            </md>
+         </p>
+         <p>
+         So <m>-\frac{1}{4} +(-\frac{3}{5}) = \frac{-5}{20} + (\frac{-12}{20})</m>
+         </p>
+         <p>
+          Now look at the sign of the rational numbers to be added they are the same that is (-) and a positive number times a negative number is a negative one so our answer will be:
+         </p>
+       <p> 
+         So since the signs are the same we will add 1.e <m>\frac{5}{20} + \frac{12}{20} = \frac{17}{20}</m>
+       </p>
+       <p>
+            Lastly, determine the sign of the sum. Since bth addends are negative, the sum will also be negative
+
+            
+         <m> = -\frac{17}{20}</m>
+      </p>
+         </solution>
+        </example>
+        
+        <p>
+         Subtracting rational numbers with differrent signs.
+            Subtracting a number is the same as adding its opposite
+            For example, 5 – 2 is the same as 5 + (-2)
+           
+            So, you can rewrite a subtraction expression as addition of the opposite. Then, follow the rules for adding rational numbers.
+         </p>
+            <example>
+               <statement>
+                  <p>
+                   Solve <m>8\frac{3}{5} + (-2.5)</m>
+                  </p>
+               </statement>
+               <solution>
+                  <p>
+                     First we write the numbers in the same form. Write <m>8\frac{3}{5}</m> as a decimal i.e <m> (8 \times 5 = 40 + 3 = \frac{43}{5} = 8.6 )</m>
+                  </p>
+                  <p>
+                     Since the signs of the addends are different , so subtract the lesser absolute value from the greater absolute value.
+                  </p>
+                  <p>
+                     So <m>8\frac{3}{5} + (-2.5) = 8.6 -2.5 = 6.1</m> 
+                  </p>
+                  <p>
+                     Since the positive number in our sum is larger than the negative one the sum is positive i.e :
+                     <m>8\frac{3}{5} + (-2.5)</m> = 6.1
+                  </p>
+               </solution>
+            </example>
+                     
+            <p>
+              <m> {\color{blue}{\textbf{Ordering rational numbers}}}</m>
+             
+            </p>
+            <p>
+               <m>\textbf{How do you order rational numbers?}</m>
+                You can order rational numbers using what you know about comparing rational numbers.
            </p>
-           <example>
+            <p>
+              To order rational numbers, follow these steps:
+            </p>
+             <p>
+             1. Write the numbers in the same form. You can write them all as fractions or all as decimals.
+               
+            </p>
+            <p>
+             2. Compare the numbers. You can use a number line to help you compare the numbers.
+               
+            </p>
+            <p>
+             3. Write the numbers in order from least to greatest or from greatest to least.
+           </p>
+          <example>
             <statement>
                <p>
-                  Adding rational numbers with the same sign
-               </p>
-               <p>
-                  Add <m>-\frac{1}{4} +(-\frac{3}{5})</m>
+                  Put these rational numbers in order from least to greatest:
+          
+                 <m>\frac{1}{2}, \frac{3}{4}, \frac{1}{3}, \frac{2}{5}</m>
+         
                </p>
             </statement>
             <solution>
                <p>
-                 Find the lcm of the denominators i.e 20 <m></m>
+                  First, write the numbers in the same form. Write all the numbers as fractions.
+                  <m>\frac{1}{2} = \frac{5}{10}, \frac{3}{4} = \frac{15}{20}, \frac{1}{3} = \frac{10}{30}, \frac{2}{5} = \frac{12}{30}</m>
+                  Now, compare the fractions. 
                </p>
-                 <table>
+               <p> 
+                  To compare fractions, look at the denominators and find theit LCM.
+                  The LCM of 10, 20, and 30 is 60.
+               </p>
+               <table>
                   <title></title>
                   <tabular left="medium" bottom="medium">
                      <row>
                         <cell></cell>
-                        <cell>5</cell>
-                        <cell>4</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>30</cell>
                      </row>
                      <row>
                         <cell>2</cell>
                         <cell>5</cell>
-                        <cell>2</cell>
+                        <cell>10</cell>
+                        <cell>15</cell>
                      </row>
+
                      <row>
                         <cell>2</cell>
+                        <cell>5</cell>
+                        <cell>5</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     </row>
+                  </tabular>
+                 </table>
+                 <p>
+                 The LCM is <m>2\times 2 \times 3 \times 5 = 20</m>
+                 <md>
+                    <mrow> \frac{1}{2}  =\amp 30</mrow>
+                    <mrow> \frac{3}{4}  =\amp 45 </mrow>
+                    <mrow> \frac{1}{3} =\amp 20</mrow>
+                    <mrow> \frac{2}{5} =\amp 24 </mrow>
+                 </md>
+              Now arranging from the least to the greatest we have.
+               </p>
+               <p>   
+                <m>20, 24, 30, 45</m>  
+               </p>
+               <p>
+                  THerefore this is the order of the fractions from the least to teh greatest.
+                  <m>\frac{1}{3}, \frac{2}{5}, \frac{1}{2},  \frac{3}{4}</m>
+               </p>
+            </solution>
+          </example>
+          <example>
+            <statement>
+               <p>
+                                       
+                  Put these rational numbers in order from least to greatest:
+                  1.9, –<m>\frac{1}{2}, 2.32, 2\frac{3}{10}</m>
+         
+               </p>
+            </statement>
+            <solution>
+               <p>
+                  First, find the smallest number. 
+               </p>   
+               <p> 
+                  Since negative numbers are always less than positive numbers,
+                  –<m>\frac{1}{2}</m> is the smallest number.
+               </p>
+               <p>
+                  Now, you are left with three positive numbers. 
+               </p>
+                  <p> 
+               Look at the whole number parts. Since 1 is less than 2, 1.9 comes next.
+
+               </p>
+               <p>
+                  
+                  Last, look at the remaining numbers. To compare 2.32 and <m>2\frac{3}{10}</m>
+               </p>
+                  <p>
+                     write both numbers in the same form. Write <m>2\frac{3}{10}</m>
+                  as a decimal.
+                  </p>
+                  <p>
+                  <m>2\frac{3}{10}</m> = 2.3 Since 2.3 is less than 2.32, <m>2\frac{3}{10}</m> comes next.
+                     
+                  </p>
+                  <p>
+                  That leaves 2.32 as the largest number.
+                     
+                  </p>
+                  <p>
+                  So, these are the rational numbers in order from least to greatest:
+                  </p>
+                  <p>
+                   <m>\frac{1}{2}</m>, 1.9, <m>2\frac{3}{10}</m>,2.32
+               </p>
+            </solution>
+          </example>
+            <p>
+         Irrational Numbers
+        </p>
+        <p>
+         What are irrational numbers?
+         Any number that is not rational is irrational.
+         An irrational number cannot be made by dividing two integers. 
+        </p>
+        <p>
+         
+        Irrational numbers that are written as decimals never terminate and never repeat.
+
+        <m> \sqrt{2}</m>is an irrational number because it cannot be written as a fraction is 1.4142135623
+        <m>\pi</m> is an irrational number because it cannot be written as a fraction but, ​<m>\pi</m> can be wtitten as 3.14159265358…
+        </p>
+        <image>
+         <latex-image label="number-line-1">
+            \begin{tikzpicture}
+               % Number line
+               \draw[-&gt;, thick, gray] (-4.5,0) -- (4.5,0);
+               
+               % Ticks and labels
+               \foreach \x in {-4,-3,-2,-1,0,1,2,3,4} {
+                  \draw[thick, gray] (\x,0.1) -- (\x,-0.1);
+                  \node[below, gray] at (\x,-0.15) {\x};
+               }
+               
+               % Plotted points
+               \filldraw[fill=violet!60!white, draw=violet] (-3.5,0) circle (2.5pt);
+               \filldraw[fill=violet!60!white, draw=violet] (-2.25,0) circle (2.5pt);
+               \filldraw[fill=violet!60!white, draw=violet] (-0.1,0) circle (2.5pt);
+               \filldraw[fill=violet!60!white, draw=violet] (0.8,0) circle (2.5pt);
+               \filldraw[fill=violet!60!white, draw=violet] (2,0) circle (2.5pt);
+               \filldraw[fill=violet!60!white, draw=violet] (3.4,0) circle (2.5pt);
+               
+               % Point labels
+               \node[above, violet] at (-3.5,0.15) {$-3\frac{1}{2}$};
+               \node[above, violet] at (-2.25,0.15) {$-2.25$};
+               \node[above, violet] at (-0.1,0.15) {$-0.1$};
+               \node[above, violet] at (0.8,0.15) {$\frac{4}{5}$};
+               \node[above, violet, font=\bfseries] at (2,0.15) {2};
+               \node[above, violet] at (3.4,0.15) {3.4};
+               
+               % Braces and labels for groupings
+               \draw[decorate,decoration={brace,amplitude=6pt},thick] (-4.2,0.8) -- (-0.5,0.8) node[midway, yshift=10pt, text=blue, font=\bfseries] {negative numbers};
+               \draw[decorate,decoration={brace,amplitude=6pt},thick] (0.5,0.8) -- (4.2,0.8) node[midway, yshift=10pt, text=orange!80!black, font=\bfseries] {positive numbers};
+               
+            \end{tikzpicture}
+         </latex-image>
+        </image>
+        <p>
+         How do you compare rational numbers?
+         When you compare rational numbers, it often helps to use a number line.
+         It can also help to write both numbers in the same form. You can write them both as fractions or as decimals. If the numbers are fractions, you can write them to have a common denominator
+         to make them easier to compare.
+        </p>
+         <example>
+            <statement>
+               <p>
+                  Compare 0.2 and -0.4
+               </p>
+            </statement>
+            <solution>
+               <p>
+                 Since 0.2 is positive and -0.4 is negative, 0.2 is greater than -0.4
+                 .
+                 The number 0.2 is farther right on the number line.
+               </p>
+               <image>
+                  <latex-image>
+                     \begin{tikzpicture}
+                     % Scale factor for spacing
+                     \def\scale{5}
+                   
+                     % Draw the number line
+                     \draw[-&gt;, thick] (-0.8*\scale,0) -- (0.8*\scale+0.5,0); 
+                   
+                     % Draw tick marks and labels
+                     \foreach \x in {0.8,0.6,-0.4,-0.2,0,0.2,0.4,0.6,0.8} {
+                       \pgfmathsetmacro{\pos}{\x*\scale}
+                       \draw[shift={(\pos,0)}, thick] (0pt,5pt) -- (0pt,-5pt)
+                         node[below] {\x};
+                     }
+                   
+                     % Mark points -0.4 and 0.2
+                     \filldraw[green!70!black] (-0.4*\scale,0) circle (3pt);
+                     \filldraw[green!70!black] (0.2*\scale,0) circle (3pt);
+                   \end{tikzpicture}
+                   
+                   \vspace{1em}
+                   
+                   So, \(0.2 > -0.4\).
+                  </latex-image>  
+                 </image>
+            </solution>
+         </example>
+        
+        <example>
+         <statement>
+            <p>
+               Compare <m>-1\frac{3}{5}</m>
+               and <m>-1\frac{3}{5}</m>
+            </p>
+              
+         </statement>
+         <solution>
+            <p>
+               Since <m>-1\frac{3}{5}</m>
+               and <m>-1\frac{2}{3}</m>
+               have unlike denominators, rewrite them to have common denominators by finding the denominators LCM.
+            </p> 
+               <table>
+                  <title></title>
+                  <tabular>
+                     <row left="medium" bottom="medium">
+                        <cell></cell>
+                        <cell>3</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row left="medium" bottom="medium">
+                        <cell>3</cell>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                     </row >
+                     <row left="medium" bottom="medium">
                         <cell>5</cell>
                         <cell>1</cell>
+                        <cell>1</cell>
                      </row>
-                     <row>
-                        <cell>5</cell>
-                     <cell>1</cell>
-                     <cell>1</cell>
-                     </row>
+                     
                      
                   </tabular>
                  </table>
                  <p>
-                  The LCM is <m>2\times 2 \times 2 \times 5 = 20</m>
-               <md>
-                  <mrow> -\frac{1}{4}  =\amp \frac{-5}{20}</mrow>
-                  <mrow> -\frac{3}{5}  =\amp \frac{-12}{20}</mrow>
-               </md>
+                  The LCM is <m>3\times 5 \times = 15</m>
+               You can use a denominator of 15.
+                 </p>
+                 <p>
+               <m>-1\frac{3}{5}</m>
+               = <m>-1\frac{9}{15}</m>
+               <m>-1\frac{2}{3}</m>
+               = <m>-1\frac{10}{15}</m>
+                 </p>
+                 <p>
+                  Now you can compare the numbers.
+                 </p>
+                 <p>Since <m>-1\frac{9}{15}</m>
+               is farther right on the number line, then <m>-1\frac{9}{15}</m>
+               is greater than <m>-1\frac{10}{15}</m>
             </p>
-            <p>
-            So <m>-\frac{1}{4} +(-\frac{3}{5}) = \frac{-5}{20} + (\frac{-12}{20})</m>
-            </p>
-            <p>
-             Now look at the sign of the rational numbers to be added they are the same that is (-) and a positive number times a negative number is a negative one so our answer will be:
-            </p>
-          <p> 
-            So since the signs are the same we will add 1.e <m>\frac{5}{20} + \frac{12}{20} = \frac{17}{20}</m>
-          </p>
-          <p>
-               Lastly, determine the sign of the sum. Since bth addends are negative, the sum will also be negative
+            <image source="/numberline.png">
+               <shortdescription>(numberline)</shortdescription>
+            </image>
+         
+         </solution>
+        </example>
 
-               
-            <m> = -\frac{17}{20}</m>
-         </p>
-            </solution>
-           </example>
-           
-           <p>
-            Subtracting rational numbers with differrent signs.
-               Subtracting a number is the same as adding its opposite
-               For example, 5 – 2 is the same as 5 + (-2)
-              
-               So, you can rewrite a subtraction expression as addition of the opposite. Then, follow the rules for adding rational numbers.
-            </p>
-               <example>
-                  <statement>
-                     <p>
-                      Solve <m>8\frac{3}{5} + (-2.5)</m>
-                     </p>
-                  </statement>
-                  <solution>
-                     <p>
-                        First we write the numbers in the same form. Write <m>8\frac{3}{5}</m> as a decimal i.e <m> (8 \times 5 = 40 + 3 = \frac{43}{5} = 8.6 )</m>
-                     </p>
-                     <p>
-                        Since the signs of the addends are different , so subtract the lesser absolute value from the greater absolute value.
-                     </p>
-                     <p>
-                        So <m>8\frac{3}{5} + (-2.5) = 8.6 -2.5 = 6.1</m> 
-                     </p>
-                     <p>
-                        Since the positive number in our sum is larger than the negative one the sum is positive i.e :
-                        <m>8\frac{3}{5} + (-2.5)</m> = 6.1
-                     </p>
-                  </solution>
-               </example>
-                        
-               <p>
-                 <m> {\color{blue}{\textbf{Ordering rational numbers}}}</m>
-                
-               </p>
-               <p>
-                  <m>\textbf{How do you order rational numbers?}</m>
-                   You can order rational numbers using what you know about comparing rational numbers.
-              </p>
-               <p>
-                 To order rational numbers, follow these steps:
-               </p>
-                <p>
-                1. Write the numbers in the same form. You can write them all as fractions or all as decimals.
-                  
-               </p>
-               <p>
-                2. Compare the numbers. You can use a number line to help you compare the numbers.
-                  
-               </p>
-               <p>
-                3. Write the numbers in order from least to greatest or from greatest to least.
-              </p>
-             <example>
-               <statement>
-                  <p>
-                     Put these rational numbers in order from least to greatest:
-             
-                    <m>\frac{1}{2}, \frac{3}{4}, \frac{1}{3}, \frac{2}{5}</m>
-            
-                  </p>
-               </statement>
-               <solution>
-                  <p>
-                     First, write the numbers in the same form. Write all the numbers as fractions.
-                     <m>\frac{1}{2} = \frac{5}{10}, \frac{3}{4} = \frac{15}{20}, \frac{1}{3} = \frac{10}{30}, \frac{2}{5} = \frac{12}{30}</m>
-                     Now, compare the fractions. 
-                  </p>
-                  <p> 
-                     To compare fractions, look at the denominators and find theit LCM.
-                     The LCM of 10, 20, and 30 is 60.
-                  </p>
-                  <table>
-                     <title></title>
-                     <tabular left="medium" bottom="medium">
-                        <row>
-                           <cell></cell>
-                           <cell>10</cell>
-                           <cell>20</cell>
-                           <cell>30</cell>
-                        </row>
-                        <row>
-                           <cell>2</cell>
-                           <cell>5</cell>
-                           <cell>10</cell>
-                           <cell>15</cell>
-                        </row>
-
-                        <row>
-                           <cell>2</cell>
-                           <cell>5</cell>
-                           <cell>5</cell>
-                           <cell>15</cell>
-                        </row>
-                        <row>
-                           <cell>3</cell>
-                        <cell>5</cell>
-                        <cell>5</cell>
-                        <cell>5</cell>
-                        </row>
-                        <row>
-                           <cell>5</cell>
-                        <cell>1</cell>
-                        <cell>1</cell>
-                        <cell>1</cell>
-                        </row>
-                     </tabular>
-                    </table>
-                    <p>
-                    The LCM is <m>2\times 2 \times 3 \times 5 = 20</m>
-                    <md>
-                       <mrow> \frac{1}{2}  =\amp 30</mrow>
-                       <mrow> \frac{3}{4}  =\amp 45 </mrow>
-                       <mrow> \frac{1}{3} =\amp 20</mrow>
-                       <mrow> \frac{2}{5} =\amp 24 </mrow>
-                    </md>
-                 Now arranging from the least to the greatest we have.
-                  </p>
-                  <p>   
-                   <m>20, 24, 30, 45</m>  
-                  </p>
-                  <p>
-                     THerefore this is the order of the fractions from the least to teh greatest.
-                     <m>\frac{1}{3}, \frac{2}{5}, \frac{1}{2},  \frac{3}{4}</m>
-                  </p>
-               </solution>
-             </example>
-             <example>
-               <statement>
-                  <p>
-                                          
-                     Put these rational numbers in order from least to greatest:
-                     1.9, –<m>\frac{1}{2}, 2.32, 2\frac{3}{10}</m>
-            
-                  </p>
-               </statement>
-               <solution>
-                  <p>
-                     First, find the smallest number. 
-                  </p>   
-                  <p> 
-                     Since negative numbers are always less than positive numbers,
-                     –<m>\frac{1}{2}</m> is the smallest number.
-                  </p>
-                  <p>
-                     Now, you are left with three positive numbers. 
-                  </p>
-                     <p> 
-                  Look at the whole number parts. Since 1 is less than 2, 1.9 comes next.
-
-                  </p>
-                  <p>
-                     
-                     Last, look at the remaining numbers. To compare 2.32 and <m>2\frac{3}{10}</m>
-                  </p>
-                     <p>
-                        write both numbers in the same form. Write <m>2\frac{3}{10}</m>
-                     as a decimal.
-                     </p>
-                     <p>
-                     <m>2\frac{3}{10}</m> = 2.3 Since 2.3 is less than 2.32, <m>2\frac{3}{10}</m> comes next.
-                        
-                     </p>
-                     <p>
-                     That leaves 2.32 as the largest number.
-                        
-                     </p>
-                     <p>
-                     So, these are the rational numbers in order from least to greatest:
-                     </p>
-                     <p>
-                      <m>\frac{1}{2}</m>, 1.9, <m>2\frac{3}{10}</m>,2.32
-                  </p>
-               </solution>
-             </example>
-               <p>
-            Irrational Numbers
-           </p>
-           <p>
+        <p>
+         <m>{\color{blue}{\textbf{Irrational Numbers}}}</m>
+        </p>
+        <p>
             What are irrational numbers?
-            Any number that is not rational is irrational.
-            An irrational number cannot be made by dividing two integers. 
-           </p>
+        </p>   
+          <p>
+            <m> \textbf{Irrational means not rational}</m>. </p>
+            <p>So, to understand irrational numbers, you need to first understand rational numbers.
+            A rational number is a number that can be made by dividing two integers.
+            You can write any rational number as a fraction.
+          </p> 
            <p>
-            
-           Irrational numbers that are written as decimals never terminate and never repeat.
-
-           <m> \sqrt{2}</m>is an irrational number because it cannot be written as a fraction is 1.4142135623
-           <m>\pi</m> is an irrational number because it cannot be written as a fraction but, ​<m>\pi</m> can be wtitten as 3.14159265358…
-           </p>
-           <image>
-            <latex-image label="number-line-1">
-               \begin{tikzpicture}
-                  % Number line
-                  \draw[-&gt;, thick, gray] (-4.5,0) -- (4.5,0);
-                  
-                  % Ticks and labels
-                  \foreach \x in {-4,-3,-2,-1,0,1,2,3,4} {
-                     \draw[thick, gray] (\x,0.1) -- (\x,-0.1);
-                     \node[below, gray] at (\x,-0.15) {\x};
-                  }
-                  
-                  % Plotted points
-                  \filldraw[fill=violet!60!white, draw=violet] (-3.5,0) circle (2.5pt);
-                  \filldraw[fill=violet!60!white, draw=violet] (-2.25,0) circle (2.5pt);
-                  \filldraw[fill=violet!60!white, draw=violet] (-0.1,0) circle (2.5pt);
-                  \filldraw[fill=violet!60!white, draw=violet] (0.8,0) circle (2.5pt);
-                  \filldraw[fill=violet!60!white, draw=violet] (2,0) circle (2.5pt);
-                  \filldraw[fill=violet!60!white, draw=violet] (3.4,0) circle (2.5pt);
-                  
-                  % Point labels
-                  \node[above, violet] at (-3.5,0.15) {$-3\frac{1}{2}$};
-                  \node[above, violet] at (-2.25,0.15) {$-2.25$};
-                  \node[above, violet] at (-0.1,0.15) {$-0.1$};
-                  \node[above, violet] at (0.8,0.15) {$\frac{4}{5}$};
-                  \node[above, violet, font=\bfseries] at (2,0.15) {2};
-                  \node[above, violet] at (3.4,0.15) {3.4};
-                  
-                  % Braces and labels for groupings
-                  \draw[decorate,decoration={brace,amplitude=6pt},thick] (-4.2,0.8) -- (-0.5,0.8) node[midway, yshift=10pt, text=blue, font=\bfseries] {negative numbers};
-                  \draw[decorate,decoration={brace,amplitude=6pt},thick] (0.5,0.8) -- (4.2,0.8) node[midway, yshift=10pt, text=orange!80!black, font=\bfseries] {positive numbers};
-                  
-               \end{tikzpicture}
-            </latex-image>
-           </image>
-           <p>
-            How do you compare rational numbers?
-            When you compare rational numbers, it often helps to use a number line.
-            It can also help to write both numbers in the same form. You can write them both as fractions or as decimals. If the numbers are fractions, you can write them to have a common denominator
-            to make them easier to compare.
-           </p>
-            <example>
-               <statement>
-                  <p>
-                     Compare 0.2 and -0.4
-                  </p>
-               </statement>
-               <solution>
-                  <p>
-                    Since 0.2 is positive and -0.4 is negative, 0.2 is greater than -0.4
-                    .
-                    The number 0.2 is farther right on the number line.
-                  </p>
-                  <image>
-                     <latex-image>
-                        \begin{tikzpicture}
-                        % Scale factor for spacing
-                        \def\scale{5}
-                      
-                        % Draw the number line
-                        \draw[-&gt;, thick] (-0.8*\scale,0) -- (0.8*\scale+0.5,0); 
-                      
-                        % Draw tick marks and labels
-                        \foreach \x in {0.8,0.6,-0.4,-0.2,0,0.2,0.4,0.6,0.8} {
-                          \pgfmathsetmacro{\pos}{\x*\scale}
-                          \draw[shift={(\pos,0)}, thick] (0pt,5pt) -- (0pt,-5pt)
-                            node[below] {\x};
-                        }
-                      
-                        % Mark points -0.4 and 0.2
-                        \filldraw[green!70!black] (-0.4*\scale,0) circle (3pt);
-                        \filldraw[green!70!black] (0.2*\scale,0) circle (3pt);
-                      \end{tikzpicture}
-                      
-                      \vspace{1em}
-                      
-                      So, \(0.2 > -0.4\).
-                     </latex-image>  
-                    </image>
-               </solution>
-            </example>
+            <m>{\color{blue}{\textbf{7}}}</m> is a rational number because it can be written as <m>\frac{7}{1}</m>.
+            3.25 is a rational number because it can be written as <m>\frac{13}{4}</m>
+            1.54 is a rational number because it can be written as <m>\frac{17}{11}</m>
            
-           <example>
-            <statement>
-               <p>
-                  Compare <m>-1\frac{3}{5}</m>
-                  and <m>-1\frac{3}{5}</m>
-               </p>
-                 
-            </statement>
-            <solution>
-               <p>
-                  Since <m>-1\frac{3}{5}</m>
-                  and <m>-1\frac{2}{3}</m>
-                  have unlike denominators, rewrite them to have common denominators by finding the denominators LCM.
-               </p> 
-                  <table>
-                     <title></title>
-                     <tabular>
-                        <row left="medium" bottom="medium">
-                           <cell></cell>
-                           <cell>3</cell>
-                           <cell>5</cell>
-                        </row>
-                        <row left="medium" bottom="medium">
-                           <cell>3</cell>
-                           <cell>1</cell>
-                           <cell>5</cell>
-                        </row >
-                        <row left="medium" bottom="medium">
-                           <cell>5</cell>
-                           <cell>1</cell>
-                           <cell>1</cell>
-                        </row>
-                        
-                        
-                     </tabular>
-                    </table>
-                    <p>
-                     The LCM is <m>3\times 5 \times = 15</m>
-                  You can use a denominator of 15.
-                    </p>
-                    <p>
-                  <m>-1\frac{3}{5}</m>
-                  = <m>-1\frac{9}{15}</m>
-                  <m>-1\frac{2}{3}</m>
-                  = <m>-1\frac{10}{15}</m>
-                    </p>
-                    <p>
-                     Now you can compare the numbers.
-                    </p>
-                    <p>Since <m>-1\frac{9}{15}</m>
-                  is farther right on the number line, then <m>-1\frac{9}{15}</m>
-                  is greater than <m>-1\frac{10}{15}</m>
-               </p>
-               <image source="/numberline.png">
-                  <shortdescription>(numberline)</shortdescription>
-               </image>
-            
-            </solution>
-           </example>
-
-           <p>
-            <m>{\color{blue}{\textbf{Irrational Numbers}}}</m>
+            <m>\textbf{Irrational Numbers}</m> are numbers that are not rational. So, an irrational number is any number that cannot be made by dividing two integers. 
+           </p>
+           <p>Irrational numbers cannot be written as fractions. Irrational numbers written as decimals never terminate and never repeat.
+            ​<m>\pi</m>, the number pi,is an irrational number because it cannot be written as a fraction and it does not terminate or repeat when written as a decimal. ​<m>\pi</m> is 3.1415926535...
+            <m>\textbf{Euler's number}</m>, is an irrational number because it cannot be written as a fraction and it does not terminate or repeat when written as a decimal is 2.7182818284...
+            <m>\textbf{Square roots}</m>
            </p>
            <p>
-               What are irrational numbers?
-           </p>   
-             <p>
-               <m> \textbf{Irrational means not rational}</m>. </p>
-               <p>So, to understand irrational numbers, you need to first understand rational numbers.
-               A rational number is a number that can be made by dividing two integers.
-               You can write any rational number as a fraction.
-             </p> 
-              <p>
-               <m>{\color{blue}{\textbf{7}}}</m> is a rational number because it can be written as <m>\frac{7}{1}</m>.
-               3.25 is a rational number because it can be written as <m>\frac{13}{4}</m>
-               1.54 is a rational number because it can be written as <m>\frac{17}{11}</m>
-              
-               <m>\textbf{Irrational Numbers}</m> are numbers that are not rational. So, an irrational number is any number that cannot be made by dividing two integers. 
-              </p>
-              <p>Irrational numbers cannot be written as fractions. Irrational numbers written as decimals never terminate and never repeat.
-               ​<m>\pi</m>, the number pi,is an irrational number because it cannot be written as a fraction and it does not terminate or repeat when written as a decimal. ​<m>\pi</m> is 3.1415926535...
-               <m>\textbf{Euler's number}</m>, is an irrational number because it cannot be written as a fraction and it does not terminate or repeat when written as a decimal is 2.7182818284...
-               <m>\textbf{Square roots}</m>
-              </p>
-              <p>
-               Many square roots are irrational. <m>\sqrt{2}</m> is an irrational number.<m>\sqrt{40}</m>  is 1.4142135623
-              </p>
-              <p>
-               But, be careful! Not all square roots are irrational. Some square roots are rational.
-               25 is a rational number.25 <m>\sqrt{25}</m> is 5, or<m>\frac{5}{1}</m>
-             </p>
+            Many square roots are irrational. <m>\sqrt{2}</m> is an irrational number.<m>\sqrt{40}</m>  is 1.4142135623
+           </p>
+           <p>
+            But, be careful! Not all square roots are irrational. Some square roots are rational.
+            25 is a rational number.25 <m>\sqrt{25}</m> is 5, or<m>\frac{5}{1}</m>
+          </p>
+
         </subsection>
+
         <subsection xml:id="subsec-place-value">
          <title>Place Value</title>
          <p>

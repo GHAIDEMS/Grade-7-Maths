@@ -3,12 +3,7 @@
 <section xml:id="sec-section-whole-numbers-ch1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Whole Numbers</title>
     <introduction>
-      <p>
-      <m> \textbf{Why study whole numbers? }</m>
-      </p>
-      <p>
-        In our day to day-to-day lives, we use whole numbers to count objects i.e. Diera, a Grade 7 learner will use whole numbers to count her books. If one book is missing, she will notice this from the number of books she currently has.
-      </p>
+      
     </introduction>
     <xi:include href="subsections/whole-numbers/subsec-place-value-of-digits-in-a-number.ptx" />
     <xi:include href="subsections/whole-numbers/subsec-total-value-of-digits-in-a-number.ptx" />
