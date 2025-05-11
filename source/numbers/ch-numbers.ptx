@@ -8,6 +8,9 @@
   </introduction> -->
 
   <!-- include sections -->
+  <xi:include href="./sections/sec-number-and-numeration-systems.ptx" />
+  <xi:include href="./sections/sec-fractions-decimals-and-percentages.ptx" />
+
   <xi:include href="./sections/sec-whole-numbers.ptx" />
   <xi:include href="./sections/sec-factors.ptx" />
   <xi:include href="./sections/sec-fractions.ptx" />

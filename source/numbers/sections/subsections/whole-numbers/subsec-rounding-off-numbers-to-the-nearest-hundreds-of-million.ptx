@@ -3,6 +3,7 @@
       <p>
         To round off a number to the nearest hundreds of millions, we consider the digit in the tens of millions place value. If the digit is less than 5, we maintain the digit in the hundred of million place value and if the digit is <m>5</m> or greater, add one to the digit at the hundred thousand place value.
       </p>
+
       <activity>
       <p>
         
@@ -98,6 +99,26 @@
         </p>
        
       </activity>
+      <p>
+        <m>\textbf{Key Takeaway}</m>
+      </p>
+      <p>
+        Why Do We Use Base-10 Numbers?
+
+          We use base-10 because we have 10 fingers to count with! This system helps us understand place value.
+
+          For example:
+
+              The number 127 means:
+
+                  1 hundred (100)
+
+                  2 tens (20)
+
+                  7 ones (7)
+
+          This helps us add, subtract, and work with big numbers easily.
+      </p>
       <example>
         <statement>
           <p>
