@@ -233,8 +233,10 @@
                         
                     </p>
                     <figure>
-                        <caption></caption>
-                        <interactive xml:id="prime-factors-activity" geogebra="mbysxpbv" width="100%" aspect="13:9" reset-icon="yes" material-width="900px"/>
+                        <caption>combined operations of whole numbers.</caption>
+                            <interactive xml:id="geogebra-prime-factors-ativity" platform="geogebra" width="130%" aspect="1:1">
+                                <slate xml:id="prime-factors-activity" surface="geogebra" material="mbysxpbv" aspect="1:1" />
+                            </interactive>
                     </figure>
                 </statement>
             </task>

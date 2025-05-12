@@ -576,11 +576,11 @@
     </solution>
   </example>
   <figure>
-            <caption>combined operations of whole numbers.</caption>
-                <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
-                    <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
-                </interactive>
-        </figure>
+    <caption>combined operations of whole numbers.</caption>
+        <interactive xml:id="geogebra-combined-wholenumbers" platform="geogebra" width="130%" aspect="1:1">
+            <slate xml:id="operations-combined-numbers" surface="geogebra" material="kustgbua" aspect="1:1" />
+        </interactive>
+</figure>
   <exercise>
     <statement>
       <p>

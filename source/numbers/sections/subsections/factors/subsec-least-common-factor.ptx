@@ -92,8 +92,10 @@
                     Write down what you observed and share with other learner in class.
                 </p>
                 <figure>
-                    <caption></caption>
-                    <interactive xml:id="least-common-multiple-activity" geogebra="z6pjjhkh" width="100%" aspect="7:5" reset-icon="yes" material-width="900px"/>
+                    <caption>combined operations of whole numbers.</caption>
+                        <interactive xml:id="geogebra-least-common-multiple-activity" platform="geogebra" width="130%" aspect="1:1">
+                            <slate xml:id="least-common-multiple-activity" surface="geogebra" material="z6pjjhkh" aspect="1:1" />
+                        </interactive>
                 </figure>
             </statement>
         </task>
