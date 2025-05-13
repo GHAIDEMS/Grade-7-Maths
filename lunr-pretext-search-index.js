@@ -496,11 +496,317 @@ var ptx_lunr_docs = [
   "body": "     "
 },
 {
+  "id": "sec-factors",
+  "level": "1",
+  "url": "sec-factors.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "Factors",
+  "body": " Factors   A factor is a number that can be multiplied to create a specific number in math.  For example, A group of grade students wanted to share cookies equally. To find it out, they looked at the factors of :1,2,3,4,6,8 and 24. They realized they could split the cookies into:      cookies each for the people.     cookies each for the people.     cookies each for the people.     Factors helped them share the cookies fairly among themselves.    Divisibility test for 2  A number is divisible by if the digit in the ones place value is an even number or zero.      Work in groups      Form groups of learners. Each learner should write down a number between and .      Identify which of the numbers have an even number as their last digit.      Identify which of the numbers end with a zero.      Find out which numbers are divisible by       Share your findings with the rest of the class.       Which of the following numbers are divisible by ?       To identify if a number is divisible by , we check if its last digit (the digit in the ones place) is either or an even number .        The last digit of is , which is an even number.  Therefore, is divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is   Therefore, is divisible by      Hence, are divisible by .      An exercise will be set up here for the divisibility test of .      Divisibility test for 3  A number is divisible by if the sum of its digits gives a number that is divisible by .  Esther bought mangoes and needs to divide them amoung her children. She wondered if she can share the mangoes equally amoung her children.  Since adding gives i.e hence is divisible by and Esther will share the mangoes equally among the children.      1. Count the number of blue pens in your class and one of you to write it down.  2. Count also the number of red pens in your class and indicate the number.  3. Find the total number of blue and red pens in the class.  4. Write down the number.  5. Add the digits in that number and identify if the result is divisible by .      Which of the following numbers are divisible by 3?                                  First, we add up all the single digits in the number Now, we check if can be divided by without any remainder  is divisible by hence is divisible by .       is divisible by hence is divisible by        is divisible by hence is divisible by        is not divisible by hence is not divisible by .         An exercise on divisiblity test of 3 will be added here      Divisibility test for 4  A number is divisible by 4 if its digits in the ones and tens place value are both zero or the number formed by the digits in the ones and tens place value is divisible by 4    1. Each student to write a number between and and put it on a table at the center of the class.  2. P lace your math textbooks in the center of the classroom.  3. In turns, pick a number from the table without choosing.  4. Check if the number is divisible by by looking if the digits at the ones and tens place value are both zero or the number formed by the digits in the ones and tens place value is divisible by 4.  5. If the number is divisible by then pick textbooks and remain standing and if the number is not divisible by pass and go take a seat.  6. Share with your fellow learners the numbers that are divisible by .      Which of the following numbers are divisible by ?                                  The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is divisible by hence is divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The last two numbers are zeros hence is divisible by          An exercise for divisibility test of 4 goes here      Divisibility test for 5  A number is divisible by if the digit in the ones place value is or zero.      1. Working in groups of 5, think of numbers between and and select five numbers from the range .  2. Check which of your selected numbers are divisible by and write them down.  3. Look at the last digits of the numbers that are divisible by .  4. What do you notice?  5. Present your observation to the class.      Which of the following numbers are divisible by ?                            To identify the numbers divisible by :  Check the numbers whose digits in the ones place value is either or .   , , are divisible by since the digits in the ones place value is either or zero.      Exercises for divisibility test of will go here.      Divisibility test for 6  A number is divisible by if it is divisible by both and .     1. Working in groups, find mathematical textbook and put it at the table.  2. In turns, each group member to close their eyes and open a page in the textbook.  3. One of the goup members to write down the number pages.  4. Test if the numbers are divisible by that is if the last digit is an even number and also test if the numbers are divisible by that is add the digits and check if the sum is divisible by .  5. If the number is divisible by both and then it is divisble by .  6. Share your group's findings with the class. What did you notice about the numbers divisible by .      Which of the following numbers are divisible by 6?   , ,           First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is divisible by 3.   is divisible by because it is divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is not divisible by 3.   is not divisible by because it is not divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       remainder hence it is not divisible by 3.   is not divisible by because it is not divisible by both          Exercise for divisibility test for 6 goes here      Divisibility test for 8  A number is divisible by if the number formed by the digits in the ones, tens and hundreds place value is divisible by      1. Working in small groups with your classmates, use shoe sizes to generate numbers and write them down.  2. Combine two shoe sizes to create new numbers.  3. Look at the last three digits of the numbers formed and check if these last three digits are divisible by by dividing it by . If it is divisible by it should divide the number without leaving a remainder.  4. Write down whether each combined number is divisible by or not.      Which of the following numbers are divisible by 8?   , ,               is divisible by            is not divisible by            is divisible by       and are divisible by because the numbers formed by the digits in the ones, tens and hundreds place value are divisible by .      Exercise for divisibility test for 8 goes here.      Divisibility test for 9  A number is divisible by if the sum of the digits in the number is divisible by      Here is an example on how to find out if and are divisible by :   is divisible by , so is divisible by .    is not divisible by , so is not divisible by .      1. Working in groups of , each learner to form a 3 digit number using numbers from .  2. Each student to write down their 3-digit number on a piece of paper.  3. Outside the classroom, each group members to line up holding their numbers in the air for everyone to see.  4. Play the shooting game where the first person in the line \"shoots\" (points) at everyone in positions that are multiples of 2 (e.g., 2nd, 4th, 6th,...).  5. Check if the numbers from the students who were shot(were in positions which are multiples of 2) are divisible by 9.  6. Repeat the shooting game but here, the second person in the line shoots everyone in odd positions ( e.g., 1st, 3rd, 5th,...).  7. Check if the numbers obtained from the students in odd positions are divisible by 9.  8. Write down all numbers divisible by 9 from both rounds. Share your results with other groups.  9. Discuss what you realized about the numbers divisible by 9. Were there patterns in the results?      Which of the following numbers are divisible by 9?   , ,                  is not divisible by               is divisible by               is divisible by       and are divisible because the sum of the digits in each number is divisible by       Exercise for divisibility test for 9 goes here      Divisibility test for 10  A number is divisible by if the digit in the place value is zero.      Work in groups      Write down all the years between and .      Identify which years have a zero as the last digit.      Determine which years are divisible by .      Discuss how you can tell if a year is divisible by       Share your findings with other learners in the class.       Which of the following numbers are divisible by ?   , , ,      and are divisible by because their digits in the ones place value is zero.   , are not divisible by because their digits in the ones place value is not zero.      Exercise for divisibility test for 10 goes here.      Divisibility test for 11  To check if a number is divisible by , subtract the sum of the digits in odd positions from the sum of the digits in even positions. If the result is zero or a multiple of , the number is divisible by 11.       Work in groups      Working in groups of learners, each learner to create a 4-digit number using digits from to and writes it on a piece of paper.      In turns, each learner to read out the number they formed for the group to check if it is divisible by .      Write down numbers you found to be divisible by .      Reflect on and discuss the strategy you used to determine if a number is divisible by .      Share your findings with the rest of the class.       Is divisible by ?       First, find the sum of the digits in odd number positions.     Next we find the sum of digits in even positions.       Finding their difference we get:        Since the difference is , then is not divisible by       Exercise for divisibility test for 11 goes here.      Expressing composite numbers as a product of prime factors   Composite numbers are numbers that has more than two factors,meaning it can be divided evenly by numbers other than and itself.  Process of breaking a composite number is prime factorization and prime factorization expresses the number as the product of prime numbers.     Factors of composite numbers  Factors are numbers that can divide a given number without leaving a remainder. Factors are also called divisors.  Tumaini school is planning a sports day and Kamau needs to organize students into equal-sized teams. There are students in his class. Kamau needs factors of to divide the students into equal teams so that no one is left out.  Since the factors of are and . It gives Kamau possible ways to divide the students into equally.    List all the factors of each of the following numbers.                        To determine the factors of , we need to identify all numbers between and that divide exactly, leaving no remainder.  We check the divisibility of each number step by step:      divides exactly: . Therefore, is a factor of .     divides exactly: . Therefore, is a factor of .     does not divide exactly: with a remainder of . Therefore, is not a factor of .     divides exactly: . Therefore, is a factor of .     We continue this process for other numbers to check if they divide without leaving a remainder.  After completing the checks, we find that and all divide exactly.  Therefore, the factors of are and .       Another way to find the factors of a number is by identifying pairs of numbers that, when multiplied together, produce that number. If , then both and are factors of .  To determine the factors of , we find all pairs of numbers whose product equals :            Since we have identified all factor pairs of , we can list its factors as follows:  The factors of are and .         Exercise for Factors goes here.       Prime factors  Let's start by defining what are prime numbers. Prime numbers are positive whole numbers that are greater than 1, that cannot be formed by multiplying two smaller numbers. Examples of prime numbers are   A prime factor is a prime number that can divide a given number without a remainder.  Example in real life:  Okuse, an architect want to design a strong and beautiful classroom. To make sure the classroom is stable, Okuse use blocks of the strongest materials. Now, think of prime numbers as the strongest building block in mathematics such that if we want to know what the number is made of we break it down into it's prime factors.  Start with         Therefore, prime factors of are          Observe the groupings carefully and determine the total number of groupings as well as the number of circles or dots in each group.      Click on the blank boxes provided. Type in the correct factors that multiply to give the number shown. Ensure at least one of the numbers entered is a prime factor.      Once you have entered the factors, click the CHECK button to verify your response.  If your factors are correct, a confirmation message will appear or another prompt will appear for continuation if you haven't exhausted all the prime factors.  If your factors are incorrect, reanalyze the groupings and enter the new factors again.      What did you notice about the clusters of dots?  How did you use the dots to help find the factors?      After completing successfully in finding the factors of the given number , click the NEW PROBLEM button to attempt another visualization.                  Express as a product of its prime factors.    To break down into its prime factors, we need to find which prime numbers multiply together to give us .   Remember: Always start with the smallest prime number (which is ). If the number isn’t divisible by , move to the next prime number ( , then , and so on) until you can’t divide further.  We start with the smallest prime number, which is . Let's divide by : . Since it divides exactly, is our first prime factor.  Next, we take and divide it by again: . It divides exactly, so is our second prime factor.  Now, we take and divide it by once more: . It divides exactly, so is our third prime factor.  Next, we take and divide it by again: . It divides exactly, so is our fourth prime factor.  Finally, we have , which is already a prime number and cannot be divided further.  So, the prime factors of are: .         24     12     6     3     1           Express as a product of its prime factors.    To find the prime factors of , we will use a factor tree. A factor tree helps us break down a composite number into its prime factors step by step.  Here’s how the factor tree for looks:      We start by breaking into and . Then, is broken into and , and finally, is broken into and . Since is a prime number, we stop here.  We can't factor any more, so we have found the prime factors.  Therefore, the product of prime factors of is :       "
+},
+{
+  "id": "subsec-Divisibility-test-for-2-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-2-3",
+  "type": "Activity",
+  "number": "1.2.1",
+  "title": "",
+  "body": "   Work in groups      Form groups of learners. Each learner should write down a number between and .      Identify which of the numbers have an even number as their last digit.      Identify which of the numbers end with a zero.      Find out which numbers are divisible by       Share your findings with the rest of the class.    "
+},
+{
+  "id": "subsec-Divisibility-test-for-2-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-2-4",
+  "type": "Example",
+  "number": "1.2.1",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by ?       To identify if a number is divisible by , we check if its last digit (the digit in the ones place) is either or an even number .        The last digit of is , which is an even number.  Therefore, is divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is   Therefore, is divisible by      Hence, are divisible by .   "
+},
+{
+  "id": "subsec-Divisibility-test-for-2-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-2-5",
+  "type": "Checkpoint",
+  "number": "1.2.2",
+  "title": "",
+  "body": "  An exercise will be set up here for the divisibility test of .   "
+},
+{
+  "id": "subsec-Divisibility-test-of-3-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-of-3-5",
+  "type": "Activity",
+  "number": "1.2.2",
+  "title": "",
+  "body": "    1. Count the number of blue pens in your class and one of you to write it down.  2. Count also the number of red pens in your class and indicate the number.  3. Find the total number of blue and red pens in the class.  4. Write down the number.  5. Add the digits in that number and identify if the result is divisible by .   "
+},
+{
+  "id": "subsec-Divisibility-test-of-3-6",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-of-3-6",
+  "type": "Example",
+  "number": "1.2.3",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by 3?                                  First, we add up all the single digits in the number Now, we check if can be divided by without any remainder  is divisible by hence is divisible by .       is divisible by hence is divisible by        is divisible by hence is divisible by        is not divisible by hence is not divisible by .      "
+},
+{
+  "id": "subsec-Divisibility-test-of-3-7",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-of-3-7",
+  "type": "Checkpoint",
+  "number": "1.2.4",
+  "title": "",
+  "body": "  An exercise on divisiblity test of 3 will be added here   "
+},
+{
+  "id": "subsec-Divisibility-test-for-four-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-four-3",
+  "type": "Activity",
+  "number": "1.2.3",
+  "title": "",
+  "body": "  1. Each student to write a number between and and put it on a table at the center of the class.  2. P lace your math textbooks in the center of the classroom.  3. In turns, pick a number from the table without choosing.  4. Check if the number is divisible by by looking if the digits at the ones and tens place value are both zero or the number formed by the digits in the ones and tens place value is divisible by 4.  5. If the number is divisible by then pick textbooks and remain standing and if the number is not divisible by pass and go take a seat.  6. Share with your fellow learners the numbers that are divisible by .   "
+},
+{
+  "id": "subsec-Divisibility-test-for-four-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-four-4",
+  "type": "Example",
+  "number": "1.2.5",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by ?                                  The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is divisible by hence is divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The last two numbers are zeros hence is divisible by       "
+},
+{
+  "id": "subsec-Divisibility-test-for-four-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-four-5",
+  "type": "Checkpoint",
+  "number": "1.2.6",
+  "title": "",
+  "body": "  An exercise for divisibility test of 4 goes here   "
+},
+{
+  "id": "subsec-divisibility-test-for-5-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-divisibility-test-for-5-3",
+  "type": "Activity",
+  "number": "1.2.4",
+  "title": "",
+  "body": "    1. Working in groups of 5, think of numbers between and and select five numbers from the range .  2. Check which of your selected numbers are divisible by and write them down.  3. Look at the last digits of the numbers that are divisible by .  4. What do you notice?  5. Present your observation to the class.   "
+},
+{
+  "id": "subsec-divisibility-test-for-5-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-divisibility-test-for-5-4",
+  "type": "Example",
+  "number": "1.2.7",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by ?                            To identify the numbers divisible by :  Check the numbers whose digits in the ones place value is either or .   , , are divisible by since the digits in the ones place value is either or zero.   "
+},
+{
+  "id": "subsec-divisibility-test-for-5-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-divisibility-test-for-5-5",
+  "type": "Checkpoint",
+  "number": "1.2.8",
+  "title": "",
+  "body": "  Exercises for divisibility test of will go here.   "
+},
+{
+  "id": "subsec-divisibility-test-for-6-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-divisibility-test-for-6-3",
+  "type": "Activity",
+  "number": "1.2.5",
+  "title": "",
+  "body": "   1. Working in groups, find mathematical textbook and put it at the table.  2. In turns, each group member to close their eyes and open a page in the textbook.  3. One of the goup members to write down the number pages.  4. Test if the numbers are divisible by that is if the last digit is an even number and also test if the numbers are divisible by that is add the digits and check if the sum is divisible by .  5. If the number is divisible by both and then it is divisble by .  6. Share your group's findings with the class. What did you notice about the numbers divisible by .   "
+},
+{
+  "id": "subsec-divisibility-test-for-6-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-divisibility-test-for-6-4",
+  "type": "Example",
+  "number": "1.2.9",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by 6?   , ,           First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is divisible by 3.   is divisible by because it is divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is not divisible by 3.   is not divisible by because it is not divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       remainder hence it is not divisible by 3.   is not divisible by because it is not divisible by both       "
+},
+{
+  "id": "subsec-divisibility-test-for-6-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-divisibility-test-for-6-5",
+  "type": "Checkpoint",
+  "number": "1.2.10",
+  "title": "",
+  "body": "  Exercise for divisibility test for 6 goes here   "
+},
+{
+  "id": "subsec-Divisibility-test-for-8-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-8-3",
+  "type": "Activity",
+  "number": "1.2.6",
+  "title": "",
+  "body": "   1. Working in small groups with your classmates, use shoe sizes to generate numbers and write them down.  2. Combine two shoe sizes to create new numbers.  3. Look at the last three digits of the numbers formed and check if these last three digits are divisible by by dividing it by . If it is divisible by it should divide the number without leaving a remainder.  4. Write down whether each combined number is divisible by or not.   "
+},
+{
+  "id": "subsec-Divisibility-test-for-8-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-8-4",
+  "type": "Example",
+  "number": "1.2.11",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by 8?   , ,               is divisible by            is not divisible by            is divisible by       and are divisible by because the numbers formed by the digits in the ones, tens and hundreds place value are divisible by .   "
+},
+{
+  "id": "subsec-Divisibility-test-for-8-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-8-5",
+  "type": "Checkpoint",
+  "number": "1.2.12",
+  "title": "",
+  "body": "  Exercise for divisibility test for 8 goes here.   "
+},
+{
+  "id": "subsec-Divisibility-test-for-9-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-9-3",
+  "type": "Exploration",
+  "number": "1.2.7",
+  "title": "",
+  "body": "   Here is an example on how to find out if and are divisible by :   is divisible by , so is divisible by .  "
+},
+{
+  "id": "subsec-Divisibility-test-for-9-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-9-5",
+  "type": "Activity",
+  "number": "1.2.8",
+  "title": "",
+  "body": "    1. Working in groups of , each learner to form a 3 digit number using numbers from .  2. Each student to write down their 3-digit number on a piece of paper.  3. Outside the classroom, each group members to line up holding their numbers in the air for everyone to see.  4. Play the shooting game where the first person in the line \"shoots\" (points) at everyone in positions that are multiples of 2 (e.g., 2nd, 4th, 6th,...).  5. Check if the numbers from the students who were shot(were in positions which are multiples of 2) are divisible by 9.  6. Repeat the shooting game but here, the second person in the line shoots everyone in odd positions ( e.g., 1st, 3rd, 5th,...).  7. Check if the numbers obtained from the students in odd positions are divisible by 9.  8. Write down all numbers divisible by 9 from both rounds. Share your results with other groups.  9. Discuss what you realized about the numbers divisible by 9. Were there patterns in the results?   "
+},
+{
+  "id": "subsec-Divisibility-test-for-9-6",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-9-6",
+  "type": "Example",
+  "number": "1.2.13",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by 9?   , ,                  is not divisible by               is divisible by               is divisible by       and are divisible because the sum of the digits in each number is divisible by    "
+},
+{
+  "id": "subsec-Divisibility-test-for-9-7",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-9-7",
+  "type": "Checkpoint",
+  "number": "1.2.14",
+  "title": "",
+  "body": "  Exercise for divisibility test for 9 goes here   "
+},
+{
+  "id": "subsec-Divisibility-test-for-10-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-10-3",
+  "type": "Activity",
+  "number": "1.2.9",
+  "title": "",
+  "body": "   Work in groups      Write down all the years between and .      Identify which years have a zero as the last digit.      Determine which years are divisible by .      Discuss how you can tell if a year is divisible by       Share your findings with other learners in the class.    "
+},
+{
+  "id": "subsec-Divisibility-test-for-10-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-10-4",
+  "type": "Example",
+  "number": "1.2.15",
+  "title": "",
+  "body": "  Which of the following numbers are divisible by ?   , , ,      and are divisible by because their digits in the ones place value is zero.   , are not divisible by because their digits in the ones place value is not zero.   "
+},
+{
+  "id": "subsec-Divisibility-test-for-10-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-10-5",
+  "type": "Checkpoint",
+  "number": "1.2.16",
+  "title": "",
+  "body": "  Exercise for divisibility test for 10 goes here.   "
+},
+{
+  "id": "subsec-Divisibility-test-for-11-3",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-11-3",
+  "type": "Activity",
+  "number": "1.2.10",
+  "title": "",
+  "body": "   Work in groups      Working in groups of learners, each learner to create a 4-digit number using digits from to and writes it on a piece of paper.      In turns, each learner to read out the number they formed for the group to check if it is divisible by .      Write down numbers you found to be divisible by .      Reflect on and discuss the strategy you used to determine if a number is divisible by .      Share your findings with the rest of the class.    "
+},
+{
+  "id": "subsec-Divisibility-test-for-11-4",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-11-4",
+  "type": "Example",
+  "number": "1.2.17",
+  "title": "",
+  "body": "  Is divisible by ?       First, find the sum of the digits in odd number positions.     Next we find the sum of digits in even positions.       Finding their difference we get:        Since the difference is , then is not divisible by    "
+},
+{
+  "id": "subsec-Divisibility-test-for-11-5",
+  "level": "2",
+  "url": "sec-factors.html#subsec-Divisibility-test-for-11-5",
+  "type": "Checkpoint",
+  "number": "1.2.18",
+  "title": "",
+  "body": "  Exercise for divisibility test for 11 goes here.   "
+},
+{
+  "id": "subsubsec-Factors-of-composite-numbers-5",
+  "level": "2",
+  "url": "sec-factors.html#subsubsec-Factors-of-composite-numbers-5",
+  "type": "Example",
+  "number": "1.2.19",
+  "title": "",
+  "body": "  List all the factors of each of the following numbers.                        To determine the factors of , we need to identify all numbers between and that divide exactly, leaving no remainder.  We check the divisibility of each number step by step:      divides exactly: . Therefore, is a factor of .     divides exactly: . Therefore, is a factor of .     does not divide exactly: with a remainder of . Therefore, is not a factor of .     divides exactly: . Therefore, is a factor of .     We continue this process for other numbers to check if they divide without leaving a remainder.  After completing the checks, we find that and all divide exactly.  Therefore, the factors of are and .       Another way to find the factors of a number is by identifying pairs of numbers that, when multiplied together, produce that number. If , then both and are factors of .  To determine the factors of , we find all pairs of numbers whose product equals :            Since we have identified all factor pairs of , we can list its factors as follows:  The factors of are and .      "
+},
+{
+  "id": "subsubsec-Factors-of-composite-numbers-6",
+  "level": "2",
+  "url": "sec-factors.html#subsubsec-Factors-of-composite-numbers-6",
+  "type": "Checkpoint",
+  "number": "1.2.20",
+  "title": "",
+  "body": "  Exercise for Factors goes here.   "
+},
+{
+  "id": "subsubsec-Prime-factors-10",
+  "level": "2",
+  "url": "sec-factors.html#subsubsec-Prime-factors-10",
+  "type": "Activity",
+  "number": "1.2.11",
+  "title": "",
+  "body": "       Observe the groupings carefully and determine the total number of groupings as well as the number of circles or dots in each group.      Click on the blank boxes provided. Type in the correct factors that multiply to give the number shown. Ensure at least one of the numbers entered is a prime factor.      Once you have entered the factors, click the CHECK button to verify your response.  If your factors are correct, a confirmation message will appear or another prompt will appear for continuation if you haven't exhausted all the prime factors.  If your factors are incorrect, reanalyze the groupings and enter the new factors again.      What did you notice about the clusters of dots?  How did you use the dots to help find the factors?      After completing successfully in finding the factors of the given number , click the NEW PROBLEM button to attempt another visualization.              "
+},
+{
+  "id": "subsubsec-Prime-factors-11",
+  "level": "2",
+  "url": "sec-factors.html#subsubsec-Prime-factors-11",
+  "type": "Example",
+  "number": "1.2.22",
+  "title": "",
+  "body": "  Express as a product of its prime factors.    To break down into its prime factors, we need to find which prime numbers multiply together to give us .   Remember: Always start with the smallest prime number (which is ). If the number isn’t divisible by , move to the next prime number ( , then , and so on) until you can’t divide further.  We start with the smallest prime number, which is . Let's divide by : . Since it divides exactly, is our first prime factor.  Next, we take and divide it by again: . It divides exactly, so is our second prime factor.  Now, we take and divide it by once more: . It divides exactly, so is our third prime factor.  Next, we take and divide it by again: . It divides exactly, so is our fourth prime factor.  Finally, we have , which is already a prime number and cannot be divided further.  So, the prime factors of are: .         24     12     6     3     1        "
+},
+{
+  "id": "subsubsec-Prime-factors-12",
+  "level": "2",
+  "url": "sec-factors.html#subsubsec-Prime-factors-12",
+  "type": "Example",
+  "number": "1.2.23",
+  "title": "",
+  "body": "  Express as a product of its prime factors.    To find the prime factors of , we will use a factor tree. A factor tree helps us break down a composite number into its prime factors step by step.  Here’s how the factor tree for looks:      We start by breaking into and . Then, is broken into and , and finally, is broken into and . Since is a prime number, we stop here.  We can't factor any more, so we have found the prime factors.  Therefore, the product of prime factors of is :    "
+},
+{
   "id": "sec-fractions",
   "level": "1",
   "url": "sec-fractions.html",
   "type": "Section",
-  "number": "1.2",
+  "number": "1.3",
   "title": "Fractions",
   "body": " Fractions   Fractions play a key role in our daily lives. For example, Onyimbo, a father of four children, bought an orange for Ksh 50 and wanted to share it equally among his children. To ensure fairness, he first cut the orange into two equal halves. Then, he divided each half into two more equal parts, resulting in four equal pieces. Each child received one piece, showing how fractions help in dividing things equally.    Circle     Circle           Arranging fractions in ascending order  Arranging fractions in ascending order means arranging fractions from smallest to greatest in value.  To arrange fractions in order, we need to make sure they all have the same numerator or the same denominator. This makes it easier to compare them and put them in the correct sequence.  When fractions have the same denominator, the numerators are compared. The greater the numerator, the greater the fraction. Also, when fractions have the same numerators, the denominators are compared. The greater the denominators, the smaller the fraction.     Work in groups      Make circular paper cutouts as the ones shown below.    A circle divided into eight equal parts, with two sections shaded     A circle divided into eight equal parts, with one section shaded     A circle divided into eight equal parts, with five sections shaded     A circle divided into eight equal parts, with four sections shaded     A circle divided into eight equal parts, with three sections shaded         Arrange the circles paper in order, starting with the one that has the smallest colored part and ending with the one that has the largest colored part.      Identify the fractions that correspond to the shaded parts in the ordered sequence of circles.      Share your work with learners in the class.          Arrange the following fractions in ascending order.             We first find the LCM of denominators of the fractions in the given sequence.             3  5  2  1     3  5  1  1     1  5  1  1     1  1  1  1       The LCM of     Create equivalent fractions with a common denominator of . Multiply the numerator and denominator of each fraction by the same value.                  Now, is equivalent to . is equivalent to . is equivalent to . is equivalent to     Arrange the equivalent fractions in ascending order based on their numerator, since we have a common denominator of .     Now, write the corresponding fractions in their original form as per the arranged order above.            Arrange the following fractions in ascending order.          Convert each fraction into a percentage.                    Arrange the percentages from smallest to the largest.     Finally, write the corresponding fractions in the order of the arranged percentages above.  The correct order is          Exercise on arranging fractions in ascending order goes here.      Arranging fractions in descending order     Work in groups   1. Make circular paper cutouts as the ones shown below.                          2. Arrange the circles paper in order, starting with the one that has the largest colored part and ending with the one that has the smallest colored part.  3. Identify the fractions representing the shaded parts in the way you have arranged the colored part from the largest to the smallest colored part.    Descending order means from the largest to the smallest.  To arrange fractions in descending order, rewrite the fractions to have the same denominator.    Arrange the following fractions in descending order.          Find the LCM of     2  3  6  12  24    2  3  2  6  12    2  3  1  3  6    3  3  1  3  3     1  1  1  1       The LCM of     Rewrite the fractions to have a common denominator.                    Arrange the fractions in descending order.               Arrange the following fractions in descending order.          Convert each fraction into a percentage.                    Arrange the percentages in descending order.     Finally, write the corresponding fractions in the order of the arranged percentages above.  The correct order is          Exercise for arranging fractions in descending order.      Adding proper fractions     Work in groups      Make a circular paper cut-out, divide it into 8 equal parts and shade or color it as shown below.          What fraction of the whole circle do the colored parts a and b represent?      Combine together the two colored parts. Which fraction of the whole circle do the combined colored parts represent?       Add:     To add two proper fractions that have different denominators, we find LCM of denominators first.  Now, to find the LCM of , list multiples of and .  Multiples of are   Multiples of are   We can see that, the common multiple is and it is the least common multiple that we have.  Hence, the LCM of is .  Rewrite the fractions as equivalent fractions using the LCM as the common denominator.     Now, since all the denominators are the same, we add the numerators and write the result as the final numerator on top of the common denominator.     finally convert the improper fraction to a mixed fraction.         Exercise for adding proper fractions      Adding mixed fractions  A mixed fraction is a combination of a whole number and a fraction. To add two mixed fractions, we first change them into improper fractions. Before adding these improper fractions, we need to make sure they have the same denominator. When fractions have the same denominators we add the numerators and put the result over the common denominator.     Work in groups   Juma's family was expecting visitors that evening. In preparation, Juma's mother bought kg of meat. Later, his father bought an additional kg of meat to ensure there was enough for everyone. How much meat did they have altogether?  Share your work with other learners in the class.      Work out:     Convert the mixed fractions into improper fractions.          The denominators are different, so we have to find the Least Common Multiple (LCM) of the denominators, i.e., LCM of and  .  With the help of the LCM, we will write their respective equivalent fractions so that they become like fractions.  Multiply the numerator and denominator of by to get , and also multiply the numerator and denominator of by to get .  Now, we have both the fractions with the same denominators, that is, they have been converted to like fractions. So, we can add them, i.e,     Convert the improper fraction to a mixed fraction as,         Exercise for adding mixed fractions goes here.      Subtracting proper fractions         Create a new fraction by clicking the New Fraction Button.      On the top left corner, click on the operation Subtract .      Click on a checkbox to select a challenge - same, or different denominators.      Enter values for A, B, C, and D.      Click Check button.             Work out:     Check the denominators (bottom numbers) of each fraction.  In our fractions the denominators have different numbers this means we are dealing with unlike fraction.  We need to make the denominators the same by finding the LCM of the denominators.  To find the LCM of and , list out the multiples of the two denominators and find the smallest number that is the same between the two.  Multiples of are   Multiples of are   Common multiples are   The least common multiples is   Multiply the numerator by whatever number you needed to multiply the denominator by to change it into the lowest common denominator.  Multiply both the numerator and denominator of by to get . Then, multiply the numerator and denominator of by to get .  Now that the denominators are the same, subtract the numerators just like you would subtract regular whole numbers and maintain the common denominator on the bottom.         Exercise for subtracting proper fractions goes here.      Subtracting mixed fractions     Work in groups      Make the fraction cards like the one shown below.      Pick any fraction card and subtract the fractions.      Share your work with other learners in your class.   Number cards containing operation between twp mixed numbers        Work out:        Convert the mixed fractions into improper fractions.  To convert a mixed number to an improper fraction, the whole number is multiplied by the denominator and the result is added to the numerator of the proper fraction by retaining the denominator.          Subtract the improper fractions     Since the denominators are different, we need to make the denominators same by taking the LCM and multiplying the suitables fractions for both.  The LCM of and is .  So, and   Now, we have common denominators and we proceed to subtract numerators.     Convert the improper fraction to a mixed number.            Exercise for subtacting mixed fractions.      Multiplying a fraction by a whole number     Work in groups   Otuoma, a baker, is excited to surprise his family with three delicious cakes. He eagerly pulls out his recipe book, only to realize he needs to calculate the sugar needed. Each cake, according to the recipe, requires a kg of sugar. Otuoma wonders the total amount of sugar he will need in total?. Can you help Otuoma figure out how much sugar he needs to bake his surprise cakes?  Share your calculations and the amount of sugar you determined with the rest of the class.      Work out:        To multiply a proper fraction by a whole number, multiply the numerator of the fraction by the whole number and retain the same denominator.     We now, convert resulting the improper fraction into a mixed fraction.            Exercise for multiplying a fraction by a whole number goes in here.      Multiplying a proper fraction by a proper fraction         Drag the slider Slide to explore to the right direction and observe what happens to the squares.      Click NEW FRACTIONS button on the bottom right hand side to regenerate new fractions and follow step again.      Discuss with your fellow learners on your observation in this activity.           Work out:     To multiply two fractions, multiply numerators and denominators separately and simplify the resulting fraction to its simplest form.         Multiplying a fraction by a fraction goes in here.      Multiplying a fraction by a mixed number    Work in groups   A delivery lorry set off from Kitale town to Kisumu city, the lorry is transporting fresh farm produce, and the distance between Kiatle and Kisumu is km. The lorry uses litres of fuel per kilometre.  How many litres of fuel does the lorry need for the whole journey?  Share your work with learners in your class.     Work out:        First, we convert to improper fraction.       Multiply the fractions       Simplify the numerator and denominator by dividing through by             Exercise for Multiplying a fraction by a mixed number goes in here      Reciprocal of fractions  The reciprocal of a fraction is obtained by interchanging the numerator and the denominator. The product of a fraction and its reciprocal is   In general, the reciprocal of a fraction is written as where . For example, the reciprocal of is   We can also find the reciprocal of fraction by dividing 1 by the fraction.     Work in groups      Form groups of at least five learners.      Cut out small pieces of paper, each labeled with a unique number from to .      Fold the papers so the numbers are hidden. One learner in the group should shuffle them.      This is a two-player game where players take turns picking a folded paper until all are taken.      The first player randomly picks a paper, reveals the number written on it, and keep it aside.      The second player does the same, picking a paper, revealing the number, and keep it aside.      Write a fraction using the first player’s number as the numerator and the second player’s number as the denominator.      Now, write another fraction by swapping the positions use the second player’s number as the numerator and the first player’s number as the denominator.      Multiply the two fractions and observe the result.      Discuss with your classmates what you notice about the fractions and their product.       What is the reciprocal of ?    To get the reciprocal of , we swap the numerator and the denominator.     Therefore, the reciprocal of       What is the reciprocal of ?       Convert into an improper fraction.       Swap the numerator and the denominator.     Therefore, the reciprocal of          Exercise for Reciprocal of fractions goes here.      Division of a fraction by a whole number         Use the blue slider labeled Numerator to set the top number of the fraction.      Use the blue slider labeled Denominator to set the top number of the fraction.      Use the red slider labeled Divisor to select the whole number by which the fraction will be divided.      Click the Calculate button to see the visualization result of the fraction division.      Observe how dividing a fraction by a whole number affects the fraction.      Click the Reset button to clear the settings and start a new calculation.  Try different numerators, denominators, and divisors to explore different cases.         When dividing a fraction by a whole number, multiply the fraction by the reciprocal of the whole.    Work out:        First, we have to find the reciprocal of the divisor.  In this case, our divisor is , which is a whole number and we can express as   Then, find the reciprocal of by swapping the numerator and denominator to get     Multiply by and simplify the result.            Exercise for Division of a fraction by a whole number      Division of a proper fraction by a proper fraction  Division of proper fractions is similar to multiplication. We change division sign to multiplication sign and we multiply the first proper fraction by the reciprocal of the second proper fraction.     Work in groups   1. Cut out a circular shape and divide the circle into equal parts using a ruler and pencil. Shade the parts to match the coloring in the provided example.      2. What fraction of the whole does the shaded part a and b represent?  3. How many times does the smaller part a fit into the larger part b ?  4. Share your work with other learners in class.      Work out:        Find the reciprocal of the divisor.  The reciprocal of is     Multiply             Exercise for division of a fraction by a fraction goes here      Division of a fraction by a mixed number      Amina is a baker in Umoja Market. She has kilograms of flour to bake muffins.     How many muffins can she bake if each muffin requires kilograms of flour?      Share your work with other learners in your class.       Work out:        Convert into an improper fraction.       Find the reciprocal of by interchanging the numerator and denominator.  The reciprocal of is .    Multiply by         Simplify the fraction:            Exercise for Division of a fraction by a mixed number goes in here.      Division of a whole number by a fraction  When dividing a whole number by a fraction, we are finding how many groups of the fraction can fit in the whole number. To make this easier, instead of dividing, we multiply the whole number by the reciprocal of the fraction. For example, if we divide by , we multiply by (the reciprocal of ), which is .         Drag the Whole Number slider to select the whole number being divided.      Drag the Denominator slider to set the denominator of the fraction divisor.      Discuss your observaation with learners in class.      Repeat the process using a different whole number and a new denominator for the fraction.            Work out:        Convert the whole number to a fraction. To do this, make the whole number the numerator of a fraction. Make the denominator .     Find the reciprocal of the divisor, that is .  To find the reciprocal of a fraction, reverse the numerator and denominator. The reciprocal of is     Multiply by .  To multiply fractions, first multiply the numerators together. Then, multiply the denominators together.            Evaluate:        Convert the mixed number to an improper fraction.       Find the reciprocal of by interchanging the numerator and denominator.  The reciprocal of is   Convert the whole number to a fraction.     Now, multiply by      To multiply fractions, first multiply the numerators together. Then, multiply the denominators together.            Exercise for Division of a whole number by a fraction goes in here.      Number sequence involving fractions     Work in groups      Look at the sticks below. Each stick has blue circles and green circle.         Count the number of green circles in each stick.      Count the number of blue circles in each stick.      Express the number of green circles as numerator of the fraction and the number of blue circles as the denominator of the fraction in each stick.      Analyze the pattern in the fractions you have formed and discuss any relationships or trends you observe.       Find the next fraction in the sequence.          Identify the pattern  Observing the denominators, we see that they are squares of consecutive numbers:     Thus, the denominators follow the sequence:   Observing the numerators, we see that they are squares of consecutive numbers:     Thus, the numerators follow the sequence:     We find the next numerator  Since the numerators follow the squares of consecutive natural numbers, the next numerator will be and   So, the next numerator will be   We find the next denominator  Since the denominators follow the squares of consecutive natural numbers, the next number will be and   So, the next denominator will be     Therefore, the next fraction will have a numerator of and a denominator of :   The sequence is          Exercise on Number sequence involving fractions goes in here.      Creating number sequences involving fractions     Work in groups      Starting at , create an increasing sequence consisting of 5 terms.      Write down each term in your sequence as a fraction and explain how you determined the next term.      Compare your sequence with those of other groups. What similarities or differences do you notice?       Create an addition sequence of four fractions starting from     Since the question allows the freedom to choose any fraction to add to the starting fraction, we have chosen for this sequence.  Here, we begin with and repeatedly add to determine the next term in the sequence.     The sequence is       Exercise on Creating number sequences involving fractions     "
 },
@@ -509,7 +815,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-ascending-order-5",
   "type": "Activity",
-  "number": "1.2.1",
+  "number": "1.3.1",
   "title": "",
   "body": "   Work in groups      Make circular paper cutouts as the ones shown below.    A circle divided into eight equal parts, with two sections shaded     A circle divided into eight equal parts, with one section shaded     A circle divided into eight equal parts, with five sections shaded     A circle divided into eight equal parts, with four sections shaded     A circle divided into eight equal parts, with three sections shaded         Arrange the circles paper in order, starting with the one that has the smallest colored part and ending with the one that has the largest colored part.      Identify the fractions that correspond to the shaded parts in the ordered sequence of circles.      Share your work with learners in the class.    "
 },
@@ -518,7 +824,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-ascending-order-6",
   "type": "Example",
-  "number": "1.2.1",
+  "number": "1.3.1",
   "title": "",
   "body": "     Arrange the following fractions in ascending order.             We first find the LCM of denominators of the fractions in the given sequence.             3  5  2  1     3  5  1  1     1  5  1  1     1  1  1  1       The LCM of     Create equivalent fractions with a common denominator of . Multiply the numerator and denominator of each fraction by the same value.                  Now, is equivalent to . is equivalent to . is equivalent to . is equivalent to     Arrange the equivalent fractions in ascending order based on their numerator, since we have a common denominator of .     Now, write the corresponding fractions in their original form as per the arranged order above.         "
 },
@@ -527,7 +833,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-ascending-order-7",
   "type": "Example",
-  "number": "1.2.2",
+  "number": "1.3.2",
   "title": "",
   "body": "  Arrange the following fractions in ascending order.          Convert each fraction into a percentage.                    Arrange the percentages from smallest to the largest.     Finally, write the corresponding fractions in the order of the arranged percentages above.  The correct order is       "
 },
@@ -536,7 +842,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-ascending-order-8",
   "type": "Checkpoint",
-  "number": "1.2.3",
+  "number": "1.3.3",
   "title": "",
   "body": "  Exercise on arranging fractions in ascending order goes here.   "
 },
@@ -545,7 +851,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-descending-order-2",
   "type": "Activity",
-  "number": "1.2.2",
+  "number": "1.3.2",
   "title": "",
   "body": "   Work in groups   1. Make circular paper cutouts as the ones shown below.                          2. Arrange the circles paper in order, starting with the one that has the largest colored part and ending with the one that has the smallest colored part.  3. Identify the fractions representing the shaded parts in the way you have arranged the colored part from the largest to the smallest colored part.   "
 },
@@ -554,7 +860,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-descending-order-5",
   "type": "Example",
-  "number": "1.2.4",
+  "number": "1.3.4",
   "title": "",
   "body": "  Arrange the following fractions in descending order.          Find the LCM of     2  3  6  12  24    2  3  2  6  12    2  3  1  3  6    3  3  1  3  3     1  1  1  1       The LCM of     Rewrite the fractions to have a common denominator.                    Arrange the fractions in descending order.            "
 },
@@ -563,7 +869,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-descending-order-6",
   "type": "Example",
-  "number": "1.2.5",
+  "number": "1.3.5",
   "title": "",
   "body": "  Arrange the following fractions in descending order.          Convert each fraction into a percentage.                    Arrange the percentages in descending order.     Finally, write the corresponding fractions in the order of the arranged percentages above.  The correct order is       "
 },
@@ -572,7 +878,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Arranging-fractions-in-descending-order-7",
   "type": "Checkpoint",
-  "number": "1.2.6",
+  "number": "1.3.6",
   "title": "",
   "body": "  Exercise for arranging fractions in descending order.   "
 },
@@ -581,7 +887,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Adding-proper-fractions-2",
   "type": "Activity",
-  "number": "1.2.3",
+  "number": "1.3.3",
   "title": "",
   "body": "   Work in groups      Make a circular paper cut-out, divide it into 8 equal parts and shade or color it as shown below.          What fraction of the whole circle do the colored parts a and b represent?      Combine together the two colored parts. Which fraction of the whole circle do the combined colored parts represent?    "
 },
@@ -590,7 +896,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Adding-proper-fractions-3",
   "type": "Example",
-  "number": "1.2.7",
+  "number": "1.3.7",
   "title": "",
   "body": "  Add:     To add two proper fractions that have different denominators, we find LCM of denominators first.  Now, to find the LCM of , list multiples of and .  Multiples of are   Multiples of are   We can see that, the common multiple is and it is the least common multiple that we have.  Hence, the LCM of is .  Rewrite the fractions as equivalent fractions using the LCM as the common denominator.     Now, since all the denominators are the same, we add the numerators and write the result as the final numerator on top of the common denominator.     finally convert the improper fraction to a mixed fraction.      "
 },
@@ -599,7 +905,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Adding-proper-fractions-4",
   "type": "Checkpoint",
-  "number": "1.2.8",
+  "number": "1.3.8",
   "title": "",
   "body": "  Exercise for adding proper fractions   "
 },
@@ -608,7 +914,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Adding-mixed-fractions-3",
   "type": "Activity",
-  "number": "1.2.4",
+  "number": "1.3.4",
   "title": "",
   "body": "   Work in groups   Juma's family was expecting visitors that evening. In preparation, Juma's mother bought kg of meat. Later, his father bought an additional kg of meat to ensure there was enough for everyone. How much meat did they have altogether?  Share your work with other learners in the class.   "
 },
@@ -617,7 +923,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Adding-mixed-fractions-4",
   "type": "Example",
-  "number": "1.2.9",
+  "number": "1.3.9",
   "title": "",
   "body": "  Work out:     Convert the mixed fractions into improper fractions.          The denominators are different, so we have to find the Least Common Multiple (LCM) of the denominators, i.e., LCM of and  .  With the help of the LCM, we will write their respective equivalent fractions so that they become like fractions.  Multiply the numerator and denominator of by to get , and also multiply the numerator and denominator of by to get .  Now, we have both the fractions with the same denominators, that is, they have been converted to like fractions. So, we can add them, i.e,     Convert the improper fraction to a mixed fraction as,      "
 },
@@ -626,7 +932,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Adding-mixed-fractions-5",
   "type": "Checkpoint",
-  "number": "1.2.10",
+  "number": "1.3.10",
   "title": "",
   "body": "  Exercise for adding mixed fractions goes here.   "
 },
@@ -635,7 +941,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Subtracting-proper-fractions-2",
   "type": "Activity",
-  "number": "1.2.5",
+  "number": "1.3.5",
   "title": "",
   "body": "       Create a new fraction by clicking the New Fraction Button.      On the top left corner, click on the operation Subtract .      Click on a checkbox to select a challenge - same, or different denominators.      Enter values for A, B, C, and D.      Click Check button.          "
 },
@@ -644,7 +950,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Subtracting-proper-fractions-3",
   "type": "Example",
-  "number": "1.2.12",
+  "number": "1.3.12",
   "title": "",
   "body": "  Work out:     Check the denominators (bottom numbers) of each fraction.  In our fractions the denominators have different numbers this means we are dealing with unlike fraction.  We need to make the denominators the same by finding the LCM of the denominators.  To find the LCM of and , list out the multiples of the two denominators and find the smallest number that is the same between the two.  Multiples of are   Multiples of are   Common multiples are   The least common multiples is   Multiply the numerator by whatever number you needed to multiply the denominator by to change it into the lowest common denominator.  Multiply both the numerator and denominator of by to get . Then, multiply the numerator and denominator of by to get .  Now that the denominators are the same, subtract the numerators just like you would subtract regular whole numbers and maintain the common denominator on the bottom.      "
 },
@@ -653,7 +959,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Subtracting-proper-fractions-4",
   "type": "Checkpoint",
-  "number": "1.2.13",
+  "number": "1.3.13",
   "title": "",
   "body": "  Exercise for subtracting proper fractions goes here.   "
 },
@@ -662,7 +968,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Subtracting-mixed-fractions-2",
   "type": "Activity",
-  "number": "1.2.6",
+  "number": "1.3.6",
   "title": "",
   "body": "   Work in groups      Make the fraction cards like the one shown below.      Pick any fraction card and subtract the fractions.      Share your work with other learners in your class.   Number cards containing operation between twp mixed numbers     "
 },
@@ -671,7 +977,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Subtracting-mixed-fractions-3",
   "type": "Example",
-  "number": "1.2.14",
+  "number": "1.3.14",
   "title": "",
   "body": "  Work out:        Convert the mixed fractions into improper fractions.  To convert a mixed number to an improper fraction, the whole number is multiplied by the denominator and the result is added to the numerator of the proper fraction by retaining the denominator.          Subtract the improper fractions     Since the denominators are different, we need to make the denominators same by taking the LCM and multiplying the suitables fractions for both.  The LCM of and is .  So, and   Now, we have common denominators and we proceed to subtract numerators.     Convert the improper fraction to a mixed number.         "
 },
@@ -680,7 +986,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Subtracting-mixed-fractions-4",
   "type": "Checkpoint",
-  "number": "1.2.15",
+  "number": "1.3.15",
   "title": "",
   "body": "  Exercise for subtacting mixed fractions.   "
 },
@@ -689,7 +995,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-whole-number-2",
   "type": "Activity",
-  "number": "1.2.7",
+  "number": "1.3.7",
   "title": "",
   "body": "   Work in groups   Otuoma, a baker, is excited to surprise his family with three delicious cakes. He eagerly pulls out his recipe book, only to realize he needs to calculate the sugar needed. Each cake, according to the recipe, requires a kg of sugar. Otuoma wonders the total amount of sugar he will need in total?. Can you help Otuoma figure out how much sugar he needs to bake his surprise cakes?  Share your calculations and the amount of sugar you determined with the rest of the class.   "
 },
@@ -698,7 +1004,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-whole-number-3",
   "type": "Example",
-  "number": "1.2.16",
+  "number": "1.3.16",
   "title": "",
   "body": "  Work out:        To multiply a proper fraction by a whole number, multiply the numerator of the fraction by the whole number and retain the same denominator.     We now, convert resulting the improper fraction into a mixed fraction.         "
 },
@@ -707,7 +1013,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-whole-number-4",
   "type": "Checkpoint",
-  "number": "1.2.17",
+  "number": "1.3.17",
   "title": "",
   "body": "  Exercise for multiplying a fraction by a whole number goes in here.   "
 },
@@ -716,7 +1022,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-fraction-2",
   "type": "Activity",
-  "number": "1.2.8",
+  "number": "1.3.8",
   "title": "",
   "body": "       Drag the slider Slide to explore to the right direction and observe what happens to the squares.      Click NEW FRACTIONS button on the bottom right hand side to regenerate new fractions and follow step again.      Discuss with your fellow learners on your observation in this activity.        "
 },
@@ -725,7 +1031,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-fraction-3",
   "type": "Example",
-  "number": "1.2.19",
+  "number": "1.3.19",
   "title": "",
   "body": "  Work out:     To multiply two fractions, multiply numerators and denominators separately and simplify the resulting fraction to its simplest form.      "
 },
@@ -734,7 +1040,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-fraction-4",
   "type": "Checkpoint",
-  "number": "1.2.20",
+  "number": "1.3.20",
   "title": "",
   "body": "  Multiplying a fraction by a fraction goes in here.   "
 },
@@ -743,7 +1049,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-mixed-number-2",
   "type": "Activity",
-  "number": "1.2.9",
+  "number": "1.3.9",
   "title": "",
   "body": "  Work in groups   A delivery lorry set off from Kitale town to Kisumu city, the lorry is transporting fresh farm produce, and the distance between Kiatle and Kisumu is km. The lorry uses litres of fuel per kilometre.  How many litres of fuel does the lorry need for the whole journey?  Share your work with learners in your class.  "
 },
@@ -752,7 +1058,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-mixed-number-3",
   "type": "Example",
-  "number": "1.2.21",
+  "number": "1.3.21",
   "title": "",
   "body": "  Work out:        First, we convert to improper fraction.       Multiply the fractions       Simplify the numerator and denominator by dividing through by          "
 },
@@ -761,7 +1067,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Multiplying-a-fraction-by-a-mixed-number-4",
   "type": "Checkpoint",
-  "number": "1.2.22",
+  "number": "1.3.22",
   "title": "",
   "body": "  Exercise for Multiplying a fraction by a mixed number goes in here   "
 },
@@ -770,7 +1076,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Reciprocal-of-fractions-5",
   "type": "Activity",
-  "number": "1.2.10",
+  "number": "1.3.10",
   "title": "",
   "body": "   Work in groups      Form groups of at least five learners.      Cut out small pieces of paper, each labeled with a unique number from to .      Fold the papers so the numbers are hidden. One learner in the group should shuffle them.      This is a two-player game where players take turns picking a folded paper until all are taken.      The first player randomly picks a paper, reveals the number written on it, and keep it aside.      The second player does the same, picking a paper, revealing the number, and keep it aside.      Write a fraction using the first player’s number as the numerator and the second player’s number as the denominator.      Now, write another fraction by swapping the positions use the second player’s number as the numerator and the first player’s number as the denominator.      Multiply the two fractions and observe the result.      Discuss with your classmates what you notice about the fractions and their product.    "
 },
@@ -779,7 +1085,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Reciprocal-of-fractions-6",
   "type": "Example",
-  "number": "1.2.23",
+  "number": "1.3.23",
   "title": "",
   "body": "  What is the reciprocal of ?    To get the reciprocal of , we swap the numerator and the denominator.     Therefore, the reciprocal of    "
 },
@@ -788,7 +1094,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Reciprocal-of-fractions-7",
   "type": "Example",
-  "number": "1.2.24",
+  "number": "1.3.24",
   "title": "",
   "body": "  What is the reciprocal of ?       Convert into an improper fraction.       Swap the numerator and the denominator.     Therefore, the reciprocal of       "
 },
@@ -797,7 +1103,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Reciprocal-of-fractions-8",
   "type": "Checkpoint",
-  "number": "1.2.25",
+  "number": "1.3.25",
   "title": "",
   "body": "  Exercise for Reciprocal of fractions goes here.   "
 },
@@ -806,7 +1112,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-whole-number-2",
   "type": "Activity",
-  "number": "1.2.11",
+  "number": "1.3.11",
   "title": "",
   "body": "       Use the blue slider labeled Numerator to set the top number of the fraction.      Use the blue slider labeled Denominator to set the top number of the fraction.      Use the red slider labeled Divisor to select the whole number by which the fraction will be divided.      Click the Calculate button to see the visualization result of the fraction division.      Observe how dividing a fraction by a whole number affects the fraction.      Click the Reset button to clear the settings and start a new calculation.  Try different numerators, denominators, and divisors to explore different cases.        "
 },
@@ -815,7 +1121,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-whole-number-4",
   "type": "Example",
-  "number": "1.2.27",
+  "number": "1.3.27",
   "title": "",
   "body": "  Work out:        First, we have to find the reciprocal of the divisor.  In this case, our divisor is , which is a whole number and we can express as   Then, find the reciprocal of by swapping the numerator and denominator to get     Multiply by and simplify the result.         "
 },
@@ -824,7 +1130,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-whole-number-5",
   "type": "Checkpoint",
-  "number": "1.2.28",
+  "number": "1.3.28",
   "title": "",
   "body": "  Exercise for Division of a fraction by a whole number   "
 },
@@ -833,7 +1139,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-fraction-3",
   "type": "Activity",
-  "number": "1.2.12",
+  "number": "1.3.12",
   "title": "",
   "body": "   Work in groups   1. Cut out a circular shape and divide the circle into equal parts using a ruler and pencil. Shade the parts to match the coloring in the provided example.      2. What fraction of the whole does the shaded part a and b represent?  3. How many times does the smaller part a fit into the larger part b ?  4. Share your work with other learners in class.   "
 },
@@ -842,7 +1148,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-fraction-4",
   "type": "Example",
-  "number": "1.2.29",
+  "number": "1.3.29",
   "title": "",
   "body": "  Work out:        Find the reciprocal of the divisor.  The reciprocal of is     Multiply          "
 },
@@ -851,7 +1157,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-fraction-5",
   "type": "Checkpoint",
-  "number": "1.2.30",
+  "number": "1.3.30",
   "title": "",
   "body": "  Exercise for division of a fraction by a fraction goes here   "
 },
@@ -860,7 +1166,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-mixed-number-2",
   "type": "Activity",
-  "number": "1.2.13",
+  "number": "1.3.13",
   "title": "",
   "body": "    Amina is a baker in Umoja Market. She has kilograms of flour to bake muffins.     How many muffins can she bake if each muffin requires kilograms of flour?      Share your work with other learners in your class.    "
 },
@@ -869,7 +1175,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-mixed-number-3",
   "type": "Example",
-  "number": "1.2.31",
+  "number": "1.3.31",
   "title": "",
   "body": "  Work out:        Convert into an improper fraction.       Find the reciprocal of by interchanging the numerator and denominator.  The reciprocal of is .    Multiply by         Simplify the fraction:         "
 },
@@ -878,7 +1184,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-fraction-by-a-mixed-number-4",
   "type": "Checkpoint",
-  "number": "1.2.32",
+  "number": "1.3.32",
   "title": "",
   "body": "  Exercise for Division of a fraction by a mixed number goes in here.   "
 },
@@ -887,7 +1193,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-whole-number-by-a-fraction-3",
   "type": "Activity",
-  "number": "1.2.14",
+  "number": "1.3.14",
   "title": "",
   "body": "       Drag the Whole Number slider to select the whole number being divided.      Drag the Denominator slider to set the denominator of the fraction divisor.      Discuss your observaation with learners in class.      Repeat the process using a different whole number and a new denominator for the fraction.        "
 },
@@ -896,7 +1202,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-whole-number-by-a-fraction-4",
   "type": "Example",
-  "number": "1.2.34",
+  "number": "1.3.34",
   "title": "",
   "body": "  Work out:        Convert the whole number to a fraction. To do this, make the whole number the numerator of a fraction. Make the denominator .     Find the reciprocal of the divisor, that is .  To find the reciprocal of a fraction, reverse the numerator and denominator. The reciprocal of is     Multiply by .  To multiply fractions, first multiply the numerators together. Then, multiply the denominators together.         "
 },
@@ -905,7 +1211,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-whole-number-by-a-fraction-5",
   "type": "Example",
-  "number": "1.2.35",
+  "number": "1.3.35",
   "title": "",
   "body": "  Evaluate:        Convert the mixed number to an improper fraction.       Find the reciprocal of by interchanging the numerator and denominator.  The reciprocal of is   Convert the whole number to a fraction.     Now, multiply by      To multiply fractions, first multiply the numerators together. Then, multiply the denominators together.         "
 },
@@ -914,7 +1220,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Division-of-a-whole-number-by-a-fraction-6",
   "type": "Checkpoint",
-  "number": "1.2.36",
+  "number": "1.3.36",
   "title": "",
   "body": "  Exercise for Division of a whole number by a fraction goes in here.   "
 },
@@ -923,7 +1229,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Number-sequence-involving-fractions-2",
   "type": "Activity",
-  "number": "1.2.15",
+  "number": "1.3.15",
   "title": "",
   "body": "   Work in groups      Look at the sticks below. Each stick has blue circles and green circle.         Count the number of green circles in each stick.      Count the number of blue circles in each stick.      Express the number of green circles as numerator of the fraction and the number of blue circles as the denominator of the fraction in each stick.      Analyze the pattern in the fractions you have formed and discuss any relationships or trends you observe.    "
 },
@@ -932,7 +1238,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Number-sequence-involving-fractions-3",
   "type": "Example",
-  "number": "1.2.37",
+  "number": "1.3.37",
   "title": "",
   "body": "  Find the next fraction in the sequence.          Identify the pattern  Observing the denominators, we see that they are squares of consecutive numbers:     Thus, the denominators follow the sequence:   Observing the numerators, we see that they are squares of consecutive numbers:     Thus, the numerators follow the sequence:     We find the next numerator  Since the numerators follow the squares of consecutive natural numbers, the next numerator will be and   So, the next numerator will be   We find the next denominator  Since the denominators follow the squares of consecutive natural numbers, the next number will be and   So, the next denominator will be     Therefore, the next fraction will have a numerator of and a denominator of :   The sequence is       "
 },
@@ -941,7 +1247,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Number-sequence-involving-fractions-4",
   "type": "Checkpoint",
-  "number": "1.2.38",
+  "number": "1.3.38",
   "title": "",
   "body": "  Exercise on Number sequence involving fractions goes in here.   "
 },
@@ -950,7 +1256,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Creating-number-sequences-involving-fractions-2",
   "type": "Activity",
-  "number": "1.2.16",
+  "number": "1.3.16",
   "title": "",
   "body": "   Work in groups      Starting at , create an increasing sequence consisting of 5 terms.      Write down each term in your sequence as a fraction and explain how you determined the next term.      Compare your sequence with those of other groups. What similarities or differences do you notice?    "
 },
@@ -959,7 +1265,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Creating-number-sequences-involving-fractions-3",
   "type": "Example",
-  "number": "1.2.39",
+  "number": "1.3.39",
   "title": "",
   "body": "  Create an addition sequence of four fractions starting from     Since the question allows the freedom to choose any fraction to add to the starting fraction, we have chosen for this sequence.  Here, we begin with and repeatedly add to determine the next term in the sequence.     The sequence is    "
 },
@@ -968,7 +1274,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-fractions.html#subsec-Creating-number-sequences-involving-fractions-4",
   "type": "Checkpoint",
-  "number": "1.2.40",
+  "number": "1.3.40",
   "title": "",
   "body": "  Exercise on Creating number sequences involving fractions   "
 },
@@ -977,7 +1283,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-decimals.html",
   "type": "Section",
-  "number": "1.3",
+  "number": "1.4",
   "title": "Decimals",
   "body": " Decimals   Murunga a grade student carries a bag weighing . He can convert the mass of his bag to kg i.e . Murunga used decimals to identify the mass of his bag in kg.    An example of a decimal number is . The whole number part is 3,the decimal part is 0.75 which represents 75 hundredths.      Place value of digits in decimals  Place value of digits in a decimal number refers to the position of each digit in a decimal number, which determines its value. As we move to the right of the decimal point, each place value is 10 times smaller than the one before it.      1. Working in groups of five, write down each odd number from on a different piece of paper.  2. Draw a place value chart similar to the one below.    Number  Ones  Decimal point  Tenths  Hundredths  Thousandths  Ten thousandths                                                 3. Shuffle the pieces of paper and in turns, each learner in the group to pick a piece of paper and form a number using the digits on the pieces of paper.  4. Divide the number formed by the place value of the first digit in the that number. Example: the number formed is then the place value of is tens of thousands hence .  5. Write the decimal number in the place value chart as shown below and identify place values of each digit.    Number  Ones  Decimal point  Tenths  Hundredths  Thousandths  Ten thousandths                                                 6. Discuss and compare your results with fellow learners.      Use a place value chart to identify and write the place value of each digit in the following numbers.                       Draw a place value chart and represent the numbers as below.    Number  Hundreds  Tens  Ones  Decimal point  Tenths  Hundredths  Thousandths  Ten thousandths  Hundred thousandths                                            Exercise for place value of digits in decimals goes in here.      Total value of digits in decimals  The total value of digits in a decimal is found by multiplying each digit by its place value and summing the results.  The place value decreases in powers of 10 as you move right of the decimal point.  For example, in , the total value is: each digit multiplied by its place value as below         In a school race , Tula run 2.45 km—that is 2 full kilometers, 400 meters (4 tenths of a km), and 50 meters (5 hundredths of a km). We use total value of digits in a decimal to identify the distance Talu ran that could not form a whole number.          1. Working in groups, think of a number that has decimal points i.e and in turns write it down.  2. Discuss the chosen decimal numbers with fellow group members.  3. Draw a place value chart and write the decimal numbers on the chart.  4. Identify the place value of each digit on the chart then identify the total value of each digits.  5. With your fellow learners, discuss how to identify the total value of digits in a decimal number.      What is the total value of each digit in the number       Number  PLace value  Total value     Tens      Ones     .       Tenths      Hundredths      Thousandths      Ten thousandths      Hundred thousandths         Exercise for Total value of digits in decimals goes in here.      Multiplying decimals by a whole number   Akinyi has a bottle of juice she prepared for her friends. She pours 0.4 liters of juice into each of the glasses she had and realized all the glasses was filled without any juice remaining in the bottle. We can find out the total amount of juice Akinyi had by applying multiplication of decimals. To find how much juice Akinyi had we multiply the amount amount of juice in each glass with the number of glasses i.e               1. Measure the length and width of your classroom in cm using a meter ruler and write it down.  2. Discuss the measurement of one side of your classroom and convert the measurement to i.e .  3. Multiply the length and width in by the number of sides in your classroom. What do you get?  4. How many classrooms do you have in your school?  5. Suppose all the classrooms has same lengths and widths, determine the total measurement of both length and width of classrooms in your school.  6. How did you determine the total measurement of length and width of classrooms in the school?      Work out:                            When you multiply a decimal by 10, the decimal point moves place to the right from its original position.            When you multiply a decimal by 100, the decimal point moves places to the right from its original position.          The mass of a piece of wood is kg. What is the mass of such pieces of wood?                                   Identify the number of decimal places i.e   has decimal places.    Express 19.342 as a fraction =     Multiply the numerators that is by     In the product, count digits from the right towards the left and insert the decimal point. This is because the result of the product is supposed to be divided by .                 Exercise for Multiplying decimals by a whole number goes in here.      Multiplying decimals by decimals  Ekadeli is baking a cake. The recipe says that for every 1 kg of flour, she needs 0.4 kg of sugar. But today, she is using 2.5 kg of flour. For Ekadeli to identify how much sugar she will use she will apply multiplication of decimal number by a decimal number. Therefore, Ekadeli will multiply the amount of flour she is using by the amount of sugar used per kg. i.e         Grade pupils was given a square garden by the school to plant their vegetables and each side of the garden measured .  1. Draw the shape of the vegetable garden and label its sides.  2. What is the area of the square garden in ? Remember area of a square = side side.  3. How did you multiplied the decimals? Share it with your fellow learners.      Find the area of the rectangle below.   Rectangle image             Work out:                                    Count the number of decimal places.   has decimal places.   has decimal place.  Total number of decimal places is     Multiply by     Write your answer in decimal places.                Exercise for Multiplying decimals by decimals goes in here.      Division of a decimal by a whole number  Moraa has 5.6 kg of sugar and wants to pack it equally into 4 small bags. Moraa can use division of decimal by a whole number to find out how many kilograms of sugar go into each bag.      The figure below represents Kazani Primary School's compound which is rectangular in shape.   Rectangle image    1. What is the width of the compound if the length is and the area is ? (You may use a calculator to work out if you have or use the long division method)  2. Discuss how you can divide a decimal number by a whole number.  3. Share your work with other learners. 3. Share your work with other learners in the classroom .      Work out:         Here we make a fraction.      Then we multiply by the reciprocal of     Dividing by , it is then simplified to     This is a result of converting into a decimal  Writing into decimal places gives         Exercise for Division of a decimal by a whole number goes in here.       Division of a decimal number by a decimal number  To divide decimal numbers you:   Express the division as a fraction .Example can be written as       Convert division into multiplication that is instead of dividing, multiply the first fraction by the reciprocal of the second fraction i.e   =     Simplify the fraction : = .        In her daily life, Cherotich often measures milk and juice in liters. Today, she has a 6.3 liter container of milk and wants to pour it into small bottles, each holding 0.7 liters.Therefore, Cherotich uses division of decimal number by a decimal number to find out how many bottles she needs. Just like how we use whole numbers to count objects, Cherotich also uses division of decimals to measure and divide quantities accurately.            1.Teacher or a team leader to write down on piece of paper or print the following questions:   12.4 ÷ 0.2 = ?  (Find the next challenge around your classroom door.)    5.6 ÷ 0.7 = ?  ( The next station is at the corner of the classroom )    12.04 ÷ 1.3 = ?  ( Go to assembly ground near flagpole)    9.9 ÷ 3.3 = ?  (Next station is near the school entrance )    18.75 ÷ 2.5 = ?  ( The final challenge is at the back of the class)    7.92 ÷ 1.2 = ?  (Return to the teacher\/ team leader for the last answer check)     2.Hide decimal division question papers around the specified areas on each questions.   3. Working in groups of , each group to choose a team captain responsible for reading questions and keeping the team organized.  4. Each group is given the first piece of paper containing questions and each paper has a problem and a clue leading to the next question.     5. Each group to start at a different station (e.g., one in class, another at the assembly ground, another near the school entrance) and solves the problem on their question papers together. Correct answers earn the group the next clue to find the next question.  6. The first team to solve all questions correctly wins 🎁.  7.Each group to create their own decimal division problems for other groups to solve.      Erick had a sugarcane whose length was m. He cut the sugarcane into equal pieces of m. How many pieces did he get?    Equal pieces of sugarcane Erick got is given by:     Multiply both the numerator and the denomenator by to eliminate the decimals.     Therefore, Erick got pieces of sugarcane.      Work out:     First, we express as a fraction: =   Then multiply by which is the reciprocal of , to get:                                                From the above, is the common factor hence gives   Dividing we get .  Therefore,       Exercise for Division of a decimal by a decimal goes in here.     "
 },
@@ -986,7 +1292,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#sec-decimals-2-2",
   "type": "Exploration",
-  "number": "1.3.1",
+  "number": "1.4.1",
   "title": "",
   "body": "  An example of a decimal number is . The whole number part is 3,the decimal part is 0.75 which represents 75 hundredths.   "
 },
@@ -995,7 +1301,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-place-value-of-digits-in-decimals-3",
   "type": "Activity",
-  "number": "1.3.2",
+  "number": "1.4.2",
   "title": "",
   "body": "    1. Working in groups of five, write down each odd number from on a different piece of paper.  2. Draw a place value chart similar to the one below.    Number  Ones  Decimal point  Tenths  Hundredths  Thousandths  Ten thousandths                                                 3. Shuffle the pieces of paper and in turns, each learner in the group to pick a piece of paper and form a number using the digits on the pieces of paper.  4. Divide the number formed by the place value of the first digit in the that number. Example: the number formed is then the place value of is tens of thousands hence .  5. Write the decimal number in the place value chart as shown below and identify place values of each digit.    Number  Ones  Decimal point  Tenths  Hundredths  Thousandths  Ten thousandths                                                 6. Discuss and compare your results with fellow learners.   "
 },
@@ -1004,7 +1310,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-place-value-of-digits-in-decimals-4",
   "type": "Example",
-  "number": "1.3.1",
+  "number": "1.4.1",
   "title": "",
   "body": "  Use a place value chart to identify and write the place value of each digit in the following numbers.                       Draw a place value chart and represent the numbers as below.    Number  Hundreds  Tens  Ones  Decimal point  Tenths  Hundredths  Thousandths  Ten thousandths  Hundred thousandths                                         "
 },
@@ -1013,7 +1319,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-place-value-of-digits-in-decimals-5",
   "type": "Checkpoint",
-  "number": "1.3.2",
+  "number": "1.4.2",
   "title": "",
   "body": "  Exercise for place value of digits in decimals goes in here.   "
 },
@@ -1022,7 +1328,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Total-value-of-digits-in-decimals-8",
   "type": "Activity",
-  "number": "1.3.3",
+  "number": "1.4.3",
   "title": "",
   "body": "    1. Working in groups, think of a number that has decimal points i.e and in turns write it down.  2. Discuss the chosen decimal numbers with fellow group members.  3. Draw a place value chart and write the decimal numbers on the chart.  4. Identify the place value of each digit on the chart then identify the total value of each digits.  5. With your fellow learners, discuss how to identify the total value of digits in a decimal number.   "
 },
@@ -1031,7 +1337,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Total-value-of-digits-in-decimals-9",
   "type": "Example",
-  "number": "1.3.3",
+  "number": "1.4.3",
   "title": "",
   "body": "  What is the total value of each digit in the number       Number  PLace value  Total value     Tens      Ones     .       Tenths      Hundredths      Thousandths      Ten thousandths      Hundred thousandths      "
 },
@@ -1040,7 +1346,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Total-value-of-digits-in-decimals-10",
   "type": "Checkpoint",
-  "number": "1.3.4",
+  "number": "1.4.4",
   "title": "",
   "body": "  Exercise for Total value of digits in decimals goes in here.   "
 },
@@ -1049,7 +1355,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-a-whole-number-3",
   "type": "Figure",
-  "number": "1.3.5",
+  "number": "1.4.5",
   "title": "",
   "body": "   "
 },
@@ -1058,7 +1364,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-a-whole-number-4",
   "type": "Activity",
-  "number": "1.3.4",
+  "number": "1.4.4",
   "title": "",
   "body": "    1. Measure the length and width of your classroom in cm using a meter ruler and write it down.  2. Discuss the measurement of one side of your classroom and convert the measurement to i.e .  3. Multiply the length and width in by the number of sides in your classroom. What do you get?  4. How many classrooms do you have in your school?  5. Suppose all the classrooms has same lengths and widths, determine the total measurement of both length and width of classrooms in your school.  6. How did you determine the total measurement of length and width of classrooms in the school?   "
 },
@@ -1067,7 +1373,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-a-whole-number-5",
   "type": "Example",
-  "number": "1.3.6",
+  "number": "1.4.6",
   "title": "",
   "body": "  Work out:                            When you multiply a decimal by 10, the decimal point moves place to the right from its original position.            When you multiply a decimal by 100, the decimal point moves places to the right from its original position.       "
 },
@@ -1076,7 +1382,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-a-whole-number-6",
   "type": "Example",
-  "number": "1.3.7",
+  "number": "1.4.7",
   "title": "",
   "body": "  The mass of a piece of wood is kg. What is the mass of such pieces of wood?                                   Identify the number of decimal places i.e   has decimal places.    Express 19.342 as a fraction =     Multiply the numerators that is by     In the product, count digits from the right towards the left and insert the decimal point. This is because the result of the product is supposed to be divided by .              "
 },
@@ -1085,7 +1391,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-a-whole-number-7",
   "type": "Checkpoint",
-  "number": "1.3.8",
+  "number": "1.4.8",
   "title": "",
   "body": "  Exercise for Multiplying decimals by a whole number goes in here.   "
 },
@@ -1094,7 +1400,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-decimals-4",
   "type": "Activity",
-  "number": "1.3.5",
+  "number": "1.4.5",
   "title": "",
   "body": "    Grade pupils was given a square garden by the school to plant their vegetables and each side of the garden measured .  1. Draw the shape of the vegetable garden and label its sides.  2. What is the area of the square garden in ? Remember area of a square = side side.  3. How did you multiplied the decimals? Share it with your fellow learners.   "
 },
@@ -1103,7 +1409,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-decimals-5",
   "type": "Example",
-  "number": "1.3.9",
+  "number": "1.4.9",
   "title": "",
   "body": "  Find the area of the rectangle below.   Rectangle image          "
 },
@@ -1112,7 +1418,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-decimals-6",
   "type": "Example",
-  "number": "1.3.10",
+  "number": "1.4.10",
   "title": "",
   "body": "  Work out:                                    Count the number of decimal places.   has decimal places.   has decimal place.  Total number of decimal places is     Multiply by     Write your answer in decimal places.             "
 },
@@ -1121,7 +1427,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Multiplying-decimals-by-decimals-7",
   "type": "Checkpoint",
-  "number": "1.3.11",
+  "number": "1.4.11",
   "title": "",
   "body": "  Exercise for Multiplying decimals by decimals goes in here.   "
 },
@@ -1130,7 +1436,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-by-a-whole-number-3",
   "type": "Activity",
-  "number": "1.3.6",
+  "number": "1.4.6",
   "title": "",
   "body": "    The figure below represents Kazani Primary School's compound which is rectangular in shape.   Rectangle image    1. What is the width of the compound if the length is and the area is ? (You may use a calculator to work out if you have or use the long division method)  2. Discuss how you can divide a decimal number by a whole number.  3. Share your work with other learners. 3. Share your work with other learners in the classroom .   "
 },
@@ -1139,7 +1445,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-by-a-whole-number-4",
   "type": "Example",
-  "number": "1.3.12",
+  "number": "1.4.12",
   "title": "",
   "body": "  Work out:         Here we make a fraction.      Then we multiply by the reciprocal of     Dividing by , it is then simplified to     This is a result of converting into a decimal  Writing into decimal places gives      "
 },
@@ -1148,7 +1454,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-by-a-whole-number-5",
   "type": "Checkpoint",
-  "number": "1.3.13",
+  "number": "1.4.13",
   "title": "",
   "body": "  Exercise for Division of a decimal by a whole number goes in here.   "
 },
@@ -1157,7 +1463,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-number-by-a-decimal-number-3",
   "type": "Exploration",
-  "number": "1.3.7",
+  "number": "1.4.7",
   "title": "",
   "body": "   In her daily life, Cherotich often measures milk and juice in liters. Today, she has a 6.3 liter container of milk and wants to pour it into small bottles, each holding 0.7 liters.Therefore, Cherotich uses division of decimal number by a decimal number to find out how many bottles she needs. Just like how we use whole numbers to count objects, Cherotich also uses division of decimals to measure and divide quantities accurately.      "
 },
@@ -1166,7 +1472,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-number-by-a-decimal-number-4",
   "type": "Activity",
-  "number": "1.3.8",
+  "number": "1.4.8",
   "title": "",
   "body": "     1.Teacher or a team leader to write down on piece of paper or print the following questions:   12.4 ÷ 0.2 = ?  (Find the next challenge around your classroom door.)    5.6 ÷ 0.7 = ?  ( The next station is at the corner of the classroom )    12.04 ÷ 1.3 = ?  ( Go to assembly ground near flagpole)    9.9 ÷ 3.3 = ?  (Next station is near the school entrance )    18.75 ÷ 2.5 = ?  ( The final challenge is at the back of the class)    7.92 ÷ 1.2 = ?  (Return to the teacher\/ team leader for the last answer check)     2.Hide decimal division question papers around the specified areas on each questions.   3. Working in groups of , each group to choose a team captain responsible for reading questions and keeping the team organized.  4. Each group is given the first piece of paper containing questions and each paper has a problem and a clue leading to the next question.     5. Each group to start at a different station (e.g., one in class, another at the assembly ground, another near the school entrance) and solves the problem on their question papers together. Correct answers earn the group the next clue to find the next question.  6. The first team to solve all questions correctly wins 🎁.  7.Each group to create their own decimal division problems for other groups to solve.   "
 },
@@ -1175,7 +1481,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-number-by-a-decimal-number-5",
   "type": "Example",
-  "number": "1.3.14",
+  "number": "1.4.14",
   "title": "",
   "body": "  Erick had a sugarcane whose length was m. He cut the sugarcane into equal pieces of m. How many pieces did he get?    Equal pieces of sugarcane Erick got is given by:     Multiply both the numerator and the denomenator by to eliminate the decimals.     Therefore, Erick got pieces of sugarcane.   "
 },
@@ -1184,7 +1490,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-number-by-a-decimal-number-6",
   "type": "Example",
-  "number": "1.3.15",
+  "number": "1.4.15",
   "title": "",
   "body": "  Work out:     First, we express as a fraction: =   Then multiply by which is the reciprocal of , to get:                                                From the above, is the common factor hence gives   Dividing we get .  Therefore,    "
 },
@@ -1193,7 +1499,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-decimals.html#subsec-Division-of-a-decimal-number-by-a-decimal-number-7",
   "type": "Checkpoint",
-  "number": "1.3.16",
+  "number": "1.4.16",
   "title": "",
   "body": "  Exercise for Division of a decimal by a decimal goes in here.   "
 },
@@ -1202,7 +1508,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-squares-and-square-roots.html",
   "type": "Section",
-  "number": "1.4",
+  "number": "1.5",
   "title": "Squares and square roots",
   "body": " Squares and square roots   Squares and square roots are fundamental concepts in mathematics, with many applications in our daily lives.  Consider a surveyor tasked with determining the side length of a square garden with an area of m . Since all sides of a square are equal, the surveyor needs to find a number that, when multiplied by itself, results in . This is where the concept of square roots comes into play.  To find the side length of the garden, the surveyor needs to determine the square root of . In this case, the square root of is since , meaning each side of the garden is m long.  We can represent this mathematically as follows:       A square garden   A square with side length a        Area of a square = side length side length     , where represents the side length of the square.        Squares of whole numbers  Whole numbers are set of numbers including and positive integers. They don't contain decimals, fraction or negative integers. Whole numbers are also called counting numbers. i.e   We find the square of a whole number, by multiplying the whole number by itself, the resulting product is called the square number. In particular, the operation of multiplying a whole number with itself can be expressed with an exponent of 2.  For example, the square of can be expressed as and .     Work in groups      Draw a grid of squares like the one shown below.      Start by counting all the smallest squares in the grid.      Then, identify and count all the larger squares, such as  , and so on, until you reach the largest square that fits within the grid.      Write down the number of squares for each size in a table for better organization. Add them up to find the total number of squares in the grid.      Discuss your findings in a small group. Compare how many squares each of you found and check for any missed squares.      Think about the process you used to count the squares. Could there be a quicker way to calculate the total number of squares without counting each one individually?              What is the square of ?       The square of a number is obtained by multiplying the number by itself.  Now, express as .  Then, perform multiplication.                               The length of a square floor tile is cm. What is the area of the tile?                             The area of the floor tile is       Exercise on squares of whole numbers goes in here.      Squares of fractions  We have seen how to find squares of whole numbers . But what about fractions? A fraction contains of a numerator and a denominator, both of which are whole numbers. Squaring a fraction follows the same way as squaring whole numbers, in which we simply multiply both the numerator and the denominator by themselves.     Work in groups      Wekesa, a Grade 7 student, created the table below.Wekesa, a Grade 7 student, created the table below.    Fraction  Square of the fraction  Squared fraction                                      Help Wekesa to complete filling in the table.      Share your work with other learners in class       Work out the square of:                 To square a fraction, square both the numerator (top number) and the denominator (bottom number).  Square the numerator:  Square the denominator:  Combine the squared numerator and denominator to form the new fraction.          Work out the following:                Convert the mixed fraction to an improper fraction.     Find the square of the improper fraction by squaring both the numerator and denominator.     Convert the improper fraction to a mixed fraction.         Exercise for squares of fractions goes in here.      Squares of decimals  Squaring a decimal number means multiplying the decimal number by itself. To do this, multiply the number by itself, then count the total decimal places in the original numbers and apply the same number of decimal places in the final product. Alternatively, we can convert the decimal into a fraction, square the fraction, and then simplify it back to a decimal number.  The square of a decimal number should have double the number of decimal places as the original number.         Drag both sliders so they have the same value.      click the MULTIPLY button.      What did you observe from the shaded region in the three squares.      Click START AGAIN button and repeate the process with different decimal values              What is the square of: ?             There are several approaches that one can use to find the square of   In this approach, we convert to a fraction.   Then, we square the fraction , multiply the numerator by itself and the denominator by itself.   We finally convert the fraction to a decimal by dividing the numerator by the denominator.          What is the value of ?          To find we need to calculate  Convert to a whole number by multiplying it by 100.   Then, we have:                           Since we initially removed two decimal places from each number (multiplying by 100 for both), we must divide the final result by to restore the decimal:            Exercise for squares of decimals goes here      Squares roots of whole numbers  The square root of a number is the inverse operation of squaring a number. The square of a number is the value that is obtained when we multiply the number by itself, while the square root of a number is obtained by finding a number that when squared gives the original number.  We represent the square root of a number using this symbol . For example, square root of 4, we represent it as   To find the square root of a number, we just see by squaring which number would give the original number. It is very easy to find the square root of a number that is a perfect square. Perfect squares are those positive numbers that can be expressed as the product of a number by itself.     Work in groups      Draw the following grid pattern in your exercise books or on graph paper, as the one shown below.    Grid 1   The image displays a three by three grid composed of square sections.      Grid 2   The image displays a four by four grid composed of square sections.      Grid 3   The image displays a five by five grid composed of square sections.          Count all the small squares in each grid.      Count all squares along one side of each grid to identify its side length.      Analyze the relationship between the side length and the total number of squares in the grid. What pattern do you observe?       Find the square root of .    Express as a product of its prime factors and pair up similar factors together. select one factor from each pair and multiply the selected factors.         Exercise for squares roots of whole numbers goes here      Square roots of fractions  Now that we understand how to find the square of a fraction, as discussed in , let's explore how to calculate the square root of a given fraction. To do this, we simply find the square roots of the numerator and the denominator separately. The last step will be dividing the square root of the numerator by the square root of the denominator.     Work in groups      Draw the following grids as shown below.    Grid 1   This image shows a two by two grid square with one small squares colored      Grid 2   This image shows a four by four grid square with nine small squares colored      Grid 3   This image shows a three by three grid with four small squares colored          Count and record the total number of small squares in each shaded region of the grid.      Count and record the total number of small squares in each grid.      Form a fraction using the total number of shaded squares as the numerator and the total number of squares in the grid as the denominator.      Identify the side length of each square grid and count the number of small squares along one side.      Identify the side length of the shaded region and count the number of small squares along one side.      Form a fraction using the total number of squares gotten from step as the numerator and total number of squares gotten from step as the denominator.      Compare the two fractions obtained in step and . What relationship do you observe between them?      Share your group discussion work, with other learners in class     To find the square root of a fraction, work out the square root of the numerator and square root of the denominator separately.    Find the square root of .    To find the square root of , take the square root of numerator and denominator separately.     Express the numerator and denominator in terms of its prime factor pairs.     Take one factor from each pair, and multiply.         Work out:     To find the , first convert into improper fraction.     Now,   Express the numerator and denominator in terms of its prime factor pairs.    Take one factor from each pair, and multiply.         Exercise for square roots of fraction goes here      Square roots of decimals  Finding the square root of a decimal number involves similar method of finding the square root of whole numbers, but with careful attention to the placement of the decimal point.  We can express the given decimal number as a fraction and then find the square roots of the numerator and denominator separately. We then simplify the resulting fraction and convert it back into a decimal number.         Drag both sliders so they have the same value.      click the MULTIPLY button.      What did you observe from the shaded region in the three squares.      Click START AGAIN button and repeate the process with different decimal values              Work out:              Since can be written as the fraction , we take the square root of both the numerator and the denominator separately.     Here, we express and in terms of their prime factors to simplify the square root calculation.     Select one factor from each pair and multiply the selected factors.     Divide the results:             Exercise to be included in here.     "
 },
@@ -1211,7 +1517,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#square-figure",
   "type": "Figure",
-  "number": "1.4.1",
+  "number": "1.5.1",
   "title": "",
   "body": " A square garden   A square with side length a    "
 },
@@ -1220,7 +1526,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-whole-numbers-5",
   "type": "Activity",
-  "number": "1.4.1",
+  "number": "1.5.1",
   "title": "",
   "body": "   Work in groups      Draw a grid of squares like the one shown below.      Start by counting all the smallest squares in the grid.      Then, identify and count all the larger squares, such as  , and so on, until you reach the largest square that fits within the grid.      Write down the number of squares for each size in a table for better organization. Add them up to find the total number of squares in the grid.      Discuss your findings in a small group. Compare how many squares each of you found and check for any missed squares.      Think about the process you used to count the squares. Could there be a quicker way to calculate the total number of squares without counting each one individually?        "
 },
@@ -1229,7 +1535,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-whole-numbers-6",
   "type": "Example",
-  "number": "1.4.2",
+  "number": "1.5.2",
   "title": "",
   "body": "     What is the square of ?       The square of a number is obtained by multiplying the number by itself.  Now, express as .  Then, perform multiplication.                            "
 },
@@ -1238,7 +1544,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-whole-numbers-7",
   "type": "Example",
-  "number": "1.4.3",
+  "number": "1.5.3",
   "title": "",
   "body": "  The length of a square floor tile is cm. What is the area of the tile?                             The area of the floor tile is    "
 },
@@ -1247,7 +1553,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-whole-numbers-8",
   "type": "Checkpoint",
-  "number": "1.4.4",
+  "number": "1.5.4",
   "title": "",
   "body": "  Exercise on squares of whole numbers goes in here.   "
 },
@@ -1256,7 +1562,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-fractions-3",
   "type": "Activity",
-  "number": "1.4.2",
+  "number": "1.5.2",
   "title": "",
   "body": "   Work in groups      Wekesa, a Grade 7 student, created the table below.Wekesa, a Grade 7 student, created the table below.    Fraction  Square of the fraction  Squared fraction                                      Help Wekesa to complete filling in the table.      Share your work with other learners in class    "
 },
@@ -1265,7 +1571,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-fractions-4",
   "type": "Example",
-  "number": "1.4.5",
+  "number": "1.5.5",
   "title": "",
   "body": "  Work out the square of:                 To square a fraction, square both the numerator (top number) and the denominator (bottom number).  Square the numerator:  Square the denominator:  Combine the squared numerator and denominator to form the new fraction.       "
 },
@@ -1274,7 +1580,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-fractions-5",
   "type": "Example",
-  "number": "1.4.6",
+  "number": "1.5.6",
   "title": "",
   "body": "  Work out the following:                Convert the mixed fraction to an improper fraction.     Find the square of the improper fraction by squaring both the numerator and denominator.     Convert the improper fraction to a mixed fraction.      "
 },
@@ -1283,7 +1589,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-fractions-6",
   "type": "Checkpoint",
-  "number": "1.4.7",
+  "number": "1.5.7",
   "title": "",
   "body": "  Exercise for squares of fractions goes in here.   "
 },
@@ -1292,7 +1598,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-decimals-4",
   "type": "Activity",
-  "number": "1.4.3",
+  "number": "1.5.3",
   "title": "",
   "body": "       Drag both sliders so they have the same value.      click the MULTIPLY button.      What did you observe from the shaded region in the three squares.      Click START AGAIN button and repeate the process with different decimal values        "
 },
@@ -1301,7 +1607,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-decimals-5",
   "type": "Example",
-  "number": "1.4.9",
+  "number": "1.5.9",
   "title": "",
   "body": "     What is the square of: ?             There are several approaches that one can use to find the square of   In this approach, we convert to a fraction.   Then, we square the fraction , multiply the numerator by itself and the denominator by itself.   We finally convert the fraction to a decimal by dividing the numerator by the denominator.       "
 },
@@ -1310,7 +1616,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-decimals-6",
   "type": "Example",
-  "number": "1.4.10",
+  "number": "1.5.10",
   "title": "",
   "body": "  What is the value of ?          To find we need to calculate  Convert to a whole number by multiplying it by 100.   Then, we have:                           Since we initially removed two decimal places from each number (multiplying by 100 for both), we must divide the final result by to restore the decimal:         "
 },
@@ -1319,7 +1625,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-of-decimals-7",
   "type": "Checkpoint",
-  "number": "1.4.11",
+  "number": "1.5.11",
   "title": "",
   "body": "  Exercise for squares of decimals goes here   "
 },
@@ -1328,7 +1634,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-roots-of-whole-numbers-5",
   "type": "Activity",
-  "number": "1.4.4",
+  "number": "1.5.4",
   "title": "",
   "body": "   Work in groups      Draw the following grid pattern in your exercise books or on graph paper, as the one shown below.    Grid 1   The image displays a three by three grid composed of square sections.      Grid 2   The image displays a four by four grid composed of square sections.      Grid 3   The image displays a five by five grid composed of square sections.          Count all the small squares in each grid.      Count all squares along one side of each grid to identify its side length.      Analyze the relationship between the side length and the total number of squares in the grid. What pattern do you observe?    "
 },
@@ -1337,7 +1643,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-roots-of-whole-numbers-6",
   "type": "Example",
-  "number": "1.4.15",
+  "number": "1.5.15",
   "title": "",
   "body": "  Find the square root of .    Express as a product of its prime factors and pair up similar factors together. select one factor from each pair and multiply the selected factors.      "
 },
@@ -1346,7 +1652,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Squares-roots-of-whole-numbers-7",
   "type": "Checkpoint",
-  "number": "1.4.16",
+  "number": "1.5.16",
   "title": "",
   "body": "  Exercise for squares roots of whole numbers goes here   "
 },
@@ -1355,7 +1661,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-fractions-3",
   "type": "Activity",
-  "number": "1.4.5",
+  "number": "1.5.5",
   "title": "",
   "body": "   Work in groups      Draw the following grids as shown below.    Grid 1   This image shows a two by two grid square with one small squares colored      Grid 2   This image shows a four by four grid square with nine small squares colored      Grid 3   This image shows a three by three grid with four small squares colored          Count and record the total number of small squares in each shaded region of the grid.      Count and record the total number of small squares in each grid.      Form a fraction using the total number of shaded squares as the numerator and the total number of squares in the grid as the denominator.      Identify the side length of each square grid and count the number of small squares along one side.      Identify the side length of the shaded region and count the number of small squares along one side.      Form a fraction using the total number of squares gotten from step as the numerator and total number of squares gotten from step as the denominator.      Compare the two fractions obtained in step and . What relationship do you observe between them?      Share your group discussion work, with other learners in class    "
 },
@@ -1364,7 +1670,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-fractions-5",
   "type": "Example",
-  "number": "1.4.20",
+  "number": "1.5.20",
   "title": "",
   "body": "  Find the square root of .    To find the square root of , take the square root of numerator and denominator separately.     Express the numerator and denominator in terms of its prime factor pairs.     Take one factor from each pair, and multiply.      "
 },
@@ -1373,7 +1679,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-fractions-6",
   "type": "Example",
-  "number": "1.4.21",
+  "number": "1.5.21",
   "title": "",
   "body": "  Work out:     To find the , first convert into improper fraction.     Now,   Express the numerator and denominator in terms of its prime factor pairs.    Take one factor from each pair, and multiply.      "
 },
@@ -1382,7 +1688,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-fractions-7",
   "type": "Checkpoint",
-  "number": "1.4.22",
+  "number": "1.5.22",
   "title": "",
   "body": "  Exercise for square roots of fraction goes here   "
 },
@@ -1391,7 +1697,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-decimals-4",
   "type": "Activity",
-  "number": "1.4.6",
+  "number": "1.5.6",
   "title": "",
   "body": "       Drag both sliders so they have the same value.      click the MULTIPLY button.      What did you observe from the shaded region in the three squares.      Click START AGAIN button and repeate the process with different decimal values        "
 },
@@ -1400,7 +1706,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-decimals-5",
   "type": "Example",
-  "number": "1.4.24",
+  "number": "1.5.24",
   "title": "",
   "body": "     Work out:              Since can be written as the fraction , we take the square root of both the numerator and the denominator separately.     Here, we express and in terms of their prime factors to simplify the square root calculation.     Select one factor from each pair and multiply the selected factors.     Divide the results:          "
 },
@@ -1409,7 +1715,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-squares-and-square-roots.html#subsec-Square-roots-of-decimals-6",
   "type": "Checkpoint",
-  "number": "1.4.25",
+  "number": "1.5.25",
   "title": "",
   "body": "  Exercise to be included in here.   "
 },
@@ -1418,16 +1724,16 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-number-operations.html",
   "type": "Section",
-  "number": "1.5",
+  "number": "1.6",
   "title": "Number Operations",
-  "body": " Number Operations   Mental Strategies       Multiplying and Dividing Numbers by Powers of 10, Including Decimals and Benchmark Fractions  Powers of are numbers that represent a base of raised to an exponent.  The exponent indicates how many times the base is multiplied by itself.  For example: .                          Using Mental Math Strategies and Number Properties to Perform Calculations                            Applying Mental Math Strategies to Solve Real-World Problems                             Operations on whole numbers    Powers of numbers   The power of a number is the result of multiplying that number by itself a certain number of times. For example, (read as \"two to the power of three\") means . The number is called the base, and is called the exponent or index. The exponent indicates how many times the base is multiplied by itself.    Understanding repeated factors through grouping and counting objects  The concept of powers can be understood through the idea of grouping and counting objects. For example, if we have , we can think of it as having groups of objects each. This helps in visualizing the multiplication process and understanding the concept of powers.  To illustrate this, consider the following example: If we have , we can represent it as: . This means we have groups of objects each, resulting in a total of objects.                          Expressing numbers as products and powers                            Understanding Zero exponents and their applications                            Evaluating Numbers written in index form                       Highest Factor (HCF) and Least Common Multiple (LCM)  HCF is the largest positive integer number that divides evenly into two or more numbers with zero remainder. It is also known as the Highest Common Factor (HFC).  Example in real life:  Esther and Shillah have packets of snacks and want to share them equally amoung the top mathematics performers in grade without leaving leftovers. Esther have crackers and Shillah has cookies.  The largest number of top performers Shillah and Esther can gift is solved using GCD.  Since the factors of are and the factors of are . This implies that the higher number of top performers to be gifted is .         Form groups of five learners , count and record the total number of girls and boys in your class.      List all the factors of each number.      Identify and circle the factors that are common to all the numbers.      Determine the Greatest Common Factor (HCF) by selecting the largest common factor.      Present your group's findings to the rest of the class.       Find the HCF of     To find the HCF by factoring, list out all of the factors of each number  The divisors of are .  The divisors of are .  The divisors of are .  The common factors of are .  The greatest common factor of is .      Three sticks of lengths cm, cm and cm are cut into smaller pieces of the length. Find the greatest length which can be cut without leaving a remainder.    To determine the greatest length which can be cut without leaving a remainder, we need to find the Greatest Common Divisor (GCD) of the three numbers.    prime factors for 30        prime factors for 45        prime factors for 60        The prime factorization of is .  The prime factorization of is .  The prime factorization of is .  The common prime factors of , and are and .  Thus, the Highest common factor of , and is .  The greatest length which can be cut from each stick without leaving a remainder is cm.      Exercise for HCM goes here.     The Least Common Multiple of two or more numbers is the smallest number that is divisible by two or more numbers without a reminder. The Least Common Multiple (LCM) is also referred to as the Lowest Common Multiple (LCM) and Least Common Divisor (LCD).     Click on the first dropdown next to Multiples of and scroll to select the any number.  After selecting a number, - and + buttons will appear. Click the + button to add multiples of the selected number. To remove a listed multiple, click the - button.  Keep clicking the + button until you have added at least multiples for the chosen number.      Click on the second dropdown next to Multiples of and scroll to select a different number from the one you selected on the first dropdown.  After selecting a number, - and + buttons will appear. Click the + button to add multiples of the selected number. To remove a listed multiple, click the - button.  Keep clicking the + button until you have added at least multiples for the chosen number.      Select the checkbox next to Common Multiples .  If none of the listed multiples are highlighted in blue, keep clicking the + button to generate more multiples.      Select the checkbox next to Least Common Multiple .  In the top right corner, click the circular arrow icon to reset the activity. Then, select new numbers from the dropdowns and repeat the process.      Write down what you observed and share with other learner in class.           Find the LCM of     To find the LCM of , list the multiples of each number until at least one of the multiples appears on all lists  Multiples of are   Multiples of are   The common multiples are   The least common multiple is   Therefore, LCM of and is .      Grade 7 pupils was preparing for a party and used a ribbon to decorate their classroom. What is the shortest possible length of a ribbon that can be cut into equal pieces of cm, cm or cm without a remainder?    To determine the shortest possible length of the ribbon that can be cut into equal pieces of cm, cm, and cm without a remainder, we need to find the Least Common Multiple (LCM) of these three numbers.     Write down your numbers in a top table row    Starting with the lowest prime numbers, divide the row of numbers by a prime number that is evenly divisible into at least one of your numbers and bring down the result into the next table row.    If any number in the row is not evenly divisible just bring down that number.    Continue dividing rows by prime numbers that divide evenly into at least one number    When the last row of results is all 's you are done.                                           Find the product of the prime numbers in the first column to get the LCM:     The LCM of is   Therefore, the shortest possible length of the ribbon should be cm long.      Exercise for LCM goes here       Addition and Subtraction of Whole and Decimal Numbers Upto Four-Digit Numbers   Addition is the process of combining two or more numbers to find their total. Subtraction involves finding the difference between numbers by taking one number away from another. In both operations, digits should be aligned according to their place values that is ones, tens, hundreds, etc.        A company sold goods worth GHS in the month of January. In February, the company sold goods worth GHS . What was the total sales in the two months?     To find the total sales for the two months, we add the sales figures from each month.                   The total sales was GHS       Fishermen across the country exported kilograms of fish in the first year. In the second year, the mass of fish exported decreased by kilograms. What was the total mass of fish exported in the second year?    To find the mass of fish exported in the second year, subtract the decrease from the amount exported in the first year.                                                    Therefore, the mass of fish exported in the second year was kilograms.      A fishing company exported kilograms of fish in the first quarter of the year. In the second quarter, the mass of fish exported decreased by kilograms. What was the total mass of fish exported in the second quarter?    To find the mass of fish exported in the second quarter, subtract the decrease from the amount exported in the first quarter.                                       Therefore, the mass of fish exported in the second quarter was kilograms.      Divisibility test for 2  A number is divisible by if the digit in the ones place value is an even number or zero.      Work in groups      Form groups of learners. Each learner should write down a number between and .      Identify which of the numbers have an even number as their last digit.      Identify which of the numbers end with a zero.      Find out which numbers are divisible by       Share your findings with the rest of the class.       Which of the following numbers are divisible by ?       To identify if a number is divisible by , we check if its last digit (the digit in the ones place) is either or an even number .        The last digit of is , which is an even number.  Therefore, is divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is   Therefore, is divisible by      Hence, are divisible by .      Divisibility test for 3  A number is divisible by if the sum of its digits gives a number that is divisible by .  Esther bought mangoes and needs to divide them amoung her children. She wondered if she can share the mangoes equally amoung her children.  Since adding gives i.e hence is divisible by and Esther will share the mangoes equally among the children.      1. Count the number of blue pens in your class and one of you to write it down.  2. Count also the number of red pens in your class and indicate the number.  3. Find the total number of blue and red pens in the class.  4. Write down the number.  5. Add the digits in that number and identify if the result is divisible by .      Which of the following numbers are divisible by 3?                                  First, we add up all the single digits in the number Now, we check if can be divided by without any remainder  is divisible by hence is divisible by .       is divisible by hence is divisible by        is divisible by hence is divisible by        is not divisible by hence is not divisible by .         Divisibility test for 4  A number is divisible by 4 if its digits in the ones and tens place value are both zero or the number formed by the digits in the ones and tens place value is divisible by 4    1. Each student to write a number between and and put it on a table at the center of the class.  2. P lace your math textbooks in the center of the classroom.  3. In turns, pick a number from the table without choosing.  4. Check if the number is divisible by by looking if the digits at the ones and tens place value are both zero or the number formed by the digits in the ones and tens place value is divisible by 4.  5. If the number is divisible by then pick textbooks and remain standing and if the number is not divisible by pass and go take a seat.  6. Share with your fellow learners the numbers that are divisible by .      Which of the following numbers are divisible by ?                                  The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is divisible by hence is divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The last two numbers are zeros hence is divisible by          Divisibility test for 5  A number is divisible by if the digit in the ones place value is or zero.      1. Working in groups of 5, think of numbers between and and select five numbers from the range .  2. Check which of your selected numbers are divisible by and write them down.  3. Look at the last digits of the numbers that are divisible by .  4. What do you notice?  5. Present your observation to the class.      Which of the following numbers are divisible by ?                            To identify the numbers divisible by :  Check the numbers whose digits in the ones place value is either or .   , , are divisible by since the digits in the ones place value is either or zero.      Divisibility test for 6  A number is divisible by if it is divisible by both and .     1. Working in groups, find mathematical textbook and put it at the table.  2. In turns, each group member to close their eyes and open a page in the textbook.  3. One of the goup members to write down the number pages.  4. Test if the numbers are divisible by that is if the last digit is an even number and also test if the numbers are divisible by that is add the digits and check if the sum is divisible by .  5. If the number is divisible by both and then it is divisble by .  6. Share your group's findings with the class. What did you notice about the numbers divisible by .      Which of the following numbers are divisible by 6?   , ,           First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is divisible by 3.   is divisible by because it is divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is not divisible by 3.   is not divisible by because it is not divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       remainder hence it is not divisible by 3.   is not divisible by because it is not divisible by both          Divisibility test for 8  A number is divisible by if the number formed by the digits in the ones, tens and hundreds place value is divisible by      1. Working in small groups with your classmates, use shoe sizes to generate numbers and write them down.  2. Combine two shoe sizes to create new numbers.  3. Look at the last three digits of the numbers formed and check if these last three digits are divisible by by dividing it by . If it is divisible by it should divide the number without leaving a remainder.  4. Write down whether each combined number is divisible by or not.      Which of the following numbers are divisible by 8?   , ,               is divisible by            is not divisible by            is divisible by       and are divisible by because the numbers formed by the digits in the ones, tens and hundreds place value are divisible by .      Divisibility test for 9  A number is divisible by if the sum of the digits in the number is divisible by      Here is an example on how to find out if and are divisible by :   is divisible by , so is divisible by .    is not divisible by , so is not divisible by .      1. Working in groups of , each learner to form a 3 digit number using numbers from .  2. Each student to write down their 3-digit number on a piece of paper.  3. Outside the classroom, each group members to line up holding their numbers in the air for everyone to see.  4. Play the shooting game where the first person in the line \"shoots\" (points) at everyone in positions that are multiples of 2 (e.g., 2nd, 4th, 6th,...).  5. Check if the numbers from the students who were shot(were in positions which are multiples of 2) are divisible by 9.  6. Repeat the shooting game but here, the second person in the line shoots everyone in odd positions ( e.g., 1st, 3rd, 5th,...).  7. Check if the numbers obtained from the students in odd positions are divisible by 9.  8. Write down all numbers divisible by 9 from both rounds. Share your results with other groups.  9. Discuss what you realized about the numbers divisible by 9. Were there patterns in the results?      Which of the following numbers are divisible by 9?   , ,                  is not divisible by               is divisible by               is divisible by       and are divisible because the sum of the digits in each number is divisible by       Divisibility test for 10  A number is divisible by if the digit in the place value is zero.      Work in groups      Write down all the years between and .      Identify which years have a zero as the last digit.      Determine which years are divisible by .      Discuss how you can tell if a year is divisible by       Share your findings with other learners in the class.       Which of the following numbers are divisible by ?   , , ,      and are divisible by because their digits in the ones place value is zero.   , are not divisible by because their digits in the ones place value is not zero.      Divisibility test for 11  To check if a number is divisible by , subtract the sum of the digits in odd positions from the sum of the digits in even positions. If the result is zero or a multiple of , the number is divisible by 11.       Work in groups      Working in groups of learners, each learner to create a 4-digit number using digits from to and writes it on a piece of paper.      In turns, each learner to read out the number they formed for the group to check if it is divisible by .      Write down numbers you found to be divisible by .      Reflect on and discuss the strategy you used to determine if a number is divisible by .      Share your findings with the rest of the class.       Is divisible by ?       First, find the sum of the digits in odd number positions.     Next we find the sum of digits in even positions.       Finding their difference we get:        Since the difference is , then is not divisible by       Multiplication and Division of Multi-Digit Numbers by One- or Two-Digit Numbers  The partition method is a way of multiplying numbers by breaking one of the numbers into smaller, more manageable parts. This helps simplify the multiplication process.        Perimeter of different plane figures.       Work out: .    Breakdown into Hundreds,tens and ones .     Multiply each place value by      Add the products together.     Therefore,       Find the area of the rectangle below.   Rectangle image                    In the first phase of supplying books to schools, the government supplied textbooks to each school. The number of schools that received the books was . How many books did the government supply in the first phase?    We can solve this problem by multiplying by using the partition method.  First, break down into its place values:     Now, multiply each part by :     Add the partial products together:     Therefore, the government supplied textbooks in the first phase.       Kwame collected exercise books to donate equally to schools in his region. How many exercise books did each school receive?    To find out how many books each school received, divide by .  We can use the partition method by breaking into parts that are easier to divide by .  Break down as follows:     Now divide each part by :     Add the quotients:     Therefore, each school received exercise books.         "
+  "body": " Number Operations   Mental Strategies       Multiplying and Dividing Numbers by Powers of 10, Including Decimals and Benchmark Fractions  Powers of are numbers that represent a base of raised to an exponent.  The exponent indicates how many times the base is multiplied by itself.  For example: .                          Using Mental Math Strategies and Number Properties to Perform Calculations                            Applying Mental Math Strategies to Solve Real-World Problems                             Operations on whole numbers    Powers of numbers   The power of a number is the result of multiplying that number by itself a certain number of times. For example, (read as \"two to the power of three\") means . The number is called the base, and is called the exponent or index. The exponent indicates how many times the base is multiplied by itself.    Understanding repeated factors through grouping and counting objects  The concept of powers can be understood through the idea of grouping and counting objects. For example, if we have , we can think of it as having groups of objects each. This helps in visualizing the multiplication process and understanding the concept of powers.  To illustrate this, consider the following example: If we have , we can represent it as: . This means we have groups of objects each, resulting in a total of objects.                          Expressing numbers as products and powers                            Understanding Zero exponents and their applications                            Evaluating Numbers written in index form                       Highest Factor (HCF) and Least Common Multiple (LCM)  HCF is the largest positive integer number that divides evenly into two or more numbers with zero remainder. It is also known as the Highest Common Factor (HFC).  Example in real life:  Esther and Shillah have packets of snacks and want to share them equally amoung the top mathematics performers in grade without leaving leftovers. Esther have crackers and Shillah has cookies.  The largest number of top performers Shillah and Esther can gift is solved using GCD.  Since the factors of are and the factors of are . This implies that the higher number of top performers to be gifted is .         Form groups of five learners , count and record the total number of girls and boys in your class.      List all the factors of each number.      Identify and circle the factors that are common to all the numbers.      Determine the Greatest Common Factor (HCF) by selecting the largest common factor.      Present your group's findings to the rest of the class.       Find the HCF of     To find the HCF by factoring, list out all of the factors of each number  The divisors of are .  The divisors of are .  The divisors of are .  The common factors of are .  The greatest common factor of is .      Three sticks of lengths cm, cm and cm are cut into smaller pieces of the length. Find the greatest length which can be cut without leaving a remainder.    To determine the greatest length which can be cut without leaving a remainder, we need to find the Greatest Common Divisor (GCD) of the three numbers.    prime factors for 30        prime factors for 45        prime factors for 60        The prime factorization of is .  The prime factorization of is .  The prime factorization of is .  The common prime factors of , and are and .  Thus, the Highest common factor of , and is .  The greatest length which can be cut from each stick without leaving a remainder is cm.      Exercise for HCM goes here.     The Least Common Multiple of two or more numbers is the smallest number that is divisible by two or more numbers without a reminder. The Least Common Multiple (LCM) is also referred to as the Lowest Common Multiple (LCM) and Least Common Divisor (LCD).     Click on the first dropdown next to Multiples of and scroll to select the any number.  After selecting a number, - and + buttons will appear. Click the + button to add multiples of the selected number. To remove a listed multiple, click the - button.  Keep clicking the + button until you have added at least multiples for the chosen number.      Click on the second dropdown next to Multiples of and scroll to select a different number from the one you selected on the first dropdown.  After selecting a number, - and + buttons will appear. Click the + button to add multiples of the selected number. To remove a listed multiple, click the - button.  Keep clicking the + button until you have added at least multiples for the chosen number.      Select the checkbox next to Common Multiples .  If none of the listed multiples are highlighted in blue, keep clicking the + button to generate more multiples.      Select the checkbox next to Least Common Multiple .  In the top right corner, click the circular arrow icon to reset the activity. Then, select new numbers from the dropdowns and repeat the process.      Write down what you observed and share with other learner in class.           Find the LCM of     To find the LCM of , list the multiples of each number until at least one of the multiples appears on all lists  Multiples of are   Multiples of are   The common multiples are   The least common multiple is   Therefore, LCM of and is .      Grade 7 pupils was preparing for a party and used a ribbon to decorate their classroom. What is the shortest possible length of a ribbon that can be cut into equal pieces of cm, cm or cm without a remainder?    To determine the shortest possible length of the ribbon that can be cut into equal pieces of cm, cm, and cm without a remainder, we need to find the Least Common Multiple (LCM) of these three numbers.     Write down your numbers in a top table row    Starting with the lowest prime numbers, divide the row of numbers by a prime number that is evenly divisible into at least one of your numbers and bring down the result into the next table row.    If any number in the row is not evenly divisible just bring down that number.    Continue dividing rows by prime numbers that divide evenly into at least one number    When the last row of results is all 's you are done.                                           Find the product of the prime numbers in the first column to get the LCM:     The LCM of is   Therefore, the shortest possible length of the ribbon should be cm long.      Exercise for LCM goes here      "
 },
 {
   "id": "subsubsec-multiplying-and-dividing-numbers-by-powers-of-10-icluding-decimals-and-benchmark-fractions-5",
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-multiplying-and-dividing-numbers-by-powers-of-10-icluding-decimals-and-benchmark-fractions-5",
   "type": "Activity",
-  "number": "1.5.1",
+  "number": "1.6.1",
   "title": "",
   "body": "     "
 },
@@ -1436,7 +1742,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-multiplying-and-dividing-numbers-by-powers-of-10-icluding-decimals-and-benchmark-fractions-6",
   "type": "Example",
-  "number": "1.5.1",
+  "number": "1.6.1",
   "title": "",
   "body": "         "
 },
@@ -1445,7 +1751,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-multiplying-and-dividing-numbers-by-powers-of-10-icluding-decimals-and-benchmark-fractions-7",
   "type": "Checkpoint",
-  "number": "1.5.2",
+  "number": "1.6.2",
   "title": "",
   "body": "     "
 },
@@ -1454,7 +1760,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-using-mental-math-strategies-and-number-properties-to-perform-calculations-3",
   "type": "Activity",
-  "number": "1.5.2",
+  "number": "1.6.2",
   "title": "",
   "body": "     "
 },
@@ -1463,7 +1769,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-using-mental-math-strategies-and-number-properties-to-perform-calculations-4",
   "type": "Example",
-  "number": "1.5.3",
+  "number": "1.6.3",
   "title": "",
   "body": "         "
 },
@@ -1472,7 +1778,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-using-mental-math-strategies-and-number-properties-to-perform-calculations-5",
   "type": "Checkpoint",
-  "number": "1.5.4",
+  "number": "1.6.4",
   "title": "",
   "body": "     "
 },
@@ -1481,7 +1787,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-applying-mental-math-strategies-to-solve-real-world-problems-3",
   "type": "Activity",
-  "number": "1.5.3",
+  "number": "1.6.3",
   "title": "",
   "body": "     "
 },
@@ -1490,7 +1796,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-applying-mental-math-strategies-to-solve-real-world-problems-4",
   "type": "Example",
-  "number": "1.5.5",
+  "number": "1.6.5",
   "title": "",
   "body": "         "
 },
@@ -1499,7 +1805,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-applying-mental-math-strategies-to-solve-real-world-problems-5",
   "type": "Checkpoint",
-  "number": "1.5.6",
+  "number": "1.6.6",
   "title": "",
   "body": "     "
 },
@@ -1508,7 +1814,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-understanding-repeated-factors-through-grouping-and-counting-objects-4",
   "type": "Activity",
-  "number": "1.5.4",
+  "number": "1.6.4",
   "title": "",
   "body": "     "
 },
@@ -1517,7 +1823,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-understanding-repeated-factors-through-grouping-and-counting-objects-5",
   "type": "Example",
-  "number": "1.5.7",
+  "number": "1.6.7",
   "title": "",
   "body": "         "
 },
@@ -1526,7 +1832,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-understanding-repeated-factors-through-grouping-and-counting-objects-6",
   "type": "Checkpoint",
-  "number": "1.5.8",
+  "number": "1.6.8",
   "title": "",
   "body": "     "
 },
@@ -1535,7 +1841,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-Expressing-numbers-as-products-and-powers-3",
   "type": "Activity",
-  "number": "1.5.5",
+  "number": "1.6.5",
   "title": "",
   "body": "     "
 },
@@ -1544,7 +1850,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-Expressing-numbers-as-products-and-powers-4",
   "type": "Example",
-  "number": "1.5.9",
+  "number": "1.6.9",
   "title": "",
   "body": "         "
 },
@@ -1553,7 +1859,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-Expressing-numbers-as-products-and-powers-5",
   "type": "Checkpoint",
-  "number": "1.5.10",
+  "number": "1.6.10",
   "title": "",
   "body": "     "
 },
@@ -1562,7 +1868,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-understanding-zero-exponents-and-their-applications-3",
   "type": "Activity",
-  "number": "1.5.6",
+  "number": "1.6.6",
   "title": "",
   "body": "     "
 },
@@ -1571,7 +1877,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-understanding-zero-exponents-and-their-applications-4",
   "type": "Example",
-  "number": "1.5.11",
+  "number": "1.6.11",
   "title": "",
   "body": "         "
 },
@@ -1580,7 +1886,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-understanding-zero-exponents-and-their-applications-5",
   "type": "Checkpoint",
-  "number": "1.5.12",
+  "number": "1.6.12",
   "title": "",
   "body": "     "
 },
@@ -1589,7 +1895,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-evaluating-numbers-written-in-index-form-3",
   "type": "Activity",
-  "number": "1.5.7",
+  "number": "1.6.7",
   "title": "",
   "body": "     "
 },
@@ -1598,7 +1904,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsubsec-evaluating-numbers-written-in-index-form-4",
   "type": "Example",
-  "number": "1.5.13",
+  "number": "1.6.13",
   "title": "",
   "body": "         "
 },
@@ -1607,7 +1913,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-7",
   "type": "Activity",
-  "number": "1.5.8",
+  "number": "1.6.8",
   "title": "",
   "body": "       Form groups of five learners , count and record the total number of girls and boys in your class.      List all the factors of each number.      Identify and circle the factors that are common to all the numbers.      Determine the Greatest Common Factor (HCF) by selecting the largest common factor.      Present your group's findings to the rest of the class.    "
 },
@@ -1616,7 +1922,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-8",
   "type": "Example",
-  "number": "1.5.14",
+  "number": "1.6.14",
   "title": "",
   "body": "  Find the HCF of     To find the HCF by factoring, list out all of the factors of each number  The divisors of are .  The divisors of are .  The divisors of are .  The common factors of are .  The greatest common factor of is .   "
 },
@@ -1625,7 +1931,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-9",
   "type": "Example",
-  "number": "1.5.15",
+  "number": "1.6.15",
   "title": "",
   "body": "  Three sticks of lengths cm, cm and cm are cut into smaller pieces of the length. Find the greatest length which can be cut without leaving a remainder.    To determine the greatest length which can be cut without leaving a remainder, we need to find the Greatest Common Divisor (GCD) of the three numbers.    prime factors for 30        prime factors for 45        prime factors for 60        The prime factorization of is .  The prime factorization of is .  The prime factorization of is .  The common prime factors of , and are and .  Thus, the Highest common factor of , and is .  The greatest length which can be cut from each stick without leaving a remainder is cm.   "
 },
@@ -1634,7 +1940,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-10",
   "type": "Checkpoint",
-  "number": "1.5.19",
+  "number": "1.6.19",
   "title": "",
   "body": "  Exercise for HCM goes here.   "
 },
@@ -1643,7 +1949,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-12",
   "type": "Activity",
-  "number": "1.5.9",
+  "number": "1.6.9",
   "title": "",
   "body": "   Click on the first dropdown next to Multiples of and scroll to select the any number.  After selecting a number, - and + buttons will appear. Click the + button to add multiples of the selected number. To remove a listed multiple, click the - button.  Keep clicking the + button until you have added at least multiples for the chosen number.      Click on the second dropdown next to Multiples of and scroll to select a different number from the one you selected on the first dropdown.  After selecting a number, - and + buttons will appear. Click the + button to add multiples of the selected number. To remove a listed multiple, click the - button.  Keep clicking the + button until you have added at least multiples for the chosen number.      Select the checkbox next to Common Multiples .  If none of the listed multiples are highlighted in blue, keep clicking the + button to generate more multiples.      Select the checkbox next to Least Common Multiple .  In the top right corner, click the circular arrow icon to reset the activity. Then, select new numbers from the dropdowns and repeat the process.      Write down what you observed and share with other learner in class.        "
 },
@@ -1652,7 +1958,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-13",
   "type": "Example",
-  "number": "1.5.21",
+  "number": "1.6.21",
   "title": "",
   "body": "  Find the LCM of     To find the LCM of , list the multiples of each number until at least one of the multiples appears on all lists  Multiples of are   Multiples of are   The common multiples are   The least common multiple is   Therefore, LCM of and is .   "
 },
@@ -1661,7 +1967,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-14",
   "type": "Example",
-  "number": "1.5.22",
+  "number": "1.6.22",
   "title": "",
   "body": "  Grade 7 pupils was preparing for a party and used a ribbon to decorate their classroom. What is the shortest possible length of a ribbon that can be cut into equal pieces of cm, cm or cm without a remainder?    To determine the shortest possible length of the ribbon that can be cut into equal pieces of cm, cm, and cm without a remainder, we need to find the Least Common Multiple (LCM) of these three numbers.     Write down your numbers in a top table row    Starting with the lowest prime numbers, divide the row of numbers by a prime number that is evenly divisible into at least one of your numbers and bring down the result into the next table row.    If any number in the row is not evenly divisible just bring down that number.    Continue dividing rows by prime numbers that divide evenly into at least one number    When the last row of results is all 's you are done.                                           Find the product of the prime numbers in the first column to get the LCM:     The LCM of is   Therefore, the shortest possible length of the ribbon should be cm long.   "
 },
@@ -1670,423 +1976,378 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-number-operations.html#subsec-highest-factor-and-least-common-multiple-15",
   "type": "Checkpoint",
-  "number": "1.5.23",
+  "number": "1.6.23",
   "title": "",
   "body": "  Exercise for LCM goes here   "
 },
 {
-  "id": "subsec-addition-and-subtraction-of-whole-and-decimal-numbers-2",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-addition-and-subtraction-of-whole-and-decimal-numbers-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Addition Subtraction "
-},
-{
-  "id": "subsec-addition-and-subtraction-of-whole-and-decimal-numbers-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-addition-and-subtraction-of-whole-and-decimal-numbers-3",
-  "type": "Activity",
-  "number": "1.5.10",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "subsec-addition-and-subtraction-of-whole-and-decimal-numbers-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-addition-and-subtraction-of-whole-and-decimal-numbers-4",
-  "type": "Example",
-  "number": "1.5.24",
-  "title": "",
-  "body": "  A company sold goods worth GHS in the month of January. In February, the company sold goods worth GHS . What was the total sales in the two months?     To find the total sales for the two months, we add the sales figures from each month.                   The total sales was GHS    "
-},
-{
-  "id": "subsec-addition-and-subtraction-of-whole-and-decimal-numbers-5",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-addition-and-subtraction-of-whole-and-decimal-numbers-5",
-  "type": "Example",
-  "number": "1.5.25",
-  "title": "",
-  "body": "  Fishermen across the country exported kilograms of fish in the first year. In the second year, the mass of fish exported decreased by kilograms. What was the total mass of fish exported in the second year?    To find the mass of fish exported in the second year, subtract the decrease from the amount exported in the first year.                                                    Therefore, the mass of fish exported in the second year was kilograms.   "
-},
-{
-  "id": "subsec-addition-and-subtraction-of-whole-and-decimal-numbers-6",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-addition-and-subtraction-of-whole-and-decimal-numbers-6",
-  "type": "Example",
-  "number": "1.5.26",
-  "title": "",
-  "body": "  A fishing company exported kilograms of fish in the first quarter of the year. In the second quarter, the mass of fish exported decreased by kilograms. What was the total mass of fish exported in the second quarter?    To find the mass of fish exported in the second quarter, subtract the decrease from the amount exported in the first quarter.                                       Therefore, the mass of fish exported in the second quarter was kilograms.   "
-},
-{
-  "id": "subsec-Divisibility-test-for-2-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-2-3",
-  "type": "Activity",
-  "number": "1.5.11",
-  "title": "",
-  "body": "   Work in groups      Form groups of learners. Each learner should write down a number between and .      Identify which of the numbers have an even number as their last digit.      Identify which of the numbers end with a zero.      Find out which numbers are divisible by       Share your findings with the rest of the class.    "
-},
-{
-  "id": "subsec-Divisibility-test-for-2-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-2-4",
-  "type": "Example",
-  "number": "1.5.27",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by ?       To identify if a number is divisible by , we check if its last digit (the digit in the ones place) is either or an even number .        The last digit of is , which is an even number.  Therefore, is divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is , which is an odd number.  Therefore, is not divisible by        The last digit of is   Therefore, is divisible by      Hence, are divisible by .   "
-},
-{
-  "id": "subsec-Divisibility-test-of-3-5",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-of-3-5",
-  "type": "Activity",
-  "number": "1.5.12",
-  "title": "",
-  "body": "    1. Count the number of blue pens in your class and one of you to write it down.  2. Count also the number of red pens in your class and indicate the number.  3. Find the total number of blue and red pens in the class.  4. Write down the number.  5. Add the digits in that number and identify if the result is divisible by .   "
-},
-{
-  "id": "subsec-Divisibility-test-of-3-6",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-of-3-6",
-  "type": "Example",
-  "number": "1.5.28",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by 3?                                  First, we add up all the single digits in the number Now, we check if can be divided by without any remainder  is divisible by hence is divisible by .       is divisible by hence is divisible by        is divisible by hence is divisible by        is not divisible by hence is not divisible by .      "
-},
-{
-  "id": "subsec-Divisibility-test-for-four-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-four-3",
-  "type": "Activity",
-  "number": "1.5.13",
-  "title": "",
-  "body": "  1. Each student to write a number between and and put it on a table at the center of the class.  2. P lace your math textbooks in the center of the classroom.  3. In turns, pick a number from the table without choosing.  4. Check if the number is divisible by by looking if the digits at the ones and tens place value are both zero or the number formed by the digits in the ones and tens place value is divisible by 4.  5. If the number is divisible by then pick textbooks and remain standing and if the number is not divisible by pass and go take a seat.  6. Share with your fellow learners the numbers that are divisible by .   "
-},
-{
-  "id": "subsec-Divisibility-test-for-four-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-four-4",
-  "type": "Example",
-  "number": "1.5.29",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by ?                                  The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is divisible by hence is divisible by        The number formed by the digits in ones and tens place value is   Now divide by  Since is not divisible by hence is not divisible by        The last two numbers are zeros hence is divisible by       "
-},
-{
-  "id": "subsec-divisibility-test-for-5-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-divisibility-test-for-5-3",
-  "type": "Activity",
-  "number": "1.5.14",
-  "title": "",
-  "body": "    1. Working in groups of 5, think of numbers between and and select five numbers from the range .  2. Check which of your selected numbers are divisible by and write them down.  3. Look at the last digits of the numbers that are divisible by .  4. What do you notice?  5. Present your observation to the class.   "
-},
-{
-  "id": "subsec-divisibility-test-for-5-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-divisibility-test-for-5-4",
-  "type": "Example",
-  "number": "1.5.30",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by ?                            To identify the numbers divisible by :  Check the numbers whose digits in the ones place value is either or .   , , are divisible by since the digits in the ones place value is either or zero.   "
-},
-{
-  "id": "subsec-divisibility-test-for-6-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-divisibility-test-for-6-3",
-  "type": "Activity",
-  "number": "1.5.15",
-  "title": "",
-  "body": "   1. Working in groups, find mathematical textbook and put it at the table.  2. In turns, each group member to close their eyes and open a page in the textbook.  3. One of the goup members to write down the number pages.  4. Test if the numbers are divisible by that is if the last digit is an even number and also test if the numbers are divisible by that is add the digits and check if the sum is divisible by .  5. If the number is divisible by both and then it is divisble by .  6. Share your group's findings with the class. What did you notice about the numbers divisible by .   "
-},
-{
-  "id": "subsec-divisibility-test-for-6-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-divisibility-test-for-6-4",
-  "type": "Example",
-  "number": "1.5.31",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by 6?   , ,           First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is divisible by 3.   is divisible by because it is divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       which is not divisible by 3.   is not divisible by because it is not divisible by both        First we check if is divisible by both   The digit in the ones place value of is even, hence it is divisible by   Add up all the single digits in the number then divide the sum by       remainder hence it is not divisible by 3.   is not divisible by because it is not divisible by both       "
-},
-{
-  "id": "subsec-Divisibility-test-for-8-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-8-3",
-  "type": "Activity",
-  "number": "1.5.16",
-  "title": "",
-  "body": "   1. Working in small groups with your classmates, use shoe sizes to generate numbers and write them down.  2. Combine two shoe sizes to create new numbers.  3. Look at the last three digits of the numbers formed and check if these last three digits are divisible by by dividing it by . If it is divisible by it should divide the number without leaving a remainder.  4. Write down whether each combined number is divisible by or not.   "
-},
-{
-  "id": "subsec-Divisibility-test-for-8-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-8-4",
-  "type": "Example",
-  "number": "1.5.32",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by 8?   , ,               is divisible by            is not divisible by            is divisible by       and are divisible by because the numbers formed by the digits in the ones, tens and hundreds place value are divisible by .   "
-},
-{
-  "id": "subsec-Divisibility-test-for-9-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-9-3",
-  "type": "Exploration",
-  "number": "1.5.17",
-  "title": "",
-  "body": "   Here is an example on how to find out if and are divisible by :   is divisible by , so is divisible by .  "
-},
-{
-  "id": "subsec-Divisibility-test-for-9-5",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-9-5",
-  "type": "Activity",
-  "number": "1.5.18",
-  "title": "",
-  "body": "    1. Working in groups of , each learner to form a 3 digit number using numbers from .  2. Each student to write down their 3-digit number on a piece of paper.  3. Outside the classroom, each group members to line up holding their numbers in the air for everyone to see.  4. Play the shooting game where the first person in the line \"shoots\" (points) at everyone in positions that are multiples of 2 (e.g., 2nd, 4th, 6th,...).  5. Check if the numbers from the students who were shot(were in positions which are multiples of 2) are divisible by 9.  6. Repeat the shooting game but here, the second person in the line shoots everyone in odd positions ( e.g., 1st, 3rd, 5th,...).  7. Check if the numbers obtained from the students in odd positions are divisible by 9.  8. Write down all numbers divisible by 9 from both rounds. Share your results with other groups.  9. Discuss what you realized about the numbers divisible by 9. Were there patterns in the results?   "
-},
-{
-  "id": "subsec-Divisibility-test-for-9-6",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-9-6",
-  "type": "Example",
-  "number": "1.5.33",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by 9?   , ,                  is not divisible by               is divisible by               is divisible by       and are divisible because the sum of the digits in each number is divisible by    "
-},
-{
-  "id": "subsec-Divisibility-test-for-10-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-10-3",
-  "type": "Activity",
-  "number": "1.5.19",
-  "title": "",
-  "body": "   Work in groups      Write down all the years between and .      Identify which years have a zero as the last digit.      Determine which years are divisible by .      Discuss how you can tell if a year is divisible by       Share your findings with other learners in the class.    "
-},
-{
-  "id": "subsec-Divisibility-test-for-10-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-10-4",
-  "type": "Example",
-  "number": "1.5.34",
-  "title": "",
-  "body": "  Which of the following numbers are divisible by ?   , , ,      and are divisible by because their digits in the ones place value is zero.   , are not divisible by because their digits in the ones place value is not zero.   "
-},
-{
-  "id": "subsec-Divisibility-test-for-11-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-11-3",
-  "type": "Activity",
-  "number": "1.5.20",
-  "title": "",
-  "body": "   Work in groups      Working in groups of learners, each learner to create a 4-digit number using digits from to and writes it on a piece of paper.      In turns, each learner to read out the number they formed for the group to check if it is divisible by .      Write down numbers you found to be divisible by .      Reflect on and discuss the strategy you used to determine if a number is divisible by .      Share your findings with the rest of the class.    "
-},
-{
-  "id": "subsec-Divisibility-test-for-11-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-Divisibility-test-for-11-4",
-  "type": "Example",
-  "number": "1.5.35",
-  "title": "",
-  "body": "  Is divisible by ?       First, find the sum of the digits in odd number positions.     Next we find the sum of digits in even positions.       Finding their difference we get:        Since the difference is , then is not divisible by    "
-},
-{
-  "id": "subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-3",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-3",
-  "type": "Activity",
-  "number": "1.5.21",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-4",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-4",
-  "type": "Figure",
-  "number": "1.5.36",
-  "title": "",
-  "body": " Perimeter of different plane figures.   "
-},
-{
-  "id": "ex-mult-partition-original",
-  "level": "2",
-  "url": "sec-number-operations.html#ex-mult-partition-original",
-  "type": "Example",
-  "number": "1.5.37",
-  "title": "",
-  "body": "   Work out: .    Breakdown into Hundreds,tens and ones .     Multiply each place value by      Add the products together.     Therefore,    "
-},
-{
-  "id": "subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-6",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-6",
-  "type": "Example",
-  "number": "1.5.38",
-  "title": "",
-  "body": "  Find the area of the rectangle below.   Rectangle image                 "
-},
-{
-  "id": "subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-7",
-  "level": "2",
-  "url": "sec-number-operations.html#subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers-7",
-  "type": "Example",
-  "number": "1.5.39",
-  "title": "",
-  "body": "  In the first phase of supplying books to schools, the government supplied textbooks to each school. The number of schools that received the books was . How many books did the government supply in the first phase?    We can solve this problem by multiplying by using the partition method.  First, break down into its place values:     Now, multiply each part by :     Add the partial products together:     Therefore, the government supplied textbooks in the first phase.   "
-},
-{
-  "id": "ex-div-partition-donations",
-  "level": "2",
-  "url": "sec-number-operations.html#ex-div-partition-donations",
-  "type": "Example",
-  "number": "1.5.40",
-  "title": "",
-  "body": "   Kwame collected exercise books to donate equally to schools in his region. How many exercise books did each school receive?    To find out how many books each school received, divide by .  We can use the partition method by breaking into parts that are easier to divide by .  Break down as follows:     Now divide each part by :     Add the quotients:     Therefore, each school received exercise books.      "
-},
-{
-  "id": "sec-fractions-decimals-and-percentages",
+  "id": "sec-patterns-and-relationships",
   "level": "1",
-  "url": "sec-fractions-decimals-and-percentages.html",
-  "type": "Section",
-  "number": "1.6",
-  "title": "Fractions, Decimals and Percentages",
-  "body": " Fractions, Decimals and Percentages   In this section, we explore the relationships and conversions between fractions, decimals, and percentages.    Concept of fractions  total    Operation with fractions   Explaining the process of addition and subtraction of two or three unlike and mixed fractions.    In everyday life, you often come across situations where we need to add or subtract parts of a whole—like pieces of cake, distances, or time. These parts are represented as fractions. Sometimes, we deal with mixed numbers, which are whole numbers combined with fractions, like In this lesson, you’ll learn how to add and subtract mixed numbers with unlike denominators.  Remember:      Mixed fractions are numbers like which means wholes and .     Unlike fractions are fractions with different denominators, such as and .              Get into pairs. Each group receives two sets of mixed numbers written on cards. Your task is to:  Add the mixed numbers in the first set.  Subtract the mixed numbers in the second set.    Share your steps and answers with the class.            Always start by adding\/subtracting whole numbers first.    Convert unlike fractions to like fractions by finding the LCM of the denominators.    Simplify your answer when possible.    You may also convert mixed numbers to improper fractions for easier calculation in some cases.       Add the following:                    Solve problems involving addition or subtraction of fractions.  t    Multiplication of fractions.        Work in groups   Kwabena, a baker, is excited to surprise his family with three delicious cakes. He eagerly pulls out his recipe book, only to realize he needs to calculate the sugar needed. Each cake, according to the recipe, requires a kg of sugar. Kwabena wonders the total amount of sugar he will need in total?. Can you help Kwabena figure out how much sugar he needs to bake his surprise cakes?  Share your calculations and the amount of sugar you determined with the rest of the class.      Work out:        To multiply a proper fraction by a whole number, multiply the numerator of the fraction by the whole number and retain the same denominator.     We now, convert resulting the improper fraction into a mixed fraction.                    Drag the slider Slide to explore to the right direction and observe what happens to the squares.      Click NEW FRACTIONS button on the bottom right hand side to regenerate new fractions and follow step again.      Discuss with your fellow learners on your observation in this activity.           Work out:     To multiply two fractions, multiply numerators and denominators separately and simplify the resulting fraction to its simplest form.            Work in groups   A delivery lorry set off from Tema town to Madina city, the lorry is transporting fresh farm produce, and the distance between Tema and Madina is km. The lorry uses litres of fuel per kilometre.  How many litres of fuel does the lorry need for the whole journey?  Share your work with learners in your class.     Work out:        First, we convert to improper fraction.       Multiply the fractions       Simplify the numerator and denominator by dividing through by             "
-},
-{
-  "id": "def-mixed-numbers",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#def-mixed-numbers",
-  "type": "Definition",
-  "number": "1.6.1",
-  "title": "",
-  "body": "  In everyday life, you often come across situations where we need to add or subtract parts of a whole—like pieces of cake, distances, or time. These parts are represented as fractions. Sometimes, we deal with mixed numbers, which are whole numbers combined with fractions, like In this lesson, you’ll learn how to add and subtract mixed numbers with unlike denominators.  Remember:      Mixed fractions are numbers like which means wholes and .     Unlike fractions are fractions with different denominators, such as and .      "
-},
-{
-  "id": "subsubsec-addition-and-subtraction-of-fractions-3",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-addition-and-subtraction-of-fractions-3",
-  "type": "Activity",
-  "number": "1.6.1",
-  "title": "",
-  "body": "       Get into pairs. Each group receives two sets of mixed numbers written on cards. Your task is to:  Add the mixed numbers in the first set.  Subtract the mixed numbers in the second set.    Share your steps and answers with the class.     "
-},
-{
-  "id": "subsubsec-addition-and-subtraction-of-fractions-6",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-addition-and-subtraction-of-fractions-6",
-  "type": "Example",
-  "number": "1.6.2",
-  "title": "",
-  "body": "  Add the following:                 "
-},
-{
-  "id": "subsubsec-multiplication-of-fractions-3",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions-3",
-  "type": "Activity",
-  "number": "1.6.2",
-  "title": "",
-  "body": "   Work in groups   Kwabena, a baker, is excited to surprise his family with three delicious cakes. He eagerly pulls out his recipe book, only to realize he needs to calculate the sugar needed. Each cake, according to the recipe, requires a kg of sugar. Kwabena wonders the total amount of sugar he will need in total?. Can you help Kwabena figure out how much sugar he needs to bake his surprise cakes?  Share your calculations and the amount of sugar you determined with the rest of the class.   "
-},
-{
-  "id": "subsubsec-multiplication-of-fractions-4",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions-4",
-  "type": "Example",
-  "number": "1.6.3",
-  "title": "",
-  "body": "  Work out:        To multiply a proper fraction by a whole number, multiply the numerator of the fraction by the whole number and retain the same denominator.     We now, convert resulting the improper fraction into a mixed fraction.         "
-},
-{
-  "id": "subsubsec-multiplication-of-fractions-6",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions-6",
-  "type": "Activity",
-  "number": "1.6.3",
-  "title": "",
-  "body": "       Drag the slider Slide to explore to the right direction and observe what happens to the squares.      Click NEW FRACTIONS button on the bottom right hand side to regenerate new fractions and follow step again.      Discuss with your fellow learners on your observation in this activity.        "
-},
-{
-  "id": "subsubsec-multiplication-of-fractions-7",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions-7",
-  "type": "Example",
-  "number": "1.6.5",
-  "title": "",
-  "body": "  Work out:     To multiply two fractions, multiply numerators and denominators separately and simplify the resulting fraction to its simplest form.      "
-},
-{
-  "id": "subsubsec-multiplication-of-fractions-9",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions-9",
-  "type": "Activity",
-  "number": "1.6.4",
-  "title": "",
-  "body": "  Work in groups   A delivery lorry set off from Tema town to Madina city, the lorry is transporting fresh farm produce, and the distance between Tema and Madina is km. The lorry uses litres of fuel per kilometre.  How many litres of fuel does the lorry need for the whole journey?  Share your work with learners in your class.  "
-},
-{
-  "id": "subsubsec-multiplication-of-fractions-10",
-  "level": "2",
-  "url": "sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions-10",
-  "type": "Example",
-  "number": "1.6.6",
-  "title": "",
-  "body": "  Work out:        First, we convert to improper fraction.       Multiply the fractions       Simplify the numerator and denominator by dividing through by          "
-},
-{
-  "id": "sec-Algebraic-expressions",
-  "level": "1",
-  "url": "sec-Algebraic-expressions.html",
+  "url": "sec-patterns-and-relationships.html",
   "type": "Section",
   "number": "2.1",
-  "title": "Algebraic Expressions",
-  "body": " Algebraic Expressions  An algebraic expression is a combination of numbers, letters, and mathematical operations used to solve mathematical questions.   Formation of Algebraic Expression from Real Life Situations  In algebra, we use letters to form algebraic expressions.   Why letters?   Watch this!     Work in Groups      Identify and form four groups of objects according to their similarities.    To each group add or subtract a number of items.    Form and write expressions to represent the new number of items in each group.    Discuss and share with other groups.        In a classroom of learners there are boys. Form an expression for the number of girls.    The number of girls is       There are mangoes and oranges a farm. Form an expression for the total number of mango and orange trees in the farm.    The total number of mango and orange trees are       Formation of Algebraic Expressions from_Simple Algebraic Statements involving Addition and Substraction      Formation of Algebraic Expressions from Simple Algebraic Statements involving Multiplication and Division      Simplication of Algebraic Expression in Real Life Situations     "
+  "title": "Patterns and Relationships",
+  "body": " Patterns and Relationships   Patterns and relationships are a part of our everyday life. Whether it's a pattern of shapes, numbers, or events, algebra helps us describe and predict what comes next. In this section, we explore how to find and describe patterns using rules and tables.    Number Patterns  A number pattern is a sequence of numbers that follow a particular rule. Understanding patterns helps us make predictions and solve problems.   Increasing Pattern    Write the next two terms of this pattern and describe the rule:   Find the rule and the next two terms in the sequence:    Each number increases by 3. This is an arithmetic pattern.  Next terms:      Describe a real-life pattern you have noticed and write an algebraic expression for it.     Write the next two terms of this pattern and describe the rule:  Each term is multiplied by 2. The next terms are .    Number pattern represented with squares increasing in size.      Pattern Tables  Tables can help us organize patterns and identify relationships between input and output numbers.   Filling a Pattern Table   Complete the table for the rule .      1 3  2 5  3 7  4 9       Use the rule to complete the table:    1 ?  2 ?  3 ?      Using a table to represent number patterns.      Describing Rules in Words and Algebra  Once we recognize a pattern, we can describe it using words or algebraic expressions.   Rule from a Pattern  Given the pattern , describe the rule and write an expression for the th term.  Each term increases by 3. First term is 4.  th term:     Find a rule and an expression for the th term of the pattern:     Graphical representation of a pattern and its algebraic rule.      Patterns in Real Life  Patterns are everywhere: in farming, school timetables, savings, or mobile phone usage. We can use algebra to describe them.   Saving Money  Kweku saves ₵5 every week. How much does he save after weeks?  Total saved = cedis    Afia takes 2 books from the library every week. Write an expression for the number of books she has after weeks.  Answer: Number of books =    Visualizing a weekly savings pattern in a table and bar chart.      Assessment Exercises    Complete the sequence and describe the rule:      Write the th term for the sequence:      Kofi sells bananas in bunches of 3. How many bananas will he have after bunches?     "
 },
 {
-  "id": "subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-3",
+  "id": "number-patterns-3",
   "level": "2",
-  "url": "sec-Algebraic-expressions.html#subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Why letters? "
-},
-{
-  "id": "subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-6",
-  "level": "2",
-  "url": "sec-Algebraic-expressions.html#subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-6",
-  "type": "Activity",
-  "number": "2.1.1",
-  "title": "",
-  "body": "  Work in Groups      Identify and form four groups of objects according to their similarities.    To each group add or subtract a number of items.    Form and write expressions to represent the new number of items in each group.    Discuss and share with other groups.     "
-},
-{
-  "id": "subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-7",
-  "level": "2",
-  "url": "sec-Algebraic-expressions.html#subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-7",
+  "url": "sec-patterns-and-relationships.html#number-patterns-3",
   "type": "Example",
   "number": "2.1.1",
-  "title": "",
-  "body": "  In a classroom of learners there are boys. Form an expression for the number of girls.    The number of girls is    "
+  "title": "Increasing Pattern.",
+  "body": " Increasing Pattern    Write the next two terms of this pattern and describe the rule:   Find the rule and the next two terms in the sequence:    Each number increases by 3. This is an arithmetic pattern.  Next terms:   "
 },
 {
-  "id": "subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-8",
+  "id": "number-patterns-4",
   "level": "2",
-  "url": "sec-Algebraic-expressions.html#subsec-Formation_of_Algebraic_Expression_from_Real_Life_Situations-8",
-  "type": "Example",
+  "url": "sec-patterns-and-relationships.html#number-patterns-4",
+  "type": "Checkpoint",
   "number": "2.1.2",
   "title": "",
-  "body": "  There are mangoes and oranges a farm. Form an expression for the total number of mango and orange trees in the farm.    The total number of mango and orange trees are    "
+  "body": "  Describe a real-life pattern you have noticed and write an algebraic expression for it.   "
+},
+{
+  "id": "number-patterns-5",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#number-patterns-5",
+  "type": "Checkpoint",
+  "number": "2.1.3",
+  "title": "",
+  "body": " Write the next two terms of this pattern and describe the rule:  Each term is multiplied by 2. The next terms are .  "
+},
+{
+  "id": "number-patterns-6",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#number-patterns-6",
+  "type": "Figure",
+  "number": "2.1.4",
+  "title": "",
+  "body": " Number pattern represented with squares increasing in size.   "
+},
+{
+  "id": "pattern-tables-3",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-tables-3",
+  "type": "Example",
+  "number": "2.1.5",
+  "title": "Filling a Pattern Table.",
+  "body": " Filling a Pattern Table   Complete the table for the rule .      1 3  2 5  3 7  4 9    "
+},
+{
+  "id": "pattern-tables-4",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-tables-4",
+  "type": "Checkpoint",
+  "number": "2.1.6",
+  "title": "",
+  "body": "  Use the rule to complete the table:    1 ?  2 ?  3 ?    "
+},
+{
+  "id": "pattern-tables-5",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-tables-5",
+  "type": "Figure",
+  "number": "2.1.7",
+  "title": "",
+  "body": " Using a table to represent number patterns.   "
+},
+{
+  "id": "pattern-rules-3",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-rules-3",
+  "type": "Example",
+  "number": "2.1.8",
+  "title": "Rule from a Pattern.",
+  "body": " Rule from a Pattern  Given the pattern , describe the rule and write an expression for the th term.  Each term increases by 3. First term is 4.  th term:  "
+},
+{
+  "id": "pattern-rules-4",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-rules-4",
+  "type": "Checkpoint",
+  "number": "2.1.9",
+  "title": "",
+  "body": "  Find a rule and an expression for the th term of the pattern:   "
+},
+{
+  "id": "pattern-rules-5",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-rules-5",
+  "type": "Figure",
+  "number": "2.1.10",
+  "title": "",
+  "body": " Graphical representation of a pattern and its algebraic rule.   "
+},
+{
+  "id": "real-life-patterns-3",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#real-life-patterns-3",
+  "type": "Example",
+  "number": "2.1.11",
+  "title": "Saving Money.",
+  "body": " Saving Money  Kweku saves ₵5 every week. How much does he save after weeks?  Total saved = cedis  "
+},
+{
+  "id": "real-life-patterns-4",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#real-life-patterns-4",
+  "type": "Checkpoint",
+  "number": "2.1.12",
+  "title": "",
+  "body": " Afia takes 2 books from the library every week. Write an expression for the number of books she has after weeks.  Answer: Number of books =  "
+},
+{
+  "id": "real-life-patterns-5",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#real-life-patterns-5",
+  "type": "Figure",
+  "number": "2.1.13",
+  "title": "",
+  "body": " Visualizing a weekly savings pattern in a table and bar chart.   "
+},
+{
+  "id": "pattern-assessment-2",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-assessment-2",
+  "type": "Checkpoint",
+  "number": "2.1.1",
+  "title": "",
+  "body": "  Complete the sequence and describe the rule:   "
+},
+{
+  "id": "pattern-assessment-3",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-assessment-3",
+  "type": "Checkpoint",
+  "number": "2.1.2",
+  "title": "",
+  "body": "  Write the th term for the sequence:   "
+},
+{
+  "id": "pattern-assessment-4",
+  "level": "2",
+  "url": "sec-patterns-and-relationships.html#pattern-assessment-4",
+  "type": "Checkpoint",
+  "number": "2.1.3",
+  "title": "",
+  "body": "  Kofi sells bananas in bunches of 3. How many bananas will he have after bunches?   "
+},
+{
+  "id": "algebraic-expressions-and-equations",
+  "level": "1",
+  "url": "algebraic-expressions-and-equations.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Algebraic Expressions and Equations",
+  "body": " Algebraic Expressions and Equations   Algebra is not only about symbols—it helps us solve real-life problems. In this section, you will learn to use algebraic expressions and equations in situations like budgeting, sharing, and calculating distance and time.    Solving Real-Life Problems   Shopping Budget   Mansa goes to the market with ₵50. She buys tubers of yam at ₵6 each and spends ₵8 on vegetables. Write an expression for the total amount spent and find how many yams she bought if she spent all her money.    Total cost =  Since she spent all her money:  Solve: →     Kwabena wants to buy pens at ₵3 each and a notebook for ₵12. If he spends ₵30, write and solve the equation to find how many pens he bought.    Using algebra to manage a market shopping budget.      Sharing and Equal Distribution   Sharing Money   Five students share ₵x equally. Each receives ₵20. What is the value of ?     Multiply both sides by 5:     Afua and her 3 friends share a basket of oranges equally. If each receives 6 oranges, how many oranges were in the basket?     Time, Money, and Distance Problems   Calculating Distance   A car travels at a speed of 60 km\/h. Write an expression for the distance travelled in hours. How far will it go in 3 hours?    Distance =  For :     A man earns ₵15 per hour. Write an expression for his earnings after hours. Calculate his earnings for 8 hours.    Solving problems involving time, money, and distance using algebra.      Assessment Exercises   Amina spends ₵4 on transport and ₵6 on lunch daily. Write an expression for her total spending in days and find the total for 5 days.    Joe sells tomatoes at ₵3 per kilo. If he earns ₵36, how many kilos did he sell?    A rider travels 45 km in hours. Write an expression for average speed.    "
+},
+{
+  "id": "real-life-word-problems-2",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#real-life-word-problems-2",
+  "type": "Example",
+  "number": "2.2.1",
+  "title": "Shopping Budget.",
+  "body": " Shopping Budget   Mansa goes to the market with ₵50. She buys tubers of yam at ₵6 each and spends ₵8 on vegetables. Write an expression for the total amount spent and find how many yams she bought if she spent all her money.    Total cost =  Since she spent all her money:  Solve: →   "
+},
+{
+  "id": "real-life-word-problems-3",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#real-life-word-problems-3",
+  "type": "Checkpoint",
+  "number": "2.2.2",
+  "title": "",
+  "body": " Kwabena wants to buy pens at ₵3 each and a notebook for ₵12. If he spends ₵30, write and solve the equation to find how many pens he bought.  "
+},
+{
+  "id": "real-life-word-problems-4",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#real-life-word-problems-4",
+  "type": "Figure",
+  "number": "2.2.3",
+  "title": "",
+  "body": " Using algebra to manage a market shopping budget.   "
+},
+{
+  "id": "sharing-distribution-2",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#sharing-distribution-2",
+  "type": "Example",
+  "number": "2.2.4",
+  "title": "Sharing Money.",
+  "body": " Sharing Money   Five students share ₵x equally. Each receives ₵20. What is the value of ?     Multiply both sides by 5:   "
+},
+{
+  "id": "sharing-distribution-3",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#sharing-distribution-3",
+  "type": "Checkpoint",
+  "number": "2.2.5",
+  "title": "",
+  "body": " Afua and her 3 friends share a basket of oranges equally. If each receives 6 oranges, how many oranges were in the basket?  "
+},
+{
+  "id": "time-money-distance-2",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#time-money-distance-2",
+  "type": "Example",
+  "number": "2.2.6",
+  "title": "Calculating Distance.",
+  "body": " Calculating Distance   A car travels at a speed of 60 km\/h. Write an expression for the distance travelled in hours. How far will it go in 3 hours?    Distance =  For :   "
+},
+{
+  "id": "time-money-distance-3",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#time-money-distance-3",
+  "type": "Checkpoint",
+  "number": "2.2.7",
+  "title": "",
+  "body": " A man earns ₵15 per hour. Write an expression for his earnings after hours. Calculate his earnings for 8 hours.  "
+},
+{
+  "id": "time-money-distance-4",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#time-money-distance-4",
+  "type": "Figure",
+  "number": "2.2.8",
+  "title": "",
+  "body": " Solving problems involving time, money, and distance using algebra.   "
+},
+{
+  "id": "contextual-assessment-2",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#contextual-assessment-2",
+  "type": "Checkpoint",
+  "number": "2.2.9",
+  "title": "",
+  "body": " Amina spends ₵4 on transport and ₵6 on lunch daily. Write an expression for her total spending in days and find the total for 5 days.  "
+},
+{
+  "id": "contextual-assessment-3",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#contextual-assessment-3",
+  "type": "Checkpoint",
+  "number": "2.2.10",
+  "title": "",
+  "body": " Joe sells tomatoes at ₵3 per kilo. If he earns ₵36, how many kilos did he sell?  "
+},
+{
+  "id": "contextual-assessment-4",
+  "level": "2",
+  "url": "algebraic-expressions-and-equations.html#contextual-assessment-4",
+  "type": "Checkpoint",
+  "number": "2.2.11",
+  "title": "",
+  "body": " A rider travels 45 km in hours. Write an expression for average speed.  "
+},
+{
+  "id": "variables-and-equations",
+  "level": "1",
+  "url": "variables-and-equations.html",
+  "type": "Section",
+  "number": "2.3",
+  "title": "Variables and Equations",
+  "body": " Variables and Equations   A variable is a symbol, usually a letter, that represents an unknown number. For example, in the expression , is a variable. An equation is a mathematical sentence that shows two values are equal. It usually contains variables and can be solved to find their values.    Understanding Variables   What is a Variable?   Kojo buys pencils at ₵2 each. What does the expression represent?    It represents the total cost of pencils at ₵2 each.  If , then total cost = .     Amina saves ₵5 each day. Write an expression for the amount she saves in days. What is the total for 6 days?    Variables represent unknown quantities, like number of items or days.      Forming Equations from Real-Life Problems  When we know the total and want to find a missing number, we form an equation using a variable.   Using an Equation   Kwame spends ₵12 on transport and ₵x on food. If his total expense is ₵20, write and solve the equation.    Equation:  Solve:     Sarah has ₵x. She gets ₵5 more from her friend. If she now has ₵17, write and solve an equation to find .     Equations vs Expressions  An expression does not have an equal sign. An equation has an equal sign and shows equality.   Compare the Two   Identify which of the following are equations and which are expressions:          is an expression.  is an equation.     Write an expression and an equation based on this situation: “A student spends ₵x on pens and ₵10 on books. The total cost is ₵25.”     Assessment Exercises   Write an expression for: “A teacher earns ₵50 per day for days.”    Form and solve an equation: “₵3 is added to a number and the result is ₵15.”    Which of the following is an equation?  (a) (b)     "
+},
+{
+  "id": "understanding-variables-2",
+  "level": "2",
+  "url": "variables-and-equations.html#understanding-variables-2",
+  "type": "Example",
+  "number": "2.3.1",
+  "title": "What is a Variable?",
+  "body": " What is a Variable?   Kojo buys pencils at ₵2 each. What does the expression represent?    It represents the total cost of pencils at ₵2 each.  If , then total cost = .   "
+},
+{
+  "id": "understanding-variables-3",
+  "level": "2",
+  "url": "variables-and-equations.html#understanding-variables-3",
+  "type": "Checkpoint",
+  "number": "2.3.2",
+  "title": "",
+  "body": " Amina saves ₵5 each day. Write an expression for the amount she saves in days. What is the total for 6 days?  "
+},
+{
+  "id": "understanding-variables-4",
+  "level": "2",
+  "url": "variables-and-equations.html#understanding-variables-4",
+  "type": "Figure",
+  "number": "2.3.3",
+  "title": "",
+  "body": " Variables represent unknown quantities, like number of items or days.   "
+},
+{
+  "id": "forming-equations-3",
+  "level": "2",
+  "url": "variables-and-equations.html#forming-equations-3",
+  "type": "Example",
+  "number": "2.3.4",
+  "title": "Using an Equation.",
+  "body": " Using an Equation   Kwame spends ₵12 on transport and ₵x on food. If his total expense is ₵20, write and solve the equation.    Equation:  Solve:   "
+},
+{
+  "id": "forming-equations-4",
+  "level": "2",
+  "url": "variables-and-equations.html#forming-equations-4",
+  "type": "Checkpoint",
+  "number": "2.3.5",
+  "title": "",
+  "body": " Sarah has ₵x. She gets ₵5 more from her friend. If she now has ₵17, write and solve an equation to find .  "
+},
+{
+  "id": "identifying-equations-vs-expressions-3",
+  "level": "2",
+  "url": "variables-and-equations.html#identifying-equations-vs-expressions-3",
+  "type": "Example",
+  "number": "2.3.6",
+  "title": "Compare the Two.",
+  "body": " Compare the Two   Identify which of the following are equations and which are expressions:          is an expression.  is an equation.   "
+},
+{
+  "id": "identifying-equations-vs-expressions-4",
+  "level": "2",
+  "url": "variables-and-equations.html#identifying-equations-vs-expressions-4",
+  "type": "Checkpoint",
+  "number": "2.3.7",
+  "title": "",
+  "body": " Write an expression and an equation based on this situation: “A student spends ₵x on pens and ₵10 on books. The total cost is ₵25.”  "
+},
+{
+  "id": "variables-assessment-2",
+  "level": "2",
+  "url": "variables-and-equations.html#variables-assessment-2",
+  "type": "Checkpoint",
+  "number": "2.3.8",
+  "title": "",
+  "body": " Write an expression for: “A teacher earns ₵50 per day for days.”  "
+},
+{
+  "id": "variables-assessment-3",
+  "level": "2",
+  "url": "variables-and-equations.html#variables-assessment-3",
+  "type": "Checkpoint",
+  "number": "2.3.9",
+  "title": "",
+  "body": " Form and solve an equation: “₵3 is added to a number and the result is ₵15.”  "
+},
+{
+  "id": "variables-assessment-4",
+  "level": "2",
+  "url": "variables-and-equations.html#variables-assessment-4",
+  "type": "Checkpoint",
+  "number": "2.3.10",
+  "title": "",
+  "body": " Which of the following is an equation?  (a) (b)   "
 },
 {
   "id": "sec-Linear-equations",
   "level": "1",
   "url": "sec-Linear-equations.html",
   "type": "Section",
-  "number": "2.2",
+  "number": "2.4",
   "title": "Linear Equations",
-  "body": " Linear Equations    Introduction to Linear Equations.   Have you ever tried to balance a scale? If you add weight to one side, you must do the same to the other side to keep it balanced. This idea is the foundation of linear equations.    What is a Linear Equation?   A linear equation is an equation where the highest power of the variable is 1. It has a simple form, such as:     Here, is the unknown number, called a variable. To find , we solve the equation step by step:              This means the value of that makes the equation true is    Why are Linear Equations Important?   Linear equations help us solve real-world problems, such as:    Calculating expenses: If a book costs dollars and you buy books, the total cost is . If the total cost is , you can find the price of one book by solving .     Finding unknown ages: If a person's age is , and their younger sibling is years younger, we can write this as      Distance and speed calculations: If a car travels at km per hour for hours, the distance covered is km.     You are going to learn how to:    Understand equations – Recognizing how equations express equality.     Solve for unknowns – Finding the value of variables step by step.     Use real-life applications – Applying equations to everyday situations.     Graph linear equations – Representing equations on a coordinate plane.     Linear equations are like puzzles waiting to be solved. With practice, you will see how they can make problem-solving easier and fun.    Forming Equations in One Unknown      Place a weight measure of on one side of weight measure of on the other side.    Gradually add a mass to the 1 kg mass until the beam balances.    Represent the added mass with a letter and relate the weights on the two sides of the beam balance.    Discuss and share with other groups.              Walibora bought a shirt and a pair of shorts. The cost of the pair of shorts was shillings less than that of the shirt. If the two items cost shillings. Write an equation representing the information using letter as the cost of a shirt.    The cost of one pair of shorts is   The cost of a shirt and a pair of shorts can be represented using the expression shown below:     Simplifying the equation, we get:     Thus the equation   Represents the cost of a shirt and a pair of shorts.      Exercise Here.      Solving Linear Equations in One Unknown.   Work in Groups     On one side of a beam balance, place five matchboxes of the same weight.    On the other side, place two matchboxes.    To the side with two matchboxes, gradually add grains of sand until the beam balances.    From both sides, remove two matchboxes and observe whether the beam balances.    Represent the mass of the added sand with a letter and form an equation involving the letter.    Discuss and share your results with other groups.                                   Solve the following equation:       Subtract from both sides.    (for accessibility)       (for accessibility)     By substracting from both sides you balance the beam balance which is represents the following equation.      Therefore,        Solve     Add to both sides so that we elimina,        Divide both sides by             Solve     Multiply both sides by 4     The on the left side of the equation cancels out and we are left with               Exercise Here.      Application of Linear Equations in One Unknown    Dorine and Andrew are to share kg of sugar so that Dorine gets kg more than what Andrew receives. Find the weight received by each of them.    Let Andrew's share be kg.  Dorine's share is;   Thus,            Andrew's share is kg and Dorine's share is kg.      Exercise Here.      Makanda and Magut sell exercise books at shillings per book. Peter bought some exercise books from Makanda's shop and from Magut's shop. In Magut's shop, he bought more books than he bought from Makanda's shop. If he spent a total of shillings buying the books, find the number of books bought from each shop.    Let the number of books bought from Makanda's shop be .  The number of books bought from Magut's shop is; .  Amount spent in Magut's shop is;      Amount spent in Makanda's shop is;   Total amount;      Thus, .           Number of books bought from Makanda's shop is and from Magut's shop is = .      Exercise Here.     "
+  "body": " Linear Equations    Introduction to Linear Equations.   Have you ever tried to balance a scale? If you add weight to one side, you must do the same to the other side to keep it balanced. This idea is the foundation of linear equations.    What is a Linear Equation?   A linear equation is an equation where the highest power of the variable is 1. It has a simple form, such as:     Here, is the unknown number, called a variable. To find , we solve the equation step by step:              This means the value of that makes the equation true is    Why are Linear Equations Important?   Linear equations help us solve real-world problems, such as:    Calculating expenses: If a book costs dollars and you buy books, the total cost is . If the total cost is , you can find the price of one book by solving .     Finding unknown ages: If a person's age is , and their younger sibling is years younger, we can write this as      Distance and speed calculations: If a car travels at km per hour for hours, the distance covered is km.     You are going to learn how to:    Understand equations – Recognizing how equations express equality.     Solve for unknowns – Finding the value of variables step by step.     Use real-life applications – Applying equations to everyday situations.     Graph linear equations – Representing equations on a coordinate plane.     Linear equations are like puzzles waiting to be solved. With practice, you will see how they can make problem-solving easier and fun.    Forming Equations in One Unknown      Place a weight measure of on one side of weight measure of on the other side.    Gradually add a mass to the 1 kg mass until the beam balances.    Represent the added mass with a letter and relate the weights on the two sides of the beam balance.    Discuss and share with other groups.       Key takeaway:      Equating the masses on both sides leads to the formation of an equation.       Immanuel bought a shirt and a pair of shorts. The cost of the pair of shorts was shillings less than that of the shirt. If the two items cost shillings. Write an equation representing the information using letter as the cost of a shirt.    The cost of one pair of shorts is   The cost of a shirt and a pair of shorts can be represented using the expression shown below:     Simplifying the equation, we get:     Thus the equation   Represents the cost of a shirt and a pair of shorts.      Exercise Here.      Solving Linear Equations in One Unknown.   Work in Groups     On one side of a beam balance, place five matchboxes of the same weight.    On the other side, place two matchboxes.    To the side with two matchboxes, gradually add grains of sand until the beam balances.    From both sides, remove two matchboxes and observe whether the beam balances.    Represent the mass of the added sand with a letter and form an equation involving the letter.    Discuss and share your results with other groups.                                   Solve the following equation:       Subtract from both sides.    (for accessibility)       (for accessibility)     By substracting from both sides you balance the beam balance which is represents the following equation.      Therefore,        Solve     Add to both sides so that we elimina,        Divide both sides by             Solve     Multiply both sides by 4     The on the left side of the equation cancels out and we are left with               Exercise Here.      Application of Linear Equations in One Unknown    Dorine and Andrew are to share kg of sugar so that Dorine gets kg more than what Andrew receives. Find the weight received by each of them.    Let Andrew's share be kg.  Dorine's share is;   Thus,            Andrew's share is kg and Dorine's share is kg.      Exercise Here.      Makanda and Magut sell exercise books at shillings per book. Peter bought some exercise books from Makanda's shop and from Magut's shop. In Magut's shop, he bought more books than he bought from Makanda's shop. If he spent a total of shillings buying the books, find the number of books bought from each shop.    Let the number of books bought from Makanda's shop be .  The number of books bought from Magut's shop is; .  Amount spent in Magut's shop is;      Amount spent in Makanda's shop is;   Total amount;      Thus, .           Number of books bought from Makanda's shop is and from Magut's shop is = .      Exercise Here.     "
 },
 {
   "id": "sec-Linear-equations-2-1",
@@ -2156,25 +2417,34 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Forming_Equations_in_one_Unknown-2",
   "type": "Activity",
-  "number": "2.2.1",
+  "number": "2.4.1",
   "title": "",
   "body": "    Place a weight measure of on one side of weight measure of on the other side.    Gradually add a mass to the 1 kg mass until the beam balances.    Represent the added mass with a letter and relate the weights on the two sides of the beam balance.    Discuss and share with other groups.     "
+},
+{
+  "id": "subsec-Forming_Equations_in_one_Unknown-3",
+  "level": "2",
+  "url": "sec-Linear-equations.html#subsec-Forming_Equations_in_one_Unknown-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Key takeaway: "
 },
 {
   "id": "subsec-Forming_Equations_in_one_Unknown-5",
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Forming_Equations_in_one_Unknown-5",
   "type": "Example",
-  "number": "2.2.1",
+  "number": "2.4.1",
   "title": "",
-  "body": "  Walibora bought a shirt and a pair of shorts. The cost of the pair of shorts was shillings less than that of the shirt. If the two items cost shillings. Write an equation representing the information using letter as the cost of a shirt.    The cost of one pair of shorts is   The cost of a shirt and a pair of shorts can be represented using the expression shown below:     Simplifying the equation, we get:     Thus the equation   Represents the cost of a shirt and a pair of shorts.   "
+  "body": "  Immanuel bought a shirt and a pair of shorts. The cost of the pair of shorts was shillings less than that of the shirt. If the two items cost shillings. Write an equation representing the information using letter as the cost of a shirt.    The cost of one pair of shorts is   The cost of a shirt and a pair of shorts can be represented using the expression shown below:     Simplifying the equation, we get:     Thus the equation   Represents the cost of a shirt and a pair of shorts.   "
 },
 {
   "id": "subsec-Forming_Equations_in_one_Unknown-6",
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Forming_Equations_in_one_Unknown-6",
   "type": "Checkpoint",
-  "number": "2.2.2",
+  "number": "2.4.2",
   "title": "",
   "body": "  Exercise Here.   "
 },
@@ -2183,7 +2453,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Solving_Linear_Equations_in_One_Unknown-2",
   "type": "Activity",
-  "number": "2.2.2",
+  "number": "2.4.2",
   "title": "Work in Groups.",
   "body": " Work in Groups     On one side of a beam balance, place five matchboxes of the same weight.    On the other side, place two matchboxes.    To the side with two matchboxes, gradually add grains of sand until the beam balances.    From both sides, remove two matchboxes and observe whether the beam balances.    Represent the mass of the added sand with a letter and form an equation involving the letter.    Discuss and share your results with other groups.     "
 },
@@ -2192,7 +2462,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Solving_Linear_Equations_in_One_Unknown-5",
   "type": "Example",
-  "number": "2.2.3",
+  "number": "2.4.3",
   "title": "",
   "body": "  Solve the following equation:       Subtract from both sides.    (for accessibility)       (for accessibility)     By substracting from both sides you balance the beam balance which is represents the following equation.      Therefore,     "
 },
@@ -2201,7 +2471,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Solving_Linear_Equations_in_One_Unknown-6",
   "type": "Example",
-  "number": "2.2.4",
+  "number": "2.4.4",
   "title": "",
   "body": "  Solve     Add to both sides so that we elimina,        Divide both sides by          "
 },
@@ -2210,7 +2480,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Solving_Linear_Equations_in_One_Unknown-7",
   "type": "Example",
-  "number": "2.2.5",
+  "number": "2.4.5",
   "title": "",
   "body": "  Solve     Multiply both sides by 4     The on the left side of the equation cancels out and we are left with            "
 },
@@ -2219,7 +2489,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Solving_Linear_Equations_in_One_Unknown-8",
   "type": "Checkpoint",
-  "number": "2.2.6",
+  "number": "2.4.6",
   "title": "",
   "body": "  Exercise Here.   "
 },
@@ -2228,7 +2498,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Application_of_Linear_Equations_in_One_Unknown-2",
   "type": "Example",
-  "number": "2.2.7",
+  "number": "2.4.7",
   "title": "",
   "body": "  Dorine and Andrew are to share kg of sugar so that Dorine gets kg more than what Andrew receives. Find the weight received by each of them.    Let Andrew's share be kg.  Dorine's share is;   Thus,            Andrew's share is kg and Dorine's share is kg.   "
 },
@@ -2237,7 +2507,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Application_of_Linear_Equations_in_One_Unknown-3",
   "type": "Checkpoint",
-  "number": "2.2.8",
+  "number": "2.4.8",
   "title": "",
   "body": "  Exercise Here.   "
 },
@@ -2246,7 +2516,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Application_of_Linear_Equations_in_One_Unknown-4",
   "type": "Example",
-  "number": "2.2.9",
+  "number": "2.4.9",
   "title": "",
   "body": "  Makanda and Magut sell exercise books at shillings per book. Peter bought some exercise books from Makanda's shop and from Magut's shop. In Magut's shop, he bought more books than he bought from Makanda's shop. If he spent a total of shillings buying the books, find the number of books bought from each shop.    Let the number of books bought from Makanda's shop be .  The number of books bought from Magut's shop is; .  Amount spent in Magut's shop is;      Amount spent in Makanda's shop is;   Total amount;      Thus, .           Number of books bought from Makanda's shop is and from Magut's shop is = .   "
 },
@@ -2255,7 +2525,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-equations.html#subsec-Application_of_Linear_Equations_in_One_Unknown-5",
   "type": "Checkpoint",
-  "number": "2.2.10",
+  "number": "2.4.10",
   "title": "",
   "body": "  Exercise Here.   "
 },
@@ -2264,7 +2534,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-Linear-inequalities.html",
   "type": "Section",
-  "number": "2.3",
+  "number": "2.5",
   "title": "Linear Inequalities",
   "body": " Linear Inequalities    Introduction to Linear Inequalities   In everyday life, we often come across situations where things are not exactly equal but instead follow a comparison. For example, if a bus can carry at most 50 passengers, it means the number of passengers should be less than or equal to 50. Similarly, if a student must be older than 12 years to join a club, it means their age must be greater than 12.  Mathematics helps us express such comparisons using inequalities .  An inequality is a mathematical statement that shows the relationship between two values when they are not equal. Unlike equations, which use the equal sign ( = ), inequalities use special symbols to compare values:      Greater than  : Example: means is any number greater than , but is not included.     Less than  : Example: means is any number less than , also in this case is not included.     Greater than or equal to  : Example: means is either or any number greater than .     Less than or equal to  : Example: means is either or any number less than .      What Are Linear Inequalities?   A linear inequality is an inequality that involves a linear expression. It is similar to a linear equation but uses inequality symbols instead of an equal sign.  For example:                Just like linear equations, linear inequalities can be solved by performing operations such as addition, subtraction, multiplication, and division. However, one key difference is that when multiplying or dividing by a negative number, the inequality sign must be reversed.   Why Are Inequalities Important?   Inequalities help us solve real-world problems, such as:     Determining budget constraints (e.g., \"You can spend at most $100.\")    Setting age limits (e.g., \"You must be at least 18 years old to vote.\")    Calculating time constraints (e.g., \"The train arrives in less than 30 minutes.\")    Describing physical limits (e.g., \"A container can hold no more than 5 liters of water.\")     We are goin to learn how to solve and illustrate linear inequalities in numberlines, understand their applications, and use them to make informed decisions in various situations.    Applying Linear Inequality Symbols to Inequality Statements.    Work in Groups.       You will need a seesaw.    One learner to sit on one end of the seesaw and another on the other end.    Find out who is heavier.    Find out who is lighter.    Repeat the information using the inequality symbols.    Share your work with other learners in the class.      Mary and John on the seesaw.       Work in Groups.   Read the story below and answer the questions that follow.  Harriet visited a nutritionist. She was advised not to take more than two eggs in a day. She was also advised to be eating not less than three fruits in a day.     Why is it important to include fruits in our diet?    How can we represent the above information using inequality symbols?    Share your findings with other learners.                 Use the symbols or to compare the following pairs of numbers;                      is less than .  The numbers can be expresed in an algebraic form as;     Also, the numbers can be written as;        is greater than .  Therefore, the numbers can be written as;     Also, the numbers can be written as;            In a village each family has atleast seven goats. Using letter to represent goats, write an inequality to represent the statement given.    Having as the number of goats in each family  Each family should have either goats or more.  Therefore,    The number of goats ( ) can be represented as an algebraic form as follows;        Exercise here     Forming a Simple Linear Inequalities in Real Life Situatuans    Work in Groups   Bag contains , mangoes. Two mangoes are added to it. The total number of mangoes is ether equal to or less than the number of mangoes in bag , which contains mangoes.   In pairs:      Add 2 mangoes to .    Compare the quantities and .    Discuss and share your results.        Jane had some oranges. She gave Mwara 5 of them. She was left with at most of them. Write an inequality to represent this statement.    Let the number of oranges be .  Remaining oranges after sharing to Mwara will be   Total oranges Jane had was atleast   Therefore, or   The equations above can be combined so that it can be written in an algebaric form as;         Exercise here.      Illustrating simple linear inequality on a number line   Number Line.   A number line is a straight horizontal line used to represent numbers. It helps us visualize numbers, compare values, and understand inequalities easily.     A number line extends infinitely in both directions.    It has a zero in the center, with positive numbers to the right and negative numbers to the left.    The numbers increase as we move to the right and decrease as we move to the left.    The numbers are evenly spaced on the line.     Take a look at the numberline below:   Number Line Illustrastion.      Work in Groups.      Consider x > 2.     Draw a number line.    Identify some of the numbers that satisfy the inequality.    Confirm whether the numbers are to the left or right of digit 2.    Circle digit 2.    From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.    Discuss and share with others.                                    Open point numberline                 closed point inequality         Illustrate on a number line.    Circle at digit and draw a line pointing towards numbers greater than .   Open point numberline        Illustrate on a number line    Draw a circle at digit and shade it then draw a line towards digits greater than .   closed point inequality       Exercise here.     Forming Compound Linear Inequality in one unkown.    Work in Groups.      Consider and     Make paper cut-outs and write on each cut-out numbers to .    Arrange the numbers on the cut-outs in an ascending order.    Shade the cutouts that satisfy .    Using the same cut-outs, shade the cut-outs that satisfy .    List down the numbers that satisfy and x < 6.              Form a compound inequality for and .     is equivalent to .  By combining and , we obtain the compound inequality.   .      Form a compound inequality for and      can be written as .  By combining and , we obtain the compound inequality.  Therefore, the compound inequality is .      Exercise here.      Illustrating compound inequalities on a number line   Work in Groups     Consider     Write down the two simple inequalities from the compound inequality.    Draw a number line.    Illustrate the two inequalities on the same number line.    Discuss and share with other groups.       Learning Point.   Part of a number line that satisfies two linear inequalities is the illustration of a given compound inequality.    Illustrate the compound inequality on a number line.    The compound inequality can be split into two simple inequalities: and . To illustrate this on a number line, draw open circles at and .   numberline with shaded region in between       Exercise here.    Work in Groups     Consider .    Write down the two simple inequalities from the compound inequality.    Draw a number line.    Illustrate the two inequalities on the same number line.    Discuss and share with other groups.              Illustrate the compound inequality on a number line.    The compound inequality can be split into two simple inequalities: and , draw closed points and then shade the region between them..   Number line        Exercise here.     "
 },
@@ -2327,7 +2597,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements-2",
   "type": "Activity",
-  "number": "2.3.1",
+  "number": "2.5.1",
   "title": "",
   "body": "  Work in Groups.       You will need a seesaw.    One learner to sit on one end of the seesaw and another on the other end.    Find out who is heavier.    Find out who is lighter.    Repeat the information using the inequality symbols.    Share your work with other learners in the class.      Mary and John on the seesaw.    "
 },
@@ -2336,7 +2606,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements-3",
   "type": "Activity",
-  "number": "2.3.2",
+  "number": "2.5.2",
   "title": "",
   "body": "  Work in Groups.   Read the story below and answer the questions that follow.  Harriet visited a nutritionist. She was advised not to take more than two eggs in a day. She was also advised to be eating not less than three fruits in a day.     Why is it important to include fruits in our diet?    How can we represent the above information using inequality symbols?    Share your findings with other learners.     "
 },
@@ -2345,7 +2615,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements-7",
   "type": "Example",
-  "number": "2.3.1",
+  "number": "2.5.1",
   "title": "",
   "body": "  Use the symbols or to compare the following pairs of numbers;                      is less than .  The numbers can be expresed in an algebraic form as;     Also, the numbers can be written as;        is greater than .  Therefore, the numbers can be written as;     Also, the numbers can be written as;         "
 },
@@ -2354,7 +2624,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements-8",
   "type": "Example",
-  "number": "2.3.2",
+  "number": "2.5.2",
   "title": "",
   "body": "  In a village each family has atleast seven goats. Using letter to represent goats, write an inequality to represent the statement given.    Having as the number of goats in each family  Each family should have either goats or more.  Therefore,    The number of goats ( ) can be represented as an algebraic form as follows;      "
 },
@@ -2363,7 +2633,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements-9",
   "type": "Checkpoint",
-  "number": "2.3.3",
+  "number": "2.5.3",
   "title": "",
   "body": " Exercise here  "
 },
@@ -2372,7 +2642,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans-2",
   "type": "Activity",
-  "number": "2.3.3",
+  "number": "2.5.3",
   "title": "",
   "body": "  Work in Groups   Bag contains , mangoes. Two mangoes are added to it. The total number of mangoes is ether equal to or less than the number of mangoes in bag , which contains mangoes.   In pairs:      Add 2 mangoes to .    Compare the quantities and .    Discuss and share your results.     "
 },
@@ -2381,7 +2651,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans-3",
   "type": "Example",
-  "number": "2.3.4",
+  "number": "2.5.4",
   "title": "",
   "body": "  Jane had some oranges. She gave Mwara 5 of them. She was left with at most of them. Write an inequality to represent this statement.    Let the number of oranges be .  Remaining oranges after sharing to Mwara will be   Total oranges Jane had was atleast   Therefore, or   The equations above can be combined so that it can be written in an algebaric form as;      "
 },
@@ -2390,7 +2660,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans-4",
   "type": "Checkpoint",
-  "number": "2.3.5",
+  "number": "2.5.5",
   "title": "",
   "body": "  Exercise here.   "
 },
@@ -2417,7 +2687,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_simple_linear_inequality_on_a_number_line-7",
   "type": "Activity",
-  "number": "2.3.4",
+  "number": "2.5.4",
   "title": "",
   "body": "  Work in Groups.      Consider x > 2.     Draw a number line.    Identify some of the numbers that satisfy the inequality.    Confirm whether the numbers are to the left or right of digit 2.    Circle digit 2.    From the circle, draw an arrow facing the direction with numbers which satisfy the inequality.    Discuss and share with others.     "
 },
@@ -2426,7 +2696,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_simple_linear_inequality_on_a_number_line-21",
   "type": "Example",
-  "number": "2.3.6",
+  "number": "2.5.6",
   "title": "",
   "body": "  Illustrate on a number line.    Circle at digit and draw a line pointing towards numbers greater than .   Open point numberline     "
 },
@@ -2435,7 +2705,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_simple_linear_inequality_on_a_number_line-22",
   "type": "Example",
-  "number": "2.3.7",
+  "number": "2.5.7",
   "title": "",
   "body": "  Illustrate on a number line    Draw a circle at digit and shade it then draw a line towards digits greater than .   closed point inequality     "
 },
@@ -2444,7 +2714,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_simple_linear_inequality_on_a_number_line-23",
   "type": "Checkpoint",
-  "number": "2.3.8",
+  "number": "2.5.8",
   "title": "",
   "body": " Exercise here.  "
 },
@@ -2453,7 +2723,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_Compound_Linear_Inequality_in_one_unkown-2",
   "type": "Activity",
-  "number": "2.3.5",
+  "number": "2.5.5",
   "title": "",
   "body": "  Work in Groups.      Consider and     Make paper cut-outs and write on each cut-out numbers to .    Arrange the numbers on the cut-outs in an ascending order.    Shade the cutouts that satisfy .    Using the same cut-outs, shade the cut-outs that satisfy .    List down the numbers that satisfy and x < 6.     "
 },
@@ -2462,7 +2732,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_Compound_Linear_Inequality_in_one_unkown-5",
   "type": "Example",
-  "number": "2.3.9",
+  "number": "2.5.9",
   "title": "",
   "body": "  Form a compound inequality for and .     is equivalent to .  By combining and , we obtain the compound inequality.   .   "
 },
@@ -2471,7 +2741,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_Compound_Linear_Inequality_in_one_unkown-6",
   "type": "Example",
-  "number": "2.3.10",
+  "number": "2.5.10",
   "title": "",
   "body": "  Form a compound inequality for and      can be written as .  By combining and , we obtain the compound inequality.  Therefore, the compound inequality is .   "
 },
@@ -2480,7 +2750,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Forming_Compound_Linear_Inequality_in_one_unkown-7",
   "type": "Checkpoint",
-  "number": "2.3.11",
+  "number": "2.5.11",
   "title": "",
   "body": "  Exercise here.   "
 },
@@ -2489,7 +2759,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line-2",
   "type": "Activity",
-  "number": "2.3.6",
+  "number": "2.5.6",
   "title": "<dfn class=\"terminology\">Work in Groups<\/dfn>.",
   "body": " Work in Groups     Consider     Write down the two simple inequalities from the compound inequality.    Draw a number line.    Illustrate the two inequalities on the same number line.    Discuss and share with other groups.     "
 },
@@ -2507,7 +2777,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line-5",
   "type": "Example",
-  "number": "2.3.12",
+  "number": "2.5.12",
   "title": "",
   "body": "  Illustrate the compound inequality on a number line.    The compound inequality can be split into two simple inequalities: and . To illustrate this on a number line, draw open circles at and .   numberline with shaded region in between     "
 },
@@ -2516,7 +2786,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line-6",
   "type": "Checkpoint",
-  "number": "2.3.13",
+  "number": "2.5.13",
   "title": "",
   "body": " Exercise here.  "
 },
@@ -2525,7 +2795,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line-7",
   "type": "Activity",
-  "number": "2.3.7",
+  "number": "2.5.7",
   "title": "<dfn class=\"terminology\">Work in Groups<\/dfn>.",
   "body": " Work in Groups     Consider .    Write down the two simple inequalities from the compound inequality.    Draw a number line.    Illustrate the two inequalities on the same number line.    Discuss and share with other groups.     "
 },
@@ -2534,7 +2804,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line-10",
   "type": "Example",
-  "number": "2.3.14",
+  "number": "2.5.14",
   "title": "",
   "body": "  Illustrate the compound inequality on a number line.    The compound inequality can be split into two simple inequalities: and , draw closed points and then shade the region between them..   Number line     "
 },
@@ -2543,7 +2813,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line-11",
   "type": "Checkpoint",
-  "number": "2.3.15",
+  "number": "2.5.15",
   "title": "",
   "body": "  Exercise here.   "
 },
@@ -2554,160 +2824,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.1",
   "title": "Shapes and Space",
-  "body": " Shapes and Space   Measuring and Classifying Angles    Complementary and Supplementary Angles    Angles in a Straight Line    Angles at a Point    Construct a Line Segment Perpendicular to another Line Segment           A ruler, A Compass and A pencil.       Draw a line segment as shown below.       Mark a point outside the line as shown below.       With the compass point on , draw an arc that cuts the line and label them as and as shown below.       (a).Place the compass on point and draw an arc below and above the line.  (b). Similarly, Place the compass on point and draw an arc below and above the line. Mark the intersection points of the arcs as and as shown below.       Use a ruler to draw a line from to . What do you notice?             Line is the perpendicular bisector of segment .           A ruler, A Compass and A pencil.     Draw a line segment . Mark a point on the line segment as shown below.       Place the compass point on and draw an arc that cuts the line at points and as shown below.       Place the compass on point and draw an arc above the line. Similarly, place the compass on point and draw an arc above the line. Mark the intersection point of the arcs as as shown below.       Use a ruler to draw a straight line from point to point . What do you notice?             Line is the perpendicular bisector of segment .    Constructing the Perpendicular Bisector of a Line Segement        What you need: A ruler, A compass and A pencil.      Draw the line segment as shown below.       With the compass centered at point A and radius equal to the length of segment AB, draw two arcs—one above and one below the line segment AB as shown below       Without changing the compass width, place the compass at point B and draw arcs above and below the line to intersect the arcs drawn from point A as shown below.       Mark the points where the arcs intersect above and below the line segment, and label them as and respectively.    Draw a straight line through points P and Q as shown below.             The line segment is the perpendicular bisector of the line segment .  The perpendicular bisector of a line segment is the line that is perpendicular to the segment and passes through its midpoint.    Bisecting of Angles        A ruler and A compass.  Given a known or unknown , the steps to construct its angle bisector are:        Place the compass pointer at and make an arc that cuts the two arms of the angle at two different points.       From the point where the first arc cut the arm , make another arc towards the interior of the angle.       Without changing the radius on the compass, repeat step from the point where the first arc cut .       Using a ruler, draw a line from to the point where the arcs intersect.                The line that was drawn through represents the angle bisector of the .    An angle bisector or the bisector of an angle is a line that divides an angle into two equal parts. For example, In the applet below, the blue line is said to be an angle bisector of angle .    The gray slider adjusts the entire measure of angle and the black slider dynamically illustrates what it means for a line to bisect an angle.         If an angle bisector bisects a line segment at , it is known as the perpendicular bisector of that line.  The figure below shows a Perpendicular Bisector of a Line Segment              If an angle bisector divides an angle of degrees, then what is the measure of each angle?    Given, a measure of an angle is   As we know, the angle bisector divides the angle into equal two parts.  Therefore, is divided into equal two parts, say .  Hence,                  Construct Angles Of 90° and 45°           What you need: A ruler, A compass and A pencil.      1.Draw a straight line and mark on it point . With point as the centre, make arcs to cut the line at and as shown below.       Using and as the centres, make arcs abave the line to meet at point as shown below.       Join points to as shown below.measure angle and . Which angles have you constructed?                         What you need: A ruler, A compass and A pencil.               Construct Angles Of 60° and 30°          Draw a straight line and mark a point on it as shown below.       With as center draw an arc of any radius to cut the line at .With the same radius and as center draw an arc to cut the previous arc at .       Join . Measure angle . Which angle have you constructed?                         What you need: A ruler, A compass and A pencil.     Construct (as shown in the above activity).       With as center, draw an arc of radius more than half of in the interior of . With the same radius and with as center draw an arc to cut the previous one at .    Join OC. Measure .           Construct Angles Of 15° and 75°        Constructing        A ruler, a protractor and a pair of compasses.  1.Draw a line and mark a point on it.     2.With as center draw an arc of any radius to cut the line at .     3.With same radius and with as center draw another arc to cut the previous arc at . With as center draw another arc of same radius to cut the first arc at .     4.Join . We get the required angle .                    Perpendicular Line Segments,Perpendicular Bisectors and Angle Bisectors in the Environment   "
-},
-{
-  "id": "subsec-construct-a-line-segment-perpendicular-to-another-line-segment-3",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-a-line-segment-perpendicular-to-another-line-segment-3",
-  "type": "Activity",
-  "number": "3.1.1",
-  "title": "",
-  "body": "      A ruler, A Compass and A pencil.       Draw a line segment as shown below.       Mark a point outside the line as shown below.       With the compass point on , draw an arc that cuts the line and label them as and as shown below.       (a).Place the compass on point and draw an arc below and above the line.  (b). Similarly, Place the compass on point and draw an arc below and above the line. Mark the intersection points of the arcs as and as shown below.       Use a ruler to draw a line from to . What do you notice?         "
-},
-{
-  "id": "subsec-construct-a-line-segment-perpendicular-to-another-line-segment-7",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-a-line-segment-perpendicular-to-another-line-segment-7",
-  "type": "Activity",
-  "number": "3.1.2",
-  "title": "",
-  "body": "      A ruler, A Compass and A pencil.     Draw a line segment . Mark a point on the line segment as shown below.       Place the compass point on and draw an arc that cuts the line at points and as shown below.       Place the compass on point and draw an arc above the line. Similarly, place the compass on point and draw an arc above the line. Mark the intersection point of the arcs as as shown below.       Use a ruler to draw a straight line from point to point . What do you notice?         "
-},
-{
-  "id": "subsec-constructing-the-perpendicular-bisector-of-a-line-segement-2",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-constructing-the-perpendicular-bisector-of-a-line-segement-2",
-  "type": "Activity",
-  "number": "3.1.3",
-  "title": "",
-  "body": "      What you need: A ruler, A compass and A pencil.      Draw the line segment as shown below.       With the compass centered at point A and radius equal to the length of segment AB, draw two arcs—one above and one below the line segment AB as shown below       Without changing the compass width, place the compass at point B and draw arcs above and below the line to intersect the arcs drawn from point A as shown below.       Mark the points where the arcs intersect above and below the line segment, and label them as and respectively.    Draw a straight line through points P and Q as shown below.         "
-},
-{
-  "id": "subsec-bisecting-of-angles-2",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-bisecting-of-angles-2",
-  "type": "Activity",
-  "number": "3.1.4",
-  "title": "",
-  "body": "      A ruler and A compass.  Given a known or unknown , the steps to construct its angle bisector are:        Place the compass pointer at and make an arc that cuts the two arms of the angle at two different points.       From the point where the first arc cut the arm , make another arc towards the interior of the angle.       Without changing the radius on the compass, repeat step from the point where the first arc cut .       Using a ruler, draw a line from to the point where the arcs intersect.         "
-},
-{
-  "id": "subsec-bisecting-of-angles-4-1-3-2",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-bisecting-of-angles-4-1-3-2",
-  "type": "Figure",
-  "number": "3.1.1",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "subsec-bisecting-of-angles-7",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-bisecting-of-angles-7",
-  "type": "Figure",
-  "number": "3.1.2",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "subsec-bisecting-of-angles-8",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-bisecting-of-angles-8",
-  "type": "Example",
-  "number": "3.1.3",
-  "title": "",
-  "body": "     "
-},
-{
-  "id": "subsec-bisecting-of-angles-9",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-bisecting-of-angles-9",
-  "type": "Example",
-  "number": "3.1.5",
-  "title": "",
-  "body": "  If an angle bisector divides an angle of degrees, then what is the measure of each angle?    Given, a measure of an angle is   As we know, the angle bisector divides the angle into equal two parts.  Therefore, is divided into equal two parts, say .  Hence,               "
-},
-{
-  "id": "subsec-construct-angle-of-90-and-45-3",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angle-of-90-and-45-3",
-  "type": "Activity",
-  "number": "3.1.5",
-  "title": "",
-  "body": "      What you need: A ruler, A compass and A pencil.      1.Draw a straight line and mark on it point . With point as the centre, make arcs to cut the line at and as shown below.       Using and as the centres, make arcs abave the line to meet at point as shown below.       Join points to as shown below.measure angle and . Which angles have you constructed?         "
-},
-{
-  "id": "subsec-construct-angle-of-90-and-45-4",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angle-of-90-and-45-4",
-  "type": "Example",
-  "number": "3.1.6",
-  "title": "",
-  "body": "     "
-},
-{
-  "id": "subsec-construct-angle-of-90-and-45-6",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angle-of-90-and-45-6",
-  "type": "Activity",
-  "number": "3.1.6",
-  "title": "",
-  "body": "      What you need: A ruler, A compass and A pencil.            "
-},
-{
-  "id": "subsec-construct-angles-of-60-and-30-2",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angles-of-60-and-30-2",
-  "type": "Activity",
-  "number": "3.1.7",
-  "title": "",
-  "body": "        Draw a straight line and mark a point on it as shown below.       With as center draw an arc of any radius to cut the line at .With the same radius and as center draw an arc to cut the previous arc at .       Join . Measure angle . Which angle have you constructed?         "
-},
-{
-  "id": "subsec-construct-angles-of-60-and-30-3",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angles-of-60-and-30-3",
-  "type": "Example",
-  "number": "3.1.10",
-  "title": "",
-  "body": "     "
-},
-{
-  "id": "subsec-construct-angles-of-60-and-30-5",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angles-of-60-and-30-5",
-  "type": "Activity",
-  "number": "3.1.8",
-  "title": "",
-  "body": "      What you need: A ruler, A compass and A pencil.     Construct (as shown in the above activity).       With as center, draw an arc of radius more than half of in the interior of . With the same radius and with as center draw an arc to cut the previous one at .    Join OC. Measure .        "
-},
-{
-  "id": "subsec-construct-angle-of-15-and-75-2",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-construct-angle-of-15-and-75-2",
-  "type": "Figure",
-  "number": "3.1.12",
-  "title": "",
-  "body": "   "
-},
-{
-  "id": "subsec-Constructing-angle-120-degrees-2",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#subsec-Constructing-angle-120-degrees-2",
-  "type": "Activity",
-  "number": "3.1.9",
-  "title": "",
-  "body": "      A ruler, a protractor and a pair of compasses.  1.Draw a line and mark a point on it.     2.With as center draw an arc of any radius to cut the line at .     3.With same radius and with as center draw another arc to cut the previous arc at . With as center draw another arc of same radius to cut the first arc at .     4.Join . We get the required angle .      "
-},
-{
-  "id": "exercises-construct-angles-1",
-  "level": "2",
-  "url": "sec-shapes-and-space.html#exercises-construct-angles-1",
-  "type": "Exercise",
-  "number": "3.1.11.1",
-  "title": "",
-  "body": "        "
+  "body": " Shapes and Space   Measuring and Classifying Angles    Complementary and Supplementary Angles    Angles in a Straight Line    Angles at a Point    Geometrical Constructions of Angles    Constructing the Perpendicular Bisector of a Line Segement    Bisecting of Angles    Perpendicular Line Segments,Perpendicular Bisectors and Angle Bisectors in the Environment   "
 },
 {
   "id": "sec-measurement",
@@ -2716,7 +2833,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.2",
   "title": "Measurement",
-  "body": " Measurement   Measurement helps us find out how long, wide, or far things are. We use it every day when building, cooking, or even drawing. In this topic, we will learn how to measure the edges and spaces of different shapes, including how to find the perimeter and area using simple formulas.    Perimeter and length         The perimeter of a shape is the total distance around its edges.    To find the perimeter, you add the lengths of all the sides of the shape.    Example:  For a rectangle with length 6 cm and width 4 cm:              Length usually refers to how long an object is from end to end.    In a rectangle, the longer side is often called the length, while the shorter is called the width.    It’s a one-dimensional measure (just one side), not a total like perimeter.      Note    one side (e.g., )   all sides added together (e.g., for a rectangle)    Calculate the perimeter of given shapes whose dimensions are in two units (i.e. cm and mm, m and cm, or km and m)      Consider a tailor cutting out and doing your school unifom. He has to take your measurements using a tape measure labelled alongside, record them down then take the fabric to make your uniform , measure then cut the fabric ready to sew it to come up with a well fitting uniform for you.   length          Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step from the picture above.   How many decimetres are there in a metre?  How many decimetres are there in a Decametre?  How many metres are there in a Hectometre?    length conversion                    Collect a number of sticks and cut them according to the exact height of the staircase in your environment.    Measure the sticks to uniform length in my case it's long.  I have what about you?    We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width.    Fill in the table below to test mastery of skills learnt from the activity...             ______mm = 1 cm    ______cm = 1 m    ______m = 1 km      Learning point.    1cm= 10mm    1m = 100cm    1km = 1000 m        a. We multiply a unit by to convert it to the next in descending order.   b. We divide a unit by to convert it to the next in ascending order.   Interact with the exrcise below. and observe conversion of different units of measuring length from You can also click on the dropown arow written and change the units as you prefer. The     Converting various units of measuring length.        Kwabena walks from home to school taking . Convert Moraa's distance in .    Since,        Kwabena walks from home to school.      The path from the gate to the office in Achimota School is . What is the distance in centimetres?    Distance is .  The conversion is,     Therefore,     The path from the gate to the school is .      Perimeter of plane figures    We need paper cut-outs and a ruler.     Make paper cut-outs of different plane figures.    Make paper cut-outs of different plane combined shapes.    Measure the distance round each shape using a piece of string and a ruler.    Compare the answers in step 2 and 3 and note the difference.     Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.    Develop the formula for a perimeter of a rectangle in this activity. Drag th   Calculating perimeter.       Akosua made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. Work out the perimeter of the combined cut      We can as well make different shapes and find their perimeters. Explore on the folowing shapes and count the number of sides they have in the video below.        Perimeter of different plane figures.      Work out the perimeter of the given plane figures.                     Perimeter of a square.     Perimeter of a rectangle.          Work out the perimeter of the figure below.       We add all the sides to get the perimeter.       Calculate the perimeter of a shape with dimensions given in km and m by converting to the smaller unit and adding the distance around the shapes.       Change all the measurements to the same unit.  You will change everything to metres (m), because most of the sides are already in m.     Now write all sides in metres:     Top     Bottom     Left     Right      Add all the sides to find the perimeter.         Calculate the perimeter of a shape with dimensions given in cm and mm by converting to decimal fractions in the larger unit       The sides have a mix of centimetres (cm) and millimetres (mm).  Recal, therefore,      Change all mm to cm by converting.          Therefore, the labels are,        Add all the sides to get the perimeter.          Part of a circle   Circumference of a circle         We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumference of each circular object using a tapemeasure as shown alongside, or a string if you don't have a tapemeasure and record your answer.    Use a ruler to measure the length of the string that is equal to the string that is equal to the circumference.    Measure the diameter of each circular object as shown below. The distance is the diameter of each object.     measuring circumfrence     (measuring diameter)   5. Draw and fill in the table like the one shown below.      Number of Item(s)  Object  Circumference (C)  Diameter (d)  Circumference diameter    1        2        3        4         6. What do you notice about the values of ?  7. Share your work with other learners in your class.         The circumference is the distance round a circle.    When you divide the circumference by the diameter of any circular object, the number you get is approximately correct to three decimal places.   Circumference     The number is called and is represented by the symbol . As a fraction, . Therefore, circumference   or       Two radii are equal to the diameter. Hence   Circumference       Perimeter of different plane figures.      The diameter of a circle is . Find its circumference.    Circumference where is the diameter of a circle.  Therefore,     The circumference       Work out the circumference.              Use the relationship between the diameter and circumference of a circle (i.e. ) to solve problems.     The radius of a circle is .     What is the diameter of the circle?    What is the circumference of the circle?     [Take ]    Find the circumference of the circles below whose radii are given and round your answer to the nearest tenth [take ]:                     The diameter of the cicle is given as follows.  Given that.          The circumference of the circle is as follows.             The circumference of the cicle is given by;       The circumference of the cicle is given by;               Length of an arc  An arc of a circle is a portion of the circumference (the curved edge) of the circle.  There are two main types of arcs:     Minor Arc – less than half the circle (less than ).    Major Arc – more than half the circle (more than ).     The length of an arc depends on the central angle (the angle subtended at the center of the circle) and the radius of the circle.  See the figure below showing the circle divided in diffrent sections.     The length of an arrc of a circle is of the circumference of the circle  In general. The length of an arc of a circle which substends an angle at the centre of the circle is given by          Calculate the circumference of the cut out by measuring the crcular edge using a string.    Use a ruler to measure the length of the string.    Cut the cutout into two equal parts along the diameter. This enables you obtain two equal objects called a     Measure the curved length of one semi-circle using a string. Use a ruler to measure the length of the string.    Measure the angle of the at the centre O of the semicircle. Express the angle as a fraction of .    Compare the answer you got in step 3 and the answer you got in step 4. What do you notice?    Discuss how to calculate the length of the arc of the semi-circle.         A semi-circle is a sector of a circle. Where the term sector is derived from the word section.  Arc length of a semi-circle is given by  Do an extended activity to explore on how to calculate the length of the arc of a quarter circle by simply cutting the semi-circle and repeat the steps of measuring circumference length  A quarter a circle is called a quadrant. So how many Quadrants do we have?   A quarter-circle is also a sector of a circle.  Arc length of a quarter-circle is  Can you compute one for a three quarter-circle?     An arc of a circle substends an angle at the centre of the circle. Find the length of the arc if the circle is . (Take )    The length of the arc is given by;      , r cm  Therefore.         Find the arc length of the figure below. Use               Find the angle substended at the centre of a circle by an arc of length if the radius of the circle is         ,   Therefore,         Find the arc length of the figure below.       The arc length is given by;          Pi(π)      Area      Parallelogram      Area of a rectangle  Area of a rectangle length width  length Area width  width Area length   Work in groups     Trace and cut out the rectangle below.      Find the area of the rectangle paper cut-out   Find the area of the rectangles below by multiplying the length and width.    Rectangles  Length  Width  Area    A       B       C       D        Share your answer with other learners in class.      Play along with the activities below.  Build your own figures on a grid using unit squares to explore areas of rectangles, squares, and composite shapes in this activity   Perimeter of different plane figures.    Calculate the areas of the figures given their side lengths.   Perimeter of different plane figures.       Find the area of a rectangle whose length is and width is .    Use Area            A rectangular plot is of length and width . Find its area in;                  1.Find the area in that is     2. Converting to          Work out the area of the figure below.          The area is :       Area of a triangle  Have you ever seen a triangular field or a slice of bread cut into a triangle?  Triangles are shapes with three sides and three corners. we are going to learn how to find the amount of space inside a triangle — this is called its area.            Draw a rectangle on the board (e.g ) as shown below.       What is the area of the rectangle you have drawn in the board?    Divide it into two equal triangles by drawing a diagonal line as shown.       Divide the area of the rectangle.    How many triangles did you get from one rectangle?    Find the area of one triangle.    What do you notice from the area of the rectangle divided by two and the area of one triangle?    Share your work with other learners.        A triangle is half of a rectangle.  The area of a triangle is given by;        Always make sure the height is at to the base!     Ama wants to paint a triangular wall with a base of and a height of . How much space will she paint?          Therefore,         Calculate the area of the triangles:        where      Triangle 1       Triangle 2       Triangle 3            Determine the area of a triangle below.       The above figure,        Therefore,         Area of a parallelogram and rhombus        Rectangle is a type of parallelogram where all the angles are 90°    All rectangles are parallelograms, but not all parallelograms are rectangles.        The figure below shows a parallelogram with base and height labeled.      Work in pairs.  In this worksheet there two polygons; a rectangle and a parallelogram. Use the polygons to complete the investigation below.   Perimeter of different plane figures.       Change the height of the rectangle (h) by moving point C. What happens to the height of the parallelogram?   Change the width of the rectangle by moving point L. What happens to the parallelogram?  Find the area of 3 different rectangles and compare the area of each rectangle to the area of the corresponding parallelogram.  What conjecture can you make about the formula for area of a parallelogram and why? (use the answer to question 3 to guide you)  Share your work with other leaners in class       Muchemi's piece of land is in the shape below.   Parallelogram   What is the area of the piece of land?       The area of the piece of land is .      Mr Onyango's garden is in the shape of a parallelogram. The length of the farm is and its height is . Find the area of the garden.    Try to scetch the garden in form of a parallelogram.  Use the formula of parallelogram to get the area of the farm.    Given that the length   height of the farm   The scetch is as shown,        The area of the piece of garden is .          When calculating the area of a parallelogram ensure you use the formula Area     For any drawn figure ensure you've obtained both the base and height before incoopereting the formula.         Move the slide slowly as you whatch how the rhombus looks like.   A Rhombus.        A rhombus is a type of quadrilateral that is a special kind of parallelogram. The key characteristics of a rhombus are:     Opposite sides are parallel.    All sides have equal length.    Opposite angles are equa and adjacent angles are supplementary (they add up to ).    The diagonals of a rhombus bisect each other at right angles (90°), meaning they intersect at a right angle and divide each other into two equal parts.     The formula for the area of a rhombus can be given in two common ways:     Using the diagonals:   where:   and are the lengths of the two diagonals.    Using the base and height:   Where the base is the length of any side (since all sides are equal) and the height is the perpendicular distance between opposite sides.       Calculate the area of the figure given it's diagonals are and .   Rhombus     Area of a rhombus short diagonals long diagonal.         Calculate the area of each rhombus.            (a)  Area of a rhombus by the base and height: .     (b)         A rhombus has a diagonal of 10 cm and another diagonal of 24 cm. Find:  i) The area of the rhombus.  ii).The length of one side of the rhombus.       i.  One diagonal = 10 cm  Another diagonal = 24 cm     ii. Length of One Side of the Rhombus  In a rhombus, the diagonals bisect each other at 90°. That means each side of the rhombus forms a right-angled triangle with half of each diagonal.  Let's find the length of one side using the Pythagorean Theorem.  Each side of the rhombus is the hypotenuse of a right triangle with legs:         Bearings    A bearing is the angle in degrees measured in the clockwise direction from north.   Bearing is also known as true bearing .                       Fourier: Making Waves iframe     Bearings  Three figures are used to give the bearing.  The angle is measured from the north .   For example, a bearing of indicates due east , indicates due south , and indicates due west .    Kisumu and Nanyuki are situated in such a way that Nanyuki is on a bearing of from Nakuru and Kisumu on a bearing of from Nakuru. If Kisumu is km and Nanyuki is km from Nakuru, find the bearing of Kisumu from Nanyuki.    First, we draw a sketch showing the positions of Nakuru (N), Nanyuki (A), and Kisumu (B). The angle between the bearings from Nakuru to Nanyuki and Kisumu is:     Since this angle is greater than 180°, we use the interior angle in triangle ANB:     Now, apply the cosine rule to find the distance (distance from Nanyuki to Kisumu):                    Now, use the sine rule to find the angle at Nanyuki (angle NAB):              Finally, the bearing of Kisumu from Nanyuki is:      Answers:     The bearing of Kisumu from Nanyuki is approximately .  The distance from Nanyuki to Kisumu is approximately km.                  Back Bearing  Back bearing is a fundamental concept in navigation and surveying. It refers to the direction opposite to the direction of a given bearing. In other words, the back bearing is the bearing from the destination point back to the starting point.  If the fore bearing (the direction from point A to point B) is known, the back bearing (from point B to point A) can be calculated by adding or subtracting depending on the value of the fore bearing.  For example, if the fore bearing is less than , the back bearing is found by adding . If the fore bearing is greater than , the back bearing is found by subtracting .    Vectors  In mathematics, vectors are a fundamental concept that goes beyond numbers. Suppose I ask, \"How far is your home from school?\" One possible response is \" kilometers.\" However, I can't get to your home with just this information. I would also need to know the direction, whether it is east, west, northeast, or south. This combination of both distance and direction is what a vector represents.    Pilots use vectors to calculate the distance and direction they need to take inorder to travel from one location to another. In this section, we will explore how to use vectors and apply different operations on them.    Equality of Vectors     Work in groups    What you require: Graph paper,ruler     Draw the and axis on the graph paper.      Plot the points and .      Draw a line to connect point and add an arrow pointing to point       Draw a line to connect point and add an arrow pointing to point       What similarities does vector and vector have in common?      What is the name given to vectors and ?      Discuss and share your findings with the rest of the class.        Two or more vectors are said to be equivalent if they satisfy the following conditions:     They have same magnitude.    They point in the same direction.            In above, since they have same direction and equal magnitude.    Using below, determine whether vector and are equivalent.           Vector are equivalent because they have the same magnitude, , and they point in the same direction      Magnitude of Vectors     Work in groups    What you require: Graph paper     Draw the axis and axis on the graph paper.      Mark the coordinate as the initial point .      From Point , move units to the right along the axis and units upward in the axis. Mark this new position as Point .      Draw a directed line from point to point to represent .      Use a ruler to measure the length of .      Analyze the relationship between the displacement, displacement, and the length of .      Discuss and share your findings with your classmates in the class.        The magnitude of in can be denoted as . The magnitude of represents the distance between point and point .  We can represent the components of as , where represents the horizontal displacement and represents the vertical displacement.  We determine the magnitude of by applying Pythagorean theorem as shown below.             The magnitude of a vector is always positive since and components are squared, resulting in and , both of which are non-negative .    Determine the magnitude of as shown in the below.           To find the magnitude of , we apply pythagora's theorem to find the length .     Hence, the magnitude of represented as is         Given that , , and . Find      .  Substituting the values of , and into the equation;                        Column Vectors     Work in groups      Draw the axis and axis on the graph paper.      Plot point and point on the graph.      Draw a directed line from point A to point B.      Represent vector AB in terms of its components as where is the horizontal displacement and is the vertical displacement.      Discuss and share your findings with the rest of the class.        A vector expressed in the form of , where is the horizontal displacement along the axis and is the vertical displacement along the axis is known as a column vector.          The vector illustrates a displacement from the origin to the point . This consist of a horizontal displacement of units along the axis and a vertical displacement of units in the axis.    Given that: and . Find and illustrate the solution graphically.    To determine , we calculate the total displacement in both the and directions:  Horizontal displacement is   Vertical displacement is    Graphical Representation   Begin at the point on the grid, move unit horizontally to the right and move units vertically upwards and mark it as end point. Draw a directed line connecting the two points as shown in the .  From the point on the grid, move units horizontally to the right parallel to the axis, and move units vertically up and mark it as end point. Draw another directed line to join the two points.  Now, to find the resultant vector , join the initial point with the final point and count the total displacements in the and directions.         Therefore,          If and , find .    To determine , we multiply vector by and vector by and finally we add the resulting vectors.     Therefore,      "
+  "body": " Measurement   Measurement helps us find out how long, wide, or far things are. We use it every day when building, cooking, or even drawing. In this topic, we will learn how to measure the edges and spaces of different shapes, including how to find the perimeter and area using simple formulas.    Perimeter and length         The perimeter of a shape is the total distance around its edges.    To find the perimeter, you add the lengths of all the sides of the shape.    Example:  For a rectangle with length 6 cm and width 4 cm:              Length usually refers to how long an object is from end to end.    In a rectangle, the longer side is often called the length, while the shorter is called the width.    It’s a one-dimensional measure (just one side), not a total like perimeter.      Note    one side (e.g., )   all sides added together (e.g., for a rectangle)    Calculate the perimeter of given shapes whose dimensions are in two units (i.e. cm and mm, m and cm, or km and m)       Part of a circle      Area      Bearings    Back Bearing    Vectors    Equality of Vectors    Magnitude of Vectors    Column Vectors     Work in groups      Draw the axis and axis on the graph paper.      Plot point and point on the graph.      Draw a directed line from point A to point B.      Represent vector AB in terms of its components as where is the horizontal displacement and is the vertical displacement.      Discuss and share your findings with the rest of the class.        A vector expressed in the form of , where is the horizontal displacement along the axis and is the vertical displacement along the axis is known as a column vector.          The vector illustrates a displacement from the origin to the point . This consist of a horizontal displacement of units along the axis and a vertical displacement of units in the axis.    Given that: and . Find and illustrate the solution graphically.    To determine , we calculate the total displacement in both the and directions:  Horizontal displacement is   Vertical displacement is    Graphical Representation   Begin at the point on the grid, move unit horizontally to the right and move units vertically upwards and mark it as end point. Draw a directed line connecting the two points as shown in the .  From the point on the grid, move units horizontally to the right parallel to the axis, and move units vertically up and mark it as end point. Draw another directed line to join the two points.  Now, to find the resultant vector , join the initial point with the final point and count the total displacements in the and directions.         Therefore,          If and , find .    To determine , we multiply vector by and vector by and finally we add the resulting vectors.     Therefore,        If , and , find:                                        Given the column vectors and , find the following:                    "
 },
 {
   "id": "subsec-perimeter-and-length-2-5",
@@ -2728,461 +2845,11 @@ var ptx_lunr_docs = [
   "body": "Note "
 },
 {
-  "id": "subsubsec-Calculate-the-perimeter-of-given-shapes-4",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Calculate-the-perimeter-of-given-shapes-4",
-  "type": "Activity",
-  "number": "3.2.1",
-  "title": "",
-  "body": "      Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step from the picture above.   How many decimetres are there in a metre?  How many decimetres are there in a Decametre?  How many metres are there in a Hectometre?    length conversion                    Collect a number of sticks and cut them according to the exact height of the staircase in your environment.    Measure the sticks to uniform length in my case it's long.  I have what about you?    We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width.    Fill in the table below to test mastery of skills learnt from the activity...             ______mm = 1 cm    ______cm = 1 m    ______m = 1 km      Learning point.    1cm= 10mm    1m = 100cm    1km = 1000 m        a. We multiply a unit by to convert it to the next in descending order.   b. We divide a unit by to convert it to the next in ascending order.   Interact with the exrcise below. and observe conversion of different units of measuring length from You can also click on the dropown arow written and change the units as you prefer. The     Converting various units of measuring length.     "
-},
-{
-  "id": "subsubsec-Calculate-the-perimeter-of-given-shapes-5",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Calculate-the-perimeter-of-given-shapes-5",
-  "type": "Example",
-  "number": "3.2.4",
-  "title": "",
-  "body": "  Kwabena walks from home to school taking . Convert Moraa's distance in .    Since,        Kwabena walks from home to school.   "
-},
-{
-  "id": "subsubsec-Calculate-the-perimeter-of-given-shapes-6",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Calculate-the-perimeter-of-given-shapes-6",
-  "type": "Example",
-  "number": "3.2.5",
-  "title": "",
-  "body": "  The path from the gate to the office in Achimota School is . What is the distance in centimetres?    Distance is .  The conversion is,     Therefore,     The path from the gate to the school is .   "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-2",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-2",
-  "type": "Activity",
-  "number": "3.2.2",
-  "title": "",
-  "body": "  We need paper cut-outs and a ruler.     Make paper cut-outs of different plane figures.    Make paper cut-outs of different plane combined shapes.    Measure the distance round each shape using a piece of string and a ruler.    Compare the answers in step 2 and 3 and note the difference.     Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.   "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-4",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-4",
-  "type": "Figure",
-  "number": "3.2.6",
-  "title": "",
-  "body": " Calculating perimeter.   "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-5",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-5",
-  "type": "Exploration",
-  "number": "3.2.3",
-  "title": "",
-  "body": "   Akosua made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. Work out the perimeter of the combined cut      We can as well make different shapes and find their perimeters. Explore on the folowing shapes and count the number of sides they have in the video below.      "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-6",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-6",
-  "type": "Figure",
-  "number": "3.2.7",
-  "title": "",
-  "body": " Perimeter of different plane figures.   "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-7",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-7",
-  "type": "Example",
-  "number": "3.2.8",
-  "title": "",
-  "body": "  Work out the perimeter of the given plane figures.                     Perimeter of a square.     Perimeter of a rectangle.       "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-8",
-  "type": "Example",
-  "number": "3.2.9",
-  "title": "",
-  "body": "  Work out the perimeter of the figure below.       We add all the sides to get the perimeter.    "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-9",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-9",
-  "type": "Example",
-  "number": "3.2.10",
-  "title": "",
-  "body": "  Calculate the perimeter of a shape with dimensions given in km and m by converting to the smaller unit and adding the distance around the shapes.       Change all the measurements to the same unit.  You will change everything to metres (m), because most of the sides are already in m.     Now write all sides in metres:     Top     Bottom     Left     Right      Add all the sides to find the perimeter.      "
-},
-{
-  "id": "subsubsec-perimeter-of-plane-figures-10",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-perimeter-of-plane-figures-10",
-  "type": "Example",
-  "number": "3.2.11",
-  "title": "",
-  "body": "  Calculate the perimeter of a shape with dimensions given in cm and mm by converting to decimal fractions in the larger unit       The sides have a mix of centimetres (cm) and millimetres (mm).  Recal, therefore,      Change all mm to cm by converting.          Therefore, the labels are,        Add all the sides to get the perimeter.      "
-},
-{
-  "id": "subsubsec-Circumference-of-a-circles-2",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Circumference-of-a-circles-2",
-  "type": "Activity",
-  "number": "3.2.4",
-  "title": "",
-  "body": "       We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumference of each circular object using a tapemeasure as shown alongside, or a string if you don't have a tapemeasure and record your answer.    Use a ruler to measure the length of the string that is equal to the string that is equal to the circumference.    Measure the diameter of each circular object as shown below. The distance is the diameter of each object.     measuring circumfrence     (measuring diameter)   5. Draw and fill in the table like the one shown below.      Number of Item(s)  Object  Circumference (C)  Diameter (d)  Circumference diameter    1        2        3        4         6. What do you notice about the values of ?  7. Share your work with other learners in your class.  "
-},
-{
-  "id": "subsubsec-Circumference-of-a-circles-5",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Circumference-of-a-circles-5",
-  "type": "Figure",
-  "number": "3.2.13",
-  "title": "",
-  "body": " Perimeter of different plane figures.   "
-},
-{
-  "id": "subsubsec-Circumference-of-a-circles-6",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Circumference-of-a-circles-6",
-  "type": "Example",
-  "number": "3.2.14",
-  "title": "",
-  "body": "  The diameter of a circle is . Find its circumference.    Circumference where is the diameter of a circle.  Therefore,     The circumference    "
-},
-{
-  "id": "subsubsec-Circumference-of-a-circles-7",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Circumference-of-a-circles-7",
-  "type": "Example",
-  "number": "3.2.15",
-  "title": "",
-  "body": "  Work out the circumference.           "
-},
-{
-  "id": "subsubsec-Circumference-of-a-circles-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-Circumference-of-a-circles-8",
-  "type": "Example",
-  "number": "3.2.16",
-  "title": "",
-  "body": "  Use the relationship between the diameter and circumference of a circle (i.e. ) to solve problems.     The radius of a circle is .     What is the diameter of the circle?    What is the circumference of the circle?     [Take ]    Find the circumference of the circles below whose radii are given and round your answer to the nearest tenth [take ]:                     The diameter of the cicle is given as follows.  Given that.          The circumference of the circle is as follows.             The circumference of the cicle is given by;       The circumference of the cicle is given by;            "
-},
-{
-  "id": "subsubsec-length-of-an-arc-10",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-length-of-an-arc-10",
-  "type": "Activity",
-  "number": "3.2.5",
-  "title": "",
-  "body": "       Calculate the circumference of the cut out by measuring the crcular edge using a string.    Use a ruler to measure the length of the string.    Cut the cutout into two equal parts along the diameter. This enables you obtain two equal objects called a     Measure the curved length of one semi-circle using a string. Use a ruler to measure the length of the string.    Measure the angle of the at the centre O of the semicircle. Express the angle as a fraction of .    Compare the answer you got in step 3 and the answer you got in step 4. What do you notice?    Discuss how to calculate the length of the arc of the semi-circle.         A semi-circle is a sector of a circle. Where the term sector is derived from the word section.  Arc length of a semi-circle is given by  Do an extended activity to explore on how to calculate the length of the arc of a quarter circle by simply cutting the semi-circle and repeat the steps of measuring circumference length  A quarter a circle is called a quadrant. So how many Quadrants do we have?   A quarter-circle is also a sector of a circle.  Arc length of a quarter-circle is  Can you compute one for a three quarter-circle?  "
-},
-{
-  "id": "subsubsec-length-of-an-arc-11",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-length-of-an-arc-11",
-  "type": "Example",
-  "number": "3.2.17",
-  "title": "",
-  "body": "  An arc of a circle substends an angle at the centre of the circle. Find the length of the arc if the circle is . (Take )    The length of the arc is given by;      , r cm  Therefore.      "
-},
-{
-  "id": "subsubsec-length-of-an-arc-12",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-length-of-an-arc-12",
-  "type": "Example",
-  "number": "3.2.18",
-  "title": "",
-  "body": "  Find the arc length of the figure below. Use            "
-},
-{
-  "id": "subsubsec-length-of-an-arc-13",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-length-of-an-arc-13",
-  "type": "Example",
-  "number": "3.2.19",
-  "title": "",
-  "body": "  Find the angle substended at the centre of a circle by an arc of length if the radius of the circle is         ,   Therefore,      "
-},
-{
-  "id": "subsubsec-length-of-an-arc-14",
-  "level": "2",
-  "url": "sec-measurement.html#subsubsec-length-of-an-arc-14",
-  "type": "Example",
-  "number": "3.2.20",
-  "title": "",
-  "body": "  Find the arc length of the figure below.       The arc length is given by;      "
-},
-{
-  "id": "subsec-area-of-a-rectangle-5",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-rectangle-5",
-  "type": "Activity",
-  "number": "3.2.6",
-  "title": "",
-  "body": " Work in groups     Trace and cut out the rectangle below.      Find the area of the rectangle paper cut-out   Find the area of the rectangles below by multiplying the length and width.    Rectangles  Length  Width  Area    A       B       C       D        Share your answer with other learners in class.    "
-},
-{
-  "id": "subsec-area-of-a-rectangle-6",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-rectangle-6",
-  "type": "Activity",
-  "number": "3.2.7",
-  "title": "",
-  "body": " Play along with the activities below.  Build your own figures on a grid using unit squares to explore areas of rectangles, squares, and composite shapes in this activity   Perimeter of different plane figures.    Calculate the areas of the figures given their side lengths.   Perimeter of different plane figures.    "
-},
-{
-  "id": "subsec-area-of-a-rectangle-7",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-rectangle-7",
-  "type": "Example",
-  "number": "3.2.23",
-  "title": "",
-  "body": "  Find the area of a rectangle whose length is and width is .    Use Area         "
-},
-{
-  "id": "subsec-area-of-a-rectangle-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-rectangle-8",
-  "type": "Example",
-  "number": "3.2.24",
-  "title": "",
-  "body": "  A rectangular plot is of length and width . Find its area in;                  1.Find the area in that is     2. Converting to       "
-},
-{
-  "id": "subsec-area-of-a-rectangle-9",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-rectangle-9",
-  "type": "Example",
-  "number": "3.2.25",
-  "title": "",
-  "body": "  Work out the area of the figure below.          The area is :    "
-},
-{
-  "id": "subsec-area-of-a-triangle-5",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-triangle-5",
-  "type": "Activity",
-  "number": "3.2.8",
-  "title": "",
-  "body": "       Draw a rectangle on the board (e.g ) as shown below.       What is the area of the rectangle you have drawn in the board?    Divide it into two equal triangles by drawing a diagonal line as shown.       Divide the area of the rectangle.    How many triangles did you get from one rectangle?    Find the area of one triangle.    What do you notice from the area of the rectangle divided by two and the area of one triangle?    Share your work with other learners.        A triangle is half of a rectangle.  The area of a triangle is given by;        Always make sure the height is at to the base!  "
-},
-{
-  "id": "subsec-area-of-a-triangle-6",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-triangle-6",
-  "type": "Example",
-  "number": "3.2.26",
-  "title": "",
-  "body": "  Ama wants to paint a triangular wall with a base of and a height of . How much space will she paint?          Therefore,      "
-},
-{
-  "id": "subsec-area-of-a-triangle-7",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-triangle-7",
-  "type": "Example",
-  "number": "3.2.27",
-  "title": "",
-  "body": "  Calculate the area of the triangles:        where      Triangle 1       Triangle 2       Triangle 3         "
-},
-{
-  "id": "subsec-area-of-a-triangle-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-triangle-8",
-  "type": "Example",
-  "number": "3.2.28",
-  "title": "",
-  "body": "  Determine the area of a triangle below.       The above figure,        Therefore,      "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-7",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-7",
-  "type": "Activity",
-  "number": "3.2.9",
-  "title": "",
-  "body": " Work in pairs.  In this worksheet there two polygons; a rectangle and a parallelogram. Use the polygons to complete the investigation below.   Perimeter of different plane figures.       Change the height of the rectangle (h) by moving point C. What happens to the height of the parallelogram?   Change the width of the rectangle by moving point L. What happens to the parallelogram?  Find the area of 3 different rectangles and compare the area of each rectangle to the area of the corresponding parallelogram.  What conjecture can you make about the formula for area of a parallelogram and why? (use the answer to question 3 to guide you)  Share your work with other leaners in class    "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-8",
-  "type": "Example",
-  "number": "3.2.30",
-  "title": "",
-  "body": "  Muchemi's piece of land is in the shape below.   Parallelogram   What is the area of the piece of land?       The area of the piece of land is .   "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-9",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-9",
-  "type": "Example",
-  "number": "3.2.31",
-  "title": "",
-  "body": "  Mr Onyango's garden is in the shape of a parallelogram. The length of the farm is and its height is . Find the area of the garden.    Try to scetch the garden in form of a parallelogram.  Use the formula of parallelogram to get the area of the farm.    Given that the length   height of the farm   The scetch is as shown,        The area of the piece of garden is .   "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-13",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-13",
-  "type": "Activity",
-  "number": "3.2.10",
-  "title": "",
-  "body": " Move the slide slowly as you whatch how the rhombus looks like.   A Rhombus.    "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-19",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-19",
-  "type": "Example",
-  "number": "3.2.33",
-  "title": "",
-  "body": "  Calculate the area of the figure given it's diagonals are and .   Rhombus     Area of a rhombus short diagonals long diagonal.      "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-20",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-20",
-  "type": "Example",
-  "number": "3.2.34",
-  "title": "",
-  "body": "  Calculate the area of each rhombus.            (a)  Area of a rhombus by the base and height: .     (b)      "
-},
-{
-  "id": "subsec-area-of-a-parallelogram-and-rhombus-21",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus-21",
-  "type": "Example",
-  "number": "3.2.35",
-  "title": "",
-  "body": "  A rhombus has a diagonal of 10 cm and another diagonal of 24 cm. Find:  i) The area of the rhombus.  ii).The length of one side of the rhombus.       i.  One diagonal = 10 cm  Another diagonal = 24 cm     ii. Length of One Side of the Rhombus  In a rhombus, the diagonals bisect each other at 90°. That means each side of the rhombus forms a right-angled triangle with half of each diagonal.  Let's find the length of one side using the Pythagorean Theorem.  Each side of the rhombus is the hypotenuse of a right triangle with legs:      "
-},
-{
-  "id": "def-bearing",
-  "level": "2",
-  "url": "sec-measurement.html#def-bearing",
-  "type": "Definition",
-  "number": "3.2.36",
-  "title": "",
-  "body": "  A bearing is the angle in degrees measured in the clockwise direction from north.   Bearing is also known as true bearing .   "
-},
-{
-  "id": "subsec-bearings-3",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-bearings-3",
-  "type": "Activity",
-  "number": "3.2.11",
-  "title": "",
-  "body": "                "
-},
-{
-  "id": "figure-phet-fourier",
-  "level": "2",
-  "url": "sec-measurement.html#figure-phet-fourier",
-  "type": "Figure",
-  "number": "3.2.37",
-  "title": "",
-  "body": " Fourier: Making Waves iframe   "
-},
-{
-  "id": "note-remark",
-  "level": "2",
-  "url": "sec-measurement.html#note-remark",
-  "type": "Note",
-  "number": "3.2.38",
-  "title": "Bearings.",
-  "body": " Bearings  Three figures are used to give the bearing.  The angle is measured from the north .  "
-},
-{
-  "id": "subsec-bearings-7",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-bearings-7",
-  "type": "Example",
-  "number": "3.2.39",
-  "title": "",
-  "body": "  Kisumu and Nanyuki are situated in such a way that Nanyuki is on a bearing of from Nakuru and Kisumu on a bearing of from Nakuru. If Kisumu is km and Nanyuki is km from Nakuru, find the bearing of Kisumu from Nanyuki.    First, we draw a sketch showing the positions of Nakuru (N), Nanyuki (A), and Kisumu (B). The angle between the bearings from Nakuru to Nanyuki and Kisumu is:     Since this angle is greater than 180°, we use the interior angle in triangle ANB:     Now, apply the cosine rule to find the distance (distance from Nanyuki to Kisumu):                    Now, use the sine rule to find the angle at Nanyuki (angle NAB):              Finally, the bearing of Kisumu from Nanyuki is:      Answers:     The bearing of Kisumu from Nanyuki is approximately .  The distance from Nanyuki to Kisumu is approximately km.     "
-},
-{
-  "id": "subsec-bearings-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-bearings-8",
-  "type": "Example",
-  "number": "3.2.40",
-  "title": "",
-  "body": "         "
-},
-{
-  "id": "subsec-equality-of-vectors-2",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-equality-of-vectors-2",
-  "type": "Activity",
-  "number": "3.2.12",
-  "title": "",
-  "body": "   Work in groups    What you require: Graph paper,ruler     Draw the and axis on the graph paper.      Plot the points and .      Draw a line to connect point and add an arrow pointing to point       Draw a line to connect point and add an arrow pointing to point       What similarities does vector and vector have in common?      What is the name given to vectors and ?      Discuss and share your findings with the rest of the class.    "
-},
-{
-  "id": "equiv-vectors",
-  "level": "2",
-  "url": "sec-measurement.html#equiv-vectors",
-  "type": "Figure",
-  "number": "3.2.41",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "subsec-equality-of-vectors-8",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-equality-of-vectors-8",
-  "type": "Example",
-  "number": "3.2.42",
-  "title": "",
-  "body": "  Using below, determine whether vector and are equivalent.           Vector are equivalent because they have the same magnitude, , and they point in the same direction   "
-},
-{
-  "id": "subsec-magnitude-of-vectors-2",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-magnitude-of-vectors-2",
-  "type": "Activity",
-  "number": "3.2.13",
-  "title": "",
-  "body": "   Work in groups    What you require: Graph paper     Draw the axis and axis on the graph paper.      Mark the coordinate as the initial point .      From Point , move units to the right along the axis and units upward in the axis. Mark this new position as Point .      Draw a directed line from point to point to represent .      Use a ruler to measure the length of .      Analyze the relationship between the displacement, displacement, and the length of .      Discuss and share your findings with your classmates in the class.    "
-},
-{
-  "id": "magnitude-of-vector-1",
-  "level": "2",
-  "url": "sec-measurement.html#magnitude-of-vector-1",
-  "type": "Figure",
-  "number": "3.2.44",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "subsec-magnitude-of-vectors-10",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-magnitude-of-vectors-10",
-  "type": "Example",
-  "number": "3.2.45",
-  "title": "",
-  "body": "  Determine the magnitude of as shown in the below.           To find the magnitude of , we apply pythagora's theorem to find the length .     Hence, the magnitude of represented as is    "
-},
-{
-  "id": "subsec-magnitude-of-vectors-11",
-  "level": "2",
-  "url": "sec-measurement.html#subsec-magnitude-of-vectors-11",
-  "type": "Example",
-  "number": "3.2.47",
-  "title": "",
-  "body": "    Given that , , and . Find      .  Substituting the values of , and into the equation;                     "
-},
-{
   "id": "subsec-column-of-vectors-2",
   "level": "2",
   "url": "sec-measurement.html#subsec-column-of-vectors-2",
   "type": "Activity",
-  "number": "3.2.14",
+  "number": "3.2.1",
   "title": "",
   "body": "   Work in groups      Draw the axis and axis on the graph paper.      Plot point and point on the graph.      Draw a directed line from point A to point B.      Represent vector AB in terms of its components as where is the horizontal displacement and is the vertical displacement.      Discuss and share your findings with the rest of the class.    "
 },
@@ -3191,7 +2858,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-measurement.html#column-of-vector-22",
   "type": "Figure",
-  "number": "3.2.48",
+  "number": "3.2.1",
   "title": "",
   "body": "      "
 },
@@ -3200,7 +2867,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-measurement.html#subsec-column-of-vectors-7",
   "type": "Example",
-  "number": "3.2.49",
+  "number": "3.2.2",
   "title": "",
   "body": "  Given that: and . Find and illustrate the solution graphically.    To determine , we calculate the total displacement in both the and directions:  Horizontal displacement is   Vertical displacement is    Graphical Representation   Begin at the point on the grid, move unit horizontally to the right and move units vertically upwards and mark it as end point. Draw a directed line connecting the two points as shown in the .  From the point on the grid, move units horizontally to the right parallel to the axis, and move units vertically up and mark it as end point. Draw another directed line to join the two points.  Now, to find the resultant vector , join the initial point with the final point and count the total displacements in the and directions.         Therefore,       "
 },
@@ -3209,9 +2876,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-measurement.html#subsec-column-of-vectors-8",
   "type": "Example",
-  "number": "3.2.51",
+  "number": "3.2.4",
   "title": "",
   "body": "  If and , find .    To determine , we multiply vector by and vector by and finally we add the resulting vectors.     Therefore,    "
+},
+{
+  "id": "exercises-column-vectors-1",
+  "level": "2",
+  "url": "sec-measurement.html#exercises-column-vectors-1",
+  "type": "Exercise",
+  "number": "3.2.9.1",
+  "title": "",
+  "body": "  If , and , find:                                     "
+},
+{
+  "id": "exercises-column-vectors-2",
+  "level": "2",
+  "url": "sec-measurement.html#exercises-column-vectors-2",
+  "type": "Exercise",
+  "number": "3.2.9.2",
+  "title": "",
+  "body": "  Given the column vectors and , find the following:                 "
 },
 {
   "id": "sec-position-and-transformation",
@@ -3283,14 +2968,41 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Length",
-  "body": " Length   Length in focus.    conversion of units of length      Addition and Subraction of units of length        Work in groups using a 30cm ruler.    Measure the width of your classroom window.    Measure the distance from door to the furthest corner of your classsroom.    What do you notice about the width of the windows and the door?    They are smaller than the wall measurement.    Take the total length of all walls and subtract the width of windows and classroom door and note down.      (Measuring length)        Work out  +      Allign the same units vertically.        Dm  cm    +  8  5     7  6     16  1         Add    to          Hm  Dm  m  dm     1  6  5  6    +  9  5  4  4     11  2  0  0            Measure and cut off a string of length .    From the string cut off a string of length .         Subtract  from      Allign the same units vertically starting from the second then the first one.        m  cm     5  25    -  3  15     2  10         work out    -          Hm  Dm  m  dm  cm     6  5  3  4  3    -  4  6  2  5  3     1  9  0  9  0         Multiplication involving units of length       Take the number of steps in our staircase and multiply by the height and you will have the total height without measuring the like in the case of my continuos arrow labelled     Measure their total length and width.            Work out          Dm  m    8  9       3    26  7          , write regroup to                 Calculate:     Hm  Dm  m    6  8  5        5                   Hm  Dm  m    6  8  5        5    34  2  5          , write regroup to add it to get  to      Add to to get              Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to that of the original string.   Prepare      Work out            2Dm  2m    6  13Dm  2m     12Dm       10      +2      12      -12      00        Divide by to get remainder .    Convert to to get .    Add to to get .    Divide by to get .            Calculate          3Hm  1Dm  6m    12Hm  37Dm  9m  2m     -36         10       +9       19       -12        70       +2       72       -72       00            Perimeter of plane figures      Circumference of circles     "
+  "body": " Length   Length in focus.   Consider a tailor cutting out and doing your school unifom. He has to take your measurements using a tape measure labelled alongside, record them down then take the fabric to make your uniform , measure then cut the fabric ready to sew it to come up with a well fitting uniform for you.   length      conversion of units of length        Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step from the picture above.   How many decimetres are there in a metre?  How many decimetres are there in a Decametre?  How many metres are there in a Hectometre?    length conversion                    Collect a number of sticks and cut them according to the exact height of the staircase in your environment.    Measure the sticks to uniform length in my case it's long.  I have what about you?    We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width.    Fill in the table below to test mastery of skills learnt from the activity...             ______mm = 1cm    ______cm = 1dm    ______dm = 1m      Learning point.    10mm = 1cm    10cm = 1dm    10dm = 1m    10m = 1Dm    10Dm = 1Hm    10Hm = 1km        a. We multiply a unit by to convert it to the next in descending order.   b. We divide a unit by to convert it to the next in ascending order.   Interact with the exrcise below. and observe conversion of different units of measuring length from > You can also click on the dropown arow written and change the units as you prefer. The     Converting various units of measuring length.        Moraa walks from home to school taking . Convert Moraa's distance in .    Since,        Moraa walks from home to school.      The path from the gate to the office in Myra school is . What is the distance in centimetres?    Distance is .  The conversion is,     Therefore,     The path from the gate to the school is .      Addition and Subraction of units of length        Work in groups using a 30cm ruler.    Measure the width of your classroom window.    Measure the distance from door to the furthest corner of your classsroom.    What do you notice about the width of the windows and the door?    They are smaller than the wall measurement.    Take the total length of all walls and subtract the width of windows and classroom door and note down.      (Measuring length)        Work out  +      Allign the same units vertically.        Dm  cm    +  8  5     7  6     16  1         Add    to          Hm  Dm  m  dm     1  6  5  6    +  9  5  4  4     11  2  0  0            Measure and cut off a string of length .    From the string cut off a string of length .         Subtract  from      Allign the same units vertically starting from the second then the first one.        m  cm     5  25    -  3  15     2  10         work out    -          Hm  Dm  m  dm  cm     6  5  3  4  3    -  4  6  2  5  3     1  9  0  9  0         Multiplication involving units of length       Take the number of steps in our staircase and multiply by the height and you will have the total height without measuring the like in the case of my continuos arrow labelled     Measure their total length and width.            Work out          Dm  m    8  9       3    26  7          , write regroup to                 Calculate:     Hm  Dm  m    6  8  5        5                   Hm  Dm  m    6  8  5        5    34  2  5          , write regroup to add it to get  to      Add to to get              Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to that of the original string.   Prepare      Work out            2Dm  2m    6  13Dm  2m     12Dm       10      +2      12      -12      00        Divide by to get remainder .    Convert to to get .    Add to to get .    Divide by to get .            Calculate          3Hm  1Dm  6m    12Hm  37Dm  9m  2m     -36         10       +9       19       -12        70       +2       72       -72       00            Perimeter of plane figures    We need paper cut-outs and a ruler.     Make paper cut-outs of different plane figures.    Make paper cut-outs of different plane combined shapes.    Measure the distance round each shape using a piece of string and a ruler.    Compare the answers in step 2 and 3 and note the difference.     Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.      Work out the perimeter of the given plane figures.                      Perimeter of a square.     Perimeter of a rectangle.        Develop the formula for a perimeter of a rectangle in this activity. Drag th   Calculating perimeter.      Work out the perimeter of the figure alongside       We add all the sides to get the perimeter.      Extended activity   Ombui made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. Work out the perimeter of the combined cut      We can as well make different shapes and find their perimeters. Explore on the folowing shapes and count the number of sides they have in the video below.        Perimeter of different plane figures.      Circumference of circles      We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumference of each circular object using a tapemeasure as shown alongside, Or a string if you don't have a tapemeasure and record your answer.    Use a ruler to measure the length of the string that is equal to the string that is equal to the circumference.    Measure the diameter of each circular object as shown below. The distance is the diameter of each object.           5.Draw and fill in the table like the one shown below.      Number of Item(s)  Object  Circumference (C)  Diameter (d)  Circumference diameter    1        2        3        4         6. What do you notice about the values of ?  Connect.     The circumference is the distance round a circle.    When you divide the circumference by the diameter of any circular object, the number you get is approximately correct to two decimal places.   Circumference     The number is called and is represented by the symbol . As a fraction, . Therefore, circumference     Two radii are equal to the diameter. Hence   Circumference         The diameter of a circle is . Find its circumference.    Circumference where is the diameter of a circle.  Therefore,     The circumference      Perimeter of different plane figures.      Work out the circumference.             "
+},
+{
+  "id": "subsec-conversion-of-units-of-length-2",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-2",
+  "type": "Activity",
+  "number": "4.2.1",
+  "title": "",
+  "body": "      Washika wants to go up the stairs. The staircases are labelled centimetres , decimetres , metres , Decametres and Hectometres Every step he makes is equivalent to ten times the previous step from the picture above.   How many decimetres are there in a metre?  How many decimetres are there in a Decametre?  How many metres are there in a Hectometre?    length conversion                    Collect a number of sticks and cut them according to the exact height of the staircase in your environment.    Measure the sticks to uniform length in my case it's long.  I have what about you?    We will also measure the width of our staircases the same way we did to the length and we shall get the total length and the total width.    Fill in the table below to test mastery of skills learnt from the activity...             ______mm = 1cm    ______cm = 1dm    ______dm = 1m      Learning point.    10mm = 1cm    10cm = 1dm    10dm = 1m    10m = 1Dm    10Dm = 1Hm    10Hm = 1km        a. We multiply a unit by to convert it to the next in descending order.   b. We divide a unit by to convert it to the next in ascending order.   Interact with the exrcise below. and observe conversion of different units of measuring length from > You can also click on the dropown arow written and change the units as you prefer. The     Converting various units of measuring length.     "
+},
+{
+  "id": "subsec-conversion-of-units-of-length-3",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-3",
+  "type": "Example",
+  "number": "4.2.4",
+  "title": "",
+  "body": "  Moraa walks from home to school taking . Convert Moraa's distance in .    Since,        Moraa walks from home to school.   "
+},
+{
+  "id": "subsec-conversion-of-units-of-length-4",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-conversion-of-units-of-length-4",
+  "type": "Example",
+  "number": "4.2.5",
+  "title": "",
+  "body": "  The path from the gate to the office in Myra school is . What is the distance in centimetres?    Distance is .  The conversion is,     Therefore,     The path from the gate to the school is .   "
 },
 {
   "id": "subsec-Addition-and-Subraction-of-units-of-length-2",
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-2",
   "type": "Activity",
-  "number": "4.2.1",
+  "number": "4.2.2",
   "title": "",
   "body": "      Work in groups using a 30cm ruler.    Measure the width of your classroom window.    Measure the distance from door to the furthest corner of your classsroom.    What do you notice about the width of the windows and the door?    They are smaller than the wall measurement.    Take the total length of all walls and subtract the width of windows and classroom door and note down.      (Measuring length)     "
 },
@@ -3299,7 +3011,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-3",
   "type": "Example",
-  "number": "4.2.1",
+  "number": "4.2.6",
   "title": "",
   "body": "  Work out  +      Allign the same units vertically.        Dm  cm    +  8  5     7  6     16  1      "
 },
@@ -3308,7 +3020,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-4",
   "type": "Example",
-  "number": "4.2.2",
+  "number": "4.2.7",
   "title": "",
   "body": "  Add    to          Hm  Dm  m  dm     1  6  5  6    +  9  5  4  4     11  2  0  0      "
 },
@@ -3317,7 +3029,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-5",
   "type": "Activity",
-  "number": "4.2.2",
+  "number": "4.2.3",
   "title": "",
   "body": "     Measure and cut off a string of length .    From the string cut off a string of length .      "
 },
@@ -3326,7 +3038,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-6",
   "type": "Example",
-  "number": "4.2.3",
+  "number": "4.2.8",
   "title": "",
   "body": "  Subtract  from      Allign the same units vertically starting from the second then the first one.        m  cm     5  25    -  3  15     2  10      "
 },
@@ -3335,7 +3047,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length-7",
   "type": "Example",
-  "number": "4.2.4",
+  "number": "4.2.9",
   "title": "",
   "body": "  work out    -          Hm  Dm  m  dm  cm     6  5  3  4  3    -  4  6  2  5  3     1  9  0  9  0      "
 },
@@ -3344,7 +3056,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-2",
   "type": "Activity",
-  "number": "4.2.3",
+  "number": "4.2.4",
   "title": "",
   "body": "     Take the number of steps in our staircase and multiply by the height and you will have the total height without measuring the like in the case of my continuos arrow labelled     Measure their total length and width.         "
 },
@@ -3353,7 +3065,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-3",
   "type": "Example",
-  "number": "4.2.5",
+  "number": "4.2.10",
   "title": "",
   "body": "  Work out          Dm  m    8  9       3    26  7          , write regroup to              "
 },
@@ -3362,7 +3074,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-4",
   "type": "Example",
-  "number": "4.2.6",
+  "number": "4.2.11",
   "title": "",
   "body": "  Calculate:     Hm  Dm  m    6  8  5        5                   Hm  Dm  m    6  8  5        5    34  2  5          , write regroup to add it to get  to      Add to to get        "
 },
@@ -3371,7 +3083,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-5",
   "type": "Activity",
-  "number": "4.2.4",
+  "number": "4.2.5",
   "title": "",
   "body": "     Prepare a string of a certain length.    Fold and cut it into pieces of equal length.    Measure the length of each piece of string.    Relate the length of each string to that of the original string.   Prepare   "
 },
@@ -3380,7 +3092,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-6",
   "type": "Example",
-  "number": "4.2.7",
+  "number": "4.2.12",
   "title": "",
   "body": "  Work out            2Dm  2m    6  13Dm  2m     12Dm       10      +2      12      -12      00        Divide by to get remainder .    Convert to to get .    Add to to get .    Divide by to get .         "
 },
@@ -3389,9 +3101,99 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Length.html#subsec-Multiplication-involving-units-of-length-7",
   "type": "Example",
-  "number": "4.2.8",
+  "number": "4.2.13",
   "title": "",
   "body": "  Calculate          3Hm  1Dm  6m    12Hm  37Dm  9m  2m     -36         10       +9       19       -12        70       +2       72       -72       00         "
+},
+{
+  "id": "subsec-perimeter-of-plane-figures-2",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-2",
+  "type": "Activity",
+  "number": "4.2.6",
+  "title": "",
+  "body": "  We need paper cut-outs and a ruler.     Make paper cut-outs of different plane figures.    Make paper cut-outs of different plane combined shapes.    Measure the distance round each shape using a piece of string and a ruler.    Compare the answers in step 2 and 3 and note the difference.     Perimeter is the distance round a plane figure. To work out perimeter, you add the lengths of the sides of a given plane figure.   "
+},
+{
+  "id": "subsec-perimeter-of-plane-figures-3",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-3",
+  "type": "Example",
+  "number": "4.2.14",
+  "title": "",
+  "body": "  Work out the perimeter of the given plane figures.                      Perimeter of a square.     Perimeter of a rectangle.       "
+},
+{
+  "id": "subsec-perimeter-of-plane-figures-5",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-5",
+  "type": "Figure",
+  "number": "4.2.15",
+  "title": "",
+  "body": " Calculating perimeter.   "
+},
+{
+  "id": "subsec-perimeter-of-plane-figures-6",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-6",
+  "type": "Example",
+  "number": "4.2.16",
+  "title": "",
+  "body": "  Work out the perimeter of the figure alongside       We add all the sides to get the perimeter.    "
+},
+{
+  "id": "subsec-perimeter-of-plane-figures-7",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-7",
+  "type": "Exploration",
+  "number": "4.2.7",
+  "title": "",
+  "body": " Extended activity   Ombui made a paper cut out of right-angled triangle like the one shown on the right. He then made three similar cut outs then joined them as shown below to form a combined cut-out. Work out the perimeter of the combined cut      We can as well make different shapes and find their perimeters. Explore on the folowing shapes and count the number of sides they have in the video below.      "
+},
+{
+  "id": "subsec-perimeter-of-plane-figures-8",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-perimeter-of-plane-figures-8",
+  "type": "Figure",
+  "number": "4.2.17",
+  "title": "",
+  "body": " Perimeter of different plane figures.   "
+},
+{
+  "id": "subsec-circumfrence-of-circles-2",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-circumfrence-of-circles-2",
+  "type": "Activity",
+  "number": "4.2.8",
+  "title": "",
+  "body": "    We need a ruler, a string, a set square, a tapemeasure and a circular object.    Measure the circumference of each circular object using a tapemeasure as shown alongside, Or a string if you don't have a tapemeasure and record your answer.    Use a ruler to measure the length of the string that is equal to the string that is equal to the circumference.    Measure the diameter of each circular object as shown below. The distance is the diameter of each object.           5.Draw and fill in the table like the one shown below.      Number of Item(s)  Object  Circumference (C)  Diameter (d)  Circumference diameter    1        2        3        4         6. What do you notice about the values of ?  Connect.     The circumference is the distance round a circle.    When you divide the circumference by the diameter of any circular object, the number you get is approximately correct to two decimal places.   Circumference     The number is called and is represented by the symbol . As a fraction, . Therefore, circumference     Two radii are equal to the diameter. Hence   Circumference      "
+},
+{
+  "id": "subsec-circumfrence-of-circles-3",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-circumfrence-of-circles-3",
+  "type": "Example",
+  "number": "4.2.19",
+  "title": "",
+  "body": "  The diameter of a circle is . Find its circumference.    Circumference where is the diameter of a circle.  Therefore,     The circumference    "
+},
+{
+  "id": "subsec-circumfrence-of-circles-4",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-circumfrence-of-circles-4",
+  "type": "Figure",
+  "number": "4.2.20",
+  "title": "",
+  "body": " Perimeter of different plane figures.   "
+},
+{
+  "id": "subsec-circumfrence-of-circles-5",
+  "level": "2",
+  "url": "sec-section-Length.html#subsec-circumfrence-of-circles-5",
+  "type": "Example",
+  "number": "4.2.21",
+  "title": "",
+  "body": "  Work out the circumference.           "
 },
 {
   "id": "sec-section-Area",
@@ -3400,7 +3202,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Area",
-  "body": " Area   Why area?  Area is the region bounded by the shape of an object.  We calculate areas of different objects eg. triangle, rectangle, squre,circle, and many more.    Square metres ,acres and hectares   Square metres   Check the illustration below explaining more about Area ( ).         This is a square.    Its side measures by as shown on the left.    Area of the square is         Work in pairs.     Fill in the table below    Lenght of square  area                  Share your work with learners in your class.        Fill in the table below.    Length of square  area                  Use the rule that outlines     The required solution is as follows;    Length of square  area                    Acres     Note that:    Another unit of measurering area is .  Therefore;          Hectares  A hectare is a unit of measuring large areas.  One hectare is equal to   Therefore,          Convert into     Use            Find the area of the figure below in hectares.       Area of a square   Convert to hectares.     The area of the figure is hectares       Area of a rectangle      Area of a parallelogram      Area of a rhombus      Area of trapeziam  The trapezium is a quadrilateral with one pair of parallel opposite sides. The parallel sides of a trapezium are called bases and the non-parallel sides of a trapezium are called legs. It is also called a trapezoid. Sometimes the parallelogram is also called a trapezoid with two parallel sides.     From the above figure, we can see, sides AB and CD are parallel to each other whereas AD and BC are non-parallel sides. Also, ‘h’ is the distance between the two parallel sides which demonstrates the height of the trapezium.  There are many real-life examples of trapezium shape that we can see around us. For example, a table whose surface is shaped like a trapezium.   trapezium         Area of Trapezium   Which can be written as A   where: is the sum of the parallel sides and is the perpendicular height of the trapezium.         First can you work out the formula for the area of a trapezium?  Rotate out a second trapezium for a clue.  Compare the shape to the formula for a parallelogram.  Check your answer with the \"show area formula\" box.    Second can you change the shape (using the 3 blue corner dots and the height dot) to make other shapes?  See if you can find a rhombus, parallelogram, rectangle, square and any tyoe of triangle.  How does the formula change for the different shapes? Look at the values for a and b on the shape and in the formula.  Use the rotate slider to see that it's still always a parallelogram.      Area of a Trapezium, finding and comparing.       Harriate's plot is in the shape of the figure below.   trapezium   What is the area of the plot of land?           Calculate the area of a trapezium whose parallel sides are and and the vertical height is            Find the length marked in the figure.              Area of a circle   A circle is a closed two-dimensional figure in which the set of all the points in the plane is equidistant from a given point called “centre”.  The diameter of the circle divides it into two equal parts.        Area of a circle is the amount of space occupied by the circle.   The circle formula to find the area is given by where, is the radius of the circle and .             You will need a pair of scissors, a pair of compusses and a manila paper.    Using the pair of campasses, draw a circle whose radius is .  What is the circumference of the circle?    Divide the circle into equal sectors. Colour half of the sectors as shown below.       Cut out the sector and paste them on a manila paper as shown below.      What kind of a shape is formed?  What is the area of the shape formed?  How does the length of the rectangle compare to the circumference of the circle?  How does the width of the rectangle compare to the radius of the circle ?  Share your work with other learners in class.      Interact with the app below for a few minutes. Then answer the questions that follow.      Area of a circle.    What do you notice? What do you see? What do you wonder?  How can we use what we see here to try to find the area of a circle?     Determine the dimensions of a circle using the the formula for the area of a circle and a given area value.   Area of a circle.    link 👉🏻       The figure formed resembles a rectangle.  The length of the rectangle is almost equal to thecircumference of the circle, while the width is almost equal to to the radius of the circle.   explanation      The circumference of a circle is . This means that the length of the rectangle. is        Fill in the table bellow.     Circle  Diameter  Radius  Area    a)   49cm     b)  7cm      c)  21cm      d)   35cm       The solution is as below:    Circle  Diameter  Radius  Area    a)   49cm     b)  7cm      c)  21cm      d)   35cm         Find the area of the circle below.              Calculate the area of a circle whose diameter is         Therefore,          Area of a semicircle  A semicircle is a circle divided into two equal parts.  Since we now know the area of a circle, the area of a semicircle is the area of a circle divided by two as shown bellow;   .    Find the area of the semicircle given below.                 Area of borders and combined shapes  This section combines all the figures we have done and its requred that you are in a position to calculate areas of any figure given.     Combine figures can either be circle inside a circle, rectangle inside a rectangle, circle inside a trapezium and many more.    Its requred to calculate areas acording to the instractions given in an equation.     Some worked examples are as below.    Work out the area of the figure bellow.                    add up the area of the trapezium and the semicircle.     Area of the semi circle         "
+  "body": " Area   Why area?  Area is the region bounded by the shape of an object.  We calculate areas of different objects eg. triangle, rectangle, squre,circle, and many more.    Square metres ,acres and hectares   Square metres   Check the illustration below explaining more about Area ( ).         This is a square.    Its side measures by as shown on the left.    Area of the square is         Work in pairs.     Fill in the table below    Lenght of square  area                  Share your work with learners in your class.        Fill in the table below.    Length of square  area                  Use the rule that outlines     The required solution is as follows;    Length of square  area                    Acres     Note that:    Another unit of measurering area is .  Therefore;          Hectares  A hectare is a unit of measuring large areas.  One hectare is equal to   Therefore,          Convert into     Use            Find the area of the figure below in hectares.       Area of a square   Convert to hectares.     The area of the figure is hectares       Area of a rectangle  Area of a rectangle length width  length Area width  width Area length   Work in groups     Trace and cut out the rectangle below.      Find the area of the rectangle paper cut-out   Find the area of the rectangles below by multiplying the length and width.    Rectangles  Length  Width  Area    A       B       C       D        Share your answer with other learners in class.      Play along with the activities below.  Build your own figures on a grid using unit squares to explore areas of rectangles, squares, and composite shapes in this activity   Perimeter of different plane figures.    Calculate the areas of the figures given their side lengths.   Perimeter of different plane figures.       Find the area of a rectangle whose length is and width is .    Use Area            A rectangular plot is of length and width . Find its area in;                  1.Find the area in that is     2. Converting to          Work out the area of the figure below.          The area is :       Area of a parallelogram     Rectangle is a type of parallelogram where all the angles are 90°    All rectangles are parallelograms, but not all parallelograms are rectangles.        The figure below shows a parallelogram with base and height labeled.      Work in pairs.  In this worksheet there two polygons; a rectangle and a parallelogram. Use the polygons to complete the investigation below.   Perimeter of different plane figures.       Change the height of the rectangle (h) by moving point C. What happens to the height of the parallelogram?   Change the width of the rectangle by moving point L. What happens to the parallelogram?  Find the area of 3 different rectangles and compare the area of each rectangle to the area of the corresponding parallelogram.  What conjecture can you make about the formula for area of a parallelogram and why? (use the answer to question 3 to guide you)  Share your work with other leaners in class       Muchemi's piece of land is in the shape below.   Parallelogram   What is the area of the piece of land?       The area of the piece of land is .      Mr Onyango's garden is in the shape of a parallelogram. The length of the farm is and its height is . Find the area of the garden.    Try to scetch the garden in form of a parallelogram.  Use the formula of parallelogram to get the area of the farm.    Given that the length   height of the farm   The scetch is as shown,        The area of the piece of garden is .          When calculating the area of a parallelogram ensure you use the formula Area     For any drawn figure ensure you've obtained both the base and height before incoopereting the formula.       Area of a rhombus  A rhombus is a type of quadrilateral that is a special kind of parallelogram. The key characteristics of a rhombus are:     Opposite sides are parallel.    All sides have equal length.    Opposite angles are equa and adjacent angles are supplementary (they add up to ).    The diagonals of a rhombus bisect each other at right angles (90°), meaning they intersect at a right angle and divide each other into two equal parts.     The formula for the area of a rhombus can be given in two common ways:     Using the diagonals:   where:   and are the lengths of the two diagonals.    Using the base and height:   Where the base is the length of any side (since all sides are equal) and the height is the perpendicular distance between opposite sides.       Perimeter of different plane figures.       Calculate the area of the figure given it's diagonals are and .   Rhombus     Area of a rhombus short diagonals long diagonal.         Calculate the area of each rhombus.            (a)  Area of a rhombus by the base and height: .     (b)         Area of trapeziam  The trapezium is a quadrilateral with one pair of parallel opposite sides. The parallel sides of a trapezium are called bases and the non-parallel sides of a trapezium are called legs. It is also called a trapezoid. Sometimes the parallelogram is also called a trapezoid with two parallel sides.     From the above figure, we can see, sides AB and CD are parallel to each other whereas AD and BC are non-parallel sides. Also, ‘h’ is the distance between the two parallel sides which demonstrates the height of the trapezium.  There are many real-life examples of trapezium shape that we can see around us. For example, a table whose surface is shaped like a trapezium.   trapezium         Area of Trapezium   Which can be written as A   where: is the sum of the parallel sides and is the perpendicular height of the trapezium.         First can you work out the formula for the area of a trapezium?  Rotate out a second trapezium for a clue.  Compare the shape to the formula for a parallelogram.  Check your answer with the \"show area formula\" box.    Second can you change the shape (using the 3 blue corner dots and the height dot) to make other shapes?  See if you can find a rhombus, parallelogram, rectangle, square and any tyoe of triangle.  How does the formula change for the different shapes? Look at the values for a and b on the shape and in the formula.  Use the rotate slider to see that it's still always a parallelogram.      Area of a Trapezium, finding and comparing.       Harriate's plot is in the shape of the figure below.   trapezium   What is the area of the plot of land?           Calculate the area of a trapezium whose parallel sides are and and the vertical height is            Find the length marked in the figure.              Area of a circle  A circle is a closed two-dimensional figure in which the set of all the points in the plane is equidistant from a given point called “centre”.  The diameter of the circle divides it into two equal parts.        Area of a circle is the amount of space occupied by the circle.   The circle formula to find the area is given by where, is the radius of the circle and .             You will need a pair of scissors, a pair of compusses and a manila paper.    Using the pair of campasses, draw a circle whose radius is .  What is the circumference of the circle?    Divide the circle into equal sectors. Colour half of the sectors as shown below.       Cut out the sector and paste them on a manila paper as shown below.      What kind of a shape is formed?  What is the area of the shape formed?  How does the length of the rectangle compare to the circumference of the circle?  How does the width of the rectangle compare to the radius of the circle ?  Share your work with other learners in class.      Interact with the app below for a few minutes. Then answer the questions that follow.      Area of a circle.    What do you notice? What do you see? What do you wonder?  How can we use what we see here to try to find the area of a circle?     Determine the dimensions of a circle using the the formula for the area of a circle and a given area value.   Area of a circle.    link 👉🏻       The figure formed resembles a rectangle.  The length of the rectangle is almost equal to thecircumference of the circle, while the width is almost equal to to the radius of the circle.   explanation      The circumference of a circle is . This means that the length of the rectangle. is        Fill in the table bellow.     Circle  Diameter  Radius  Area    a)   49cm     b)  7cm      c)  21cm      d)   35cm       The solution is as below:    Circle  Diameter  Radius  Area    a)   49cm     b)  7cm      c)  21cm      d)   35cm         Find the area of the circle below.              Calculate the area of a circle whose diameter is         Therefore,         Area of a semicircle  A semicircle is a circle divided into two equal parts.  Since we now know the area of a circle, the area of a semicircle is the area of a circle divided by two as shown bellow;   .    Find the area of the semicircle given below.                 Area of borders and combined shapes  This section combines all the figures we have done and its requred that you are in a position to calculate areas of any figure given.     Combine figures can either be circle inside a circle, rectangle inside a rectangle, circle inside a trapezium and many more.    Its requred to calculate areas acording to the instractions given in an equation.     Some worked examples are as below.    Work out the area of the figure bellow.                    add up the area of the trapezium and the semicircle.     Area of the semi circle         "
 },
 {
   "id": "subsubsec-Square-metres-2",
@@ -3448,11 +3250,110 @@ var ptx_lunr_docs = [
   "body": "  Find the area of the figure below in hectares.       Area of a square   Convert to hectares.     The area of the figure is hectares   "
 },
 {
+  "id": "subsec-area-of-a-rectangle-5",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rectangle-5",
+  "type": "Activity",
+  "number": "4.3.3",
+  "title": "",
+  "body": " Work in groups     Trace and cut out the rectangle below.      Find the area of the rectangle paper cut-out   Find the area of the rectangles below by multiplying the length and width.    Rectangles  Length  Width  Area    A       B       C       D        Share your answer with other learners in class.    "
+},
+{
+  "id": "subsec-area-of-a-rectangle-6",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rectangle-6",
+  "type": "Activity",
+  "number": "4.3.4",
+  "title": "",
+  "body": " Play along with the activities below.  Build your own figures on a grid using unit squares to explore areas of rectangles, squares, and composite shapes in this activity   Perimeter of different plane figures.    Calculate the areas of the figures given their side lengths.   Perimeter of different plane figures.    "
+},
+{
+  "id": "subsec-area-of-a-rectangle-7",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rectangle-7",
+  "type": "Example",
+  "number": "4.3.6",
+  "title": "",
+  "body": "  Find the area of a rectangle whose length is and width is .    Use Area         "
+},
+{
+  "id": "subsec-area-of-a-rectangle-8",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rectangle-8",
+  "type": "Example",
+  "number": "4.3.7",
+  "title": "",
+  "body": "  A rectangular plot is of length and width . Find its area in;                  1.Find the area in that is     2. Converting to       "
+},
+{
+  "id": "subsec-area-of-a-rectangle-9",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rectangle-9",
+  "type": "Example",
+  "number": "4.3.8",
+  "title": "",
+  "body": "  Work out the area of the figure below.          The area is :    "
+},
+{
+  "id": "subsec-area-of-a-parallelogram-6",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-parallelogram-6",
+  "type": "Activity",
+  "number": "4.3.5",
+  "title": "",
+  "body": " Work in pairs.  In this worksheet there two polygons; a rectangle and a parallelogram. Use the polygons to complete the investigation below.   Perimeter of different plane figures.       Change the height of the rectangle (h) by moving point C. What happens to the height of the parallelogram?   Change the width of the rectangle by moving point L. What happens to the parallelogram?  Find the area of 3 different rectangles and compare the area of each rectangle to the area of the corresponding parallelogram.  What conjecture can you make about the formula for area of a parallelogram and why? (use the answer to question 3 to guide you)  Share your work with other leaners in class    "
+},
+{
+  "id": "subsec-area-of-a-parallelogram-7",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-parallelogram-7",
+  "type": "Example",
+  "number": "4.3.10",
+  "title": "",
+  "body": "  Muchemi's piece of land is in the shape below.   Parallelogram   What is the area of the piece of land?       The area of the piece of land is .   "
+},
+{
+  "id": "subsec-area-of-a-parallelogram-8",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-parallelogram-8",
+  "type": "Example",
+  "number": "4.3.11",
+  "title": "",
+  "body": "  Mr Onyango's garden is in the shape of a parallelogram. The length of the farm is and its height is . Find the area of the garden.    Try to scetch the garden in form of a parallelogram.  Use the formula of parallelogram to get the area of the farm.    Given that the length   height of the farm   The scetch is as shown,        The area of the piece of garden is .   "
+},
+{
+  "id": "subsec-area-of-a-rhombus-6",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rhombus-6",
+  "type": "Activity",
+  "number": "4.3.6",
+  "title": "",
+  "body": "  Perimeter of different plane figures.    "
+},
+{
+  "id": "subsec-area-of-a-rhombus-7",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rhombus-7",
+  "type": "Example",
+  "number": "4.3.13",
+  "title": "",
+  "body": "  Calculate the area of the figure given it's diagonals are and .   Rhombus     Area of a rhombus short diagonals long diagonal.      "
+},
+{
+  "id": "subsec-area-of-a-rhombus-8",
+  "level": "2",
+  "url": "sec-section-Area.html#subsec-area-of-a-rhombus-8",
+  "type": "Example",
+  "number": "4.3.14",
+  "title": "",
+  "body": "  Calculate the area of each rhombus.            (a)  Area of a rhombus by the base and height: .     (b)      "
+},
+{
   "id": "subsec-area-of-trapeziam-8",
   "level": "2",
   "url": "sec-section-Area.html#subsec-area-of-trapeziam-8",
   "type": "Activity",
-  "number": "4.3.3",
+  "number": "4.3.7",
   "title": "",
   "body": "    First can you work out the formula for the area of a trapezium?  Rotate out a second trapezium for a clue.  Compare the shape to the formula for a parallelogram.  Check your answer with the \"show area formula\" box.    Second can you change the shape (using the 3 blue corner dots and the height dot) to make other shapes?  See if you can find a rhombus, parallelogram, rectangle, square and any tyoe of triangle.  How does the formula change for the different shapes? Look at the values for a and b on the shape and in the formula.  Use the rotate slider to see that it's still always a parallelogram.      Area of a Trapezium, finding and comparing.    "
 },
@@ -3461,7 +3362,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Area.html#subsec-area-of-trapeziam-9",
   "type": "Example",
-  "number": "4.3.5",
+  "number": "4.3.16",
   "title": "",
   "body": "  Harriate's plot is in the shape of the figure below.   trapezium   What is the area of the plot of land?        "
 },
@@ -3470,7 +3371,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Area.html#subsec-area-of-trapeziam-10",
   "type": "Example",
-  "number": "4.3.6",
+  "number": "4.3.17",
   "title": "",
   "body": "  Calculate the area of a trapezium whose parallel sides are and and the vertical height is         "
 },
@@ -3479,52 +3380,52 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Area.html#subsec-area-of-trapeziam-11",
   "type": "Example",
-  "number": "4.3.7",
+  "number": "4.3.18",
   "title": "",
   "body": "  Find the length marked in the figure.           "
 },
 {
-  "id": "subsec-area-of-a-circle-2-7",
+  "id": "subsec-area-of-a-circle-8",
   "level": "2",
-  "url": "sec-section-Area.html#subsec-area-of-a-circle-2-7",
+  "url": "sec-section-Area.html#subsec-area-of-a-circle-8",
   "type": "Activity",
-  "number": "4.3.4",
+  "number": "4.3.8",
   "title": "",
   "body": "       You will need a pair of scissors, a pair of compusses and a manila paper.    Using the pair of campasses, draw a circle whose radius is .  What is the circumference of the circle?    Divide the circle into equal sectors. Colour half of the sectors as shown below.       Cut out the sector and paste them on a manila paper as shown below.      What kind of a shape is formed?  What is the area of the shape formed?  How does the length of the rectangle compare to the circumference of the circle?  How does the width of the rectangle compare to the radius of the circle ?  Share your work with other learners in class.    "
 },
 {
-  "id": "subsec-area-of-a-circle-2-8",
+  "id": "subsec-area-of-a-circle-9",
   "level": "2",
-  "url": "sec-section-Area.html#subsec-area-of-a-circle-2-8",
+  "url": "sec-section-Area.html#subsec-area-of-a-circle-9",
   "type": "Activity",
-  "number": "4.3.5",
+  "number": "4.3.9",
   "title": "",
   "body": " Interact with the app below for a few minutes. Then answer the questions that follow.      Area of a circle.    What do you notice? What do you see? What do you wonder?  How can we use what we see here to try to find the area of a circle?     Determine the dimensions of a circle using the the formula for the area of a circle and a given area value.   Area of a circle.    link 👉🏻   "
 },
 {
-  "id": "subsec-area-of-a-circle-2-16",
+  "id": "subsec-area-of-a-circle-17",
   "level": "2",
-  "url": "sec-section-Area.html#subsec-area-of-a-circle-2-16",
+  "url": "sec-section-Area.html#subsec-area-of-a-circle-17",
   "type": "Example",
-  "number": "4.3.10",
+  "number": "4.3.21",
   "title": "",
   "body": "  Fill in the table bellow.     Circle  Diameter  Radius  Area    a)   49cm     b)  7cm      c)  21cm      d)   35cm       The solution is as below:    Circle  Diameter  Radius  Area    a)   49cm     b)  7cm      c)  21cm      d)   35cm      "
 },
 {
-  "id": "subsec-area-of-a-circle-2-17",
+  "id": "subsec-area-of-a-circle-18",
   "level": "2",
-  "url": "sec-section-Area.html#subsec-area-of-a-circle-2-17",
+  "url": "sec-section-Area.html#subsec-area-of-a-circle-18",
   "type": "Example",
-  "number": "4.3.11",
+  "number": "4.3.22",
   "title": "",
   "body": "  Find the area of the circle below.           "
 },
 {
-  "id": "subsec-area-of-a-circle-2-18",
+  "id": "subsec-area-of-a-circle-19",
   "level": "2",
-  "url": "sec-section-Area.html#subsec-area-of-a-circle-2-18",
+  "url": "sec-section-Area.html#subsec-area-of-a-circle-19",
   "type": "Example",
-  "number": "4.3.12",
+  "number": "4.3.23",
   "title": "",
   "body": "  Calculate the area of a circle whose diameter is         Therefore,      "
 },
@@ -3533,7 +3434,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Area.html#subsec-area-of-a-semicircle-5",
   "type": "Example",
-  "number": "4.3.13",
+  "number": "4.3.24",
   "title": "",
   "body": "  Find the area of the semicircle given below.              "
 },
@@ -3542,7 +3443,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-section-Area.html#subsec-area-of-borders-and-combined-shapes-5",
   "type": "Example",
-  "number": "4.3.14",
+  "number": "4.3.25",
   "title": "",
   "body": "  Work out the area of the figure bellow.                    add up the area of the trapezium and the semicircle.     Area of the semi circle       "
 },
@@ -4957,7 +4858,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Geometrical constructions",
-  "body": " Geometrical constructions   Geometrical construction is the process of creating geometric shapes, figures, or diagrams using basic tools, like a compass, ruler and protractor. The goal is to draw precise shapes without measurements, relying on rules of geometry. Examples of geometric constructions include drawing a line segment, bisecting an angle, or constructing a perpendicular e.t.c    Measuring angles     Measuring angles is a significant topic in geometry. An angle can be measured using a protractor. An angle is measured in degrees, hence its called degree measure. One complete revolution is equal to , hence it is divided into parts. Each part of the revolution is a degree. If we know how to measure angle, then it will be very easy to construct an angle using a protractor.    A protractor is a semi-circular tool used to draw and measure angles. It is marked with degrees from to . It can be directly used to measure any angle from to . The markings are made in two ways, to from right to left and vice versa.         Click on the New Angle button.    Using the protractor, measure the size of the angle.    Enter the value and click on Check.    Repeat the process several times to ensure that you understand how to use a protractor.           Suppose we have an angle to measure say, . Follow the steps given below to measure the angle.     Put the protractor above the line such that the midpoint of protractor is at point .    Adjust the protractor in such a way that is parallel to the straight-edge of the protractor.    The protractor has two scales marked from to on both the ends. Take the reading where coincides with the .    Now from , check the line coincides with the curved edges of the protractor. This reading gives us the measure of angle .                       Bisecting angles  What is an angle bisector ?  An angle bisector or the bisector of an angle is a line that divides an angle into two equal parts. For example, In the applet below, the blue line is said to be an angle bisector of angle .  The gray slider adjusts the entire measure of angle .  The black slider dynamically illustrates what it means for a line to bisect an angle.        How to construct an angle bisector?  You require a ruler and a compass to construct angles and their bisectors. Given a known or unknown , the steps to construct its angle bisector are:        Place the compass pointer at and make an arc that cuts the two arms of the angle at two different points.       From the point where the first arc cut the arm , make another arc towards the interior of the angle.       Without changing the radius on the compass, repeat step from the point where the first arc cut .       Using a ruler, draw a line from to the point where the arcs intersect.        The line that was drawn through represents the angle bisector of the .  Note: If an angle bisector bisects a line segment at , it is known as the perpendicular bisector of that line.  The figure below shows a Perpendicular Bisector of a Line Segment                If an angle bisector divides an angle of degrees, then what is the measure of each angle?    Given, a measure of an angle is   As we know, the angle bisector divides the angle into equal two parts.  Therefore, is divided into equal two parts, say .  Hence,                  Geometrical construction of   Drawing Angles Game      Draw angles as accurately as you can and improve your angle sense in this interactive game.(Drawing angles by estimation)             Which angles were the easiest for you to draw? Why do you think so?        Constucting    Work in pairs.  What you need: A ruler, a protractor and a pair of compasses.  1.Draw a straight line and mark on it point . With point as the centre, make arcs to cut the line at and as shown below.     2. Using and as the centres, make arcs abave the line to meet at point as shown below.     3.Join points to as shown below.measure angle and . Which angles have you constructed?                     Constucting               Geometrical construction of   constructing              Work in pairs  What you need: A ruler, a protractor and a pair of compasses.  Explore  1.Draw a straight line and mark a point on it as shown below.     2. With as center draw an arc of any radius to cut the line at .With the same radius and as center draw an arc to cut the previous arc at .     3. Join . Measure angle . Which angle have you constructed?     Expected observation.  We get the required angle                     Constructing       Work in pairs  What you need: A ruler, a protractor and a pair of compasses.  Explore.  1.Construct (as shown in the above activity).     2.With as center, draw an arc of radius more than half of in the interior of . With the same radius and with as center draw an arc to cut the previous one at .  3.Join OC. Measure .     Expected observation.  We get the required angle        Constucting angle         Constructing    Work in pairs  What you need: A ruler, a protractor and a pair of compasses.  Explore.  1.Draw a line and mark a point on it.     2.With as center draw an arc of any radius to cut the line at .     3.With same radius and with as center draw another arc to cut the previous arc at . With as center draw another arc of same radius to cut the first arc at .     4.Join . We get the required angle .              Constructing triangles  A triangle is a basic shape with three sides and three angles. The three sides of a triangle can have different lengths, and the angles can vary in size, but the sum of the angles in any triangle is always .   Determine whether three segments can form a triangle    Types of Triangles  Triangles can be classified based on angles and sides.     Scalene Triangle.    Equilateral Triangle.    Isosceles Triangle.    Obtuse Triangle.    Acute triangle    Right-angled triange.      Draw triangles with given characteristics.     Constructing equalateral triangles  An equilateral triangle is a triangle that has all its sides equal in length. Also, the three angles of the equilateral triangle are equal to . The sum of all three angles of an equilateral triangle is equal to .            Work in pairs  What you need: A ruler, a pair of compasses and a protractor.  Explore.  1.Draw a straight line. Mark point on the line.     2.Using a pair of compasses and and a ruler, mark point ,  away from .     3.With as the centre and using radius of  , draw an arc abave the line.     4.with as the centre and using the same radius draw another arc abave the line to intersect the other arc at . Use a ruler to join point to and point to      5. Measure , and . What do you notice?  6.Share your work with other learners in class.      Constructing isosceles triangle  An Isosceles triangle is a triangle that has two equal sides. Also, the two angles opposite the two equal sides are equal.      Properties of isosceles triangle.     As the two sides are equal in this triangle, the unequal side is called the base of the triangle    The angles opposite to the two equal sides of the triangle are always equal.    The altitude of an isosceles triangle is measured from the base to the vertex (topmost) of the triangle.       Work in pairs  1.Draw a straight line. Mark point on the line.  2.Using a pair of compasses and and a ruler, mark point , 5 away from   3.With as the centre and using radius of  , draw an arc abave the line .  4.with as the centre and using the radius of ,  , draw another arc abave the line to intersect the other arc at point . Use a ruler to join point to and point to . Measure sides , and   5. Measure , and . What do you notice?  6.Share your work with other learners in class.      Constructing right-angled triangle  A right-angled triangle is a type of triangle that has one of its angles equal to . The other two angles sum up to . The sides that include the right angle are perpendicular and the base of the triangle. The third side is called the hypotenuse, which is the longest side of all three sides.  The three sides of the right triangle are related to each other. This relationship is explained by Pythagorean theorem.      Here is an isosceles right-angled triangle.    Play with the vertices (moving them about the plane).    What do you notice?    Why is C coloured red, while A and B are green?    What movements of the vertices cause the angles to change?    What else do you notice?              Work in pairs  1.Draw a straight line of any length. Mark point on the line.     2.With as the center, and  as the radius, draw an arc on both the sides of the point such that the arc touches the horizontal line and mark the points as and .     3. With as the centre and using radius of  , draw an arc abave the line. With the same radius of , draw an arc from the point . Mark the point of intersection of these arcs as .     4. Join the points to and to with a ruler.         Constructing scalene triangle.  This is a triangle in which all three sides are of different lengths and all the three angles of the triangle are also of different measures.       Work in pairs  Constructing triangle such that sides  ,  and  .     Draw a straight line of length  .       With as the centre and using a radius of  , draw an arc abave line .       With as the centre and using a radius of  , draw an arc to intersect the other arc at point .       Join point and point . Measure sides , and .       Measure angle , , and . What do you notice ?          Construction of circle using a ruler and a pair of compasses.      Work in groups.  (i) mark a point .  (ii) Adjust a pair of compasses to a length of from . Turn the compass arm with the pencil until it get back to the initial point.  (iii) Discuss the results and share with other groups        "
+  "body": " Geometrical constructions   Geometrical construction is the process of creating geometric shapes, figures, or diagrams using basic tools, like a compass, ruler and protractor. The goal is to draw precise shapes without measurements, relying on rules of geometry. Examples of geometric constructions include drawing a line segment, bisecting an angle, or constructing a perpendicular e.t.c    Measuring angles     Measuring angles is a significant topic in geometry. An angle can be measured using a protractor. An angle is measured in degrees, hence its called degree measure. One complete revolution is equal to , hence it is divided into parts. Each part of the revolution is a degree. If we know how to measure angle, then it will be very easy to construct an angle using a protractor.    A protractor is a semi-circular tool used to draw and measure angles. It is marked with degrees from to . It can be directly used to measure any angle from to . The markings are made in two ways, to from right to left and vice versa.         Click on the New Angle button.    Using the protractor, measure the size of the angle.    Enter the value and click on Check.    Repeat the process several times to ensure that you understand how to use a protractor.           Suppose we have an angle to measure say, . Follow the steps given below to measure the angle.     Put the protractor above the line such that the midpoint of protractor is at point .    Adjust the protractor in such a way that is parallel to the straight-edge of the protractor.    The protractor has two scales marked from to on both the ends. Take the reading where coincides with the .    Now from , check the line coincides with the curved edges of the protractor. This reading gives us the measure of angle .                       Bisecting angles  What is an angle bisector ?  An angle bisector or the bisector of an angle is a line that divides an angle into two equal parts. For example, In the applet below, the blue line is said to be an angle bisector of angle .  The gray slider adjusts the entire measure of angle .  The black slider dynamically illustrates what it means for a line to bisect an angle.        How to construct an angle bisector?  You require a ruler and a compass to construct angles and their bisectors. Given a known or unknown , the steps to construct its angle bisector are:        Place the compass pointer at and make an arc that cuts the two arms of the angle at two different points.       From the point where the first arc cut the arm , make another arc towards the interior of the angle.       Without changing the radius on the compass, repeat step from the point where the first arc cut .       Using a ruler, draw a line from to the point where the arcs intersect.        The line that was drawn through represents the angle bisector of the .  Note: If an angle bisector bisects a line segment at , it is known as the perpendicular bisector of that line.  The figure below shows a Perpendicular Bisector of a Line Segment                If an angle bisector divides an angle of degrees, then what is the measure of each angle?    Given, a measure of an angle is   As we know, the angle bisector divides the angle into equal two parts.  Therefore, is divided into equal two parts, say .  Hence,                  Geometrical construction of   Drawing Angles Game      Draw angles as accurately as you can and improve your angle sense in this interactive game.(Drawing angles by estimation)             Which angles were the easiest for you to draw? Why do you think so?        Constucting    Work in pairs.  What you need: A ruler, a protractor and a pair of compasses.  1.Draw a straight line and mark on it point . With point as the centre, make arcs to cut the line at and as shown below.     2. Using and as the centres, make arcs abave the line to meet at point as shown below.     3.Join points to as shown below.measure angle and . Which angles have you constructed?     Expected observations               Constucting               Geometrical construction of   constructing              Work in pairs  What you need: A ruler, a protractor and a pair of compasses.  Explore  1.Draw a straight line and mark a point on it as shown below.     2. With as center draw an arc of any radius to cut the line at .With the same radius and as center draw an arc to cut the previous arc at .     3. Join . Measure angle . Which angle have you constructed?     Expected observation.  We get the required angle                     Constructing       Work in pairs  What you need: A ruler, a protractor and a pair of compasses.  Explore.  1.Construct (as shown in the above activity).     2.With as center, draw an arc of radius more than half of in the interior of . With the same radius and with as center draw an arc to cut the previous one at .  3.Join OC. Measure .     Expected observation.  We get the required angle        Constucting angle         Constructing    Work in pairs  What you need: A ruler, a protractor and a pair of compasses.  Explore.  1.Draw a line and mark a point on it.     2.With as center draw an arc of any radius to cut the line at .     3.With same radius and with as center draw another arc to cut the previous arc at . With as center draw another arc of same radius to cut the first arc at .     4.Join . We get the required angle .              Constructing triangles  A triangle is a basic shape with three sides and three angles. The three sides of a triangle can have different lengths, and the angles can vary in size, but the sum of the angles in any triangle is always .   Determine whether three segments can form a triangle    Types of Triangles  Triangles can be classified based on angles and sides.     Scalene Triangle.    Equilateral Triangle.    Isosceles Triangle.    Obtuse Triangle.    Acute triangle    Right-angled triange.      Draw triangles with given characteristics.     Constructing equalateral triangles  An equilateral triangle is a triangle that has all its sides equal in length. Also, the three angles of the equilateral triangle are equal to . The sum of all three angles of an equilateral triangle is equal to .            Work in pairs  What you need: A ruler, a pair of compasses and a protractor.  Explore.  1.Draw a straight line. Mark point on the line.     2.Using a pair of compasses and and a ruler, mark point ,  away from .     3.With as the centre and using radius of  , draw an arc abave the line.     4.with as the centre and using the same radius draw another arc abave the line to intersect the other arc at . Use a ruler to join point to and point to      5. Measure , and . What do you notice?  6.Share your work with other learners in class.      Constructing isosceles triangle  An Isosceles triangle is a triangle that has two equal sides. Also, the two angles opposite the two equal sides are equal.      Properties of isosceles triangle.     As the two sides are equal in this triangle, the unequal side is called the base of the triangle    The angles opposite to the two equal sides of the triangle are always equal.    The altitude of an isosceles triangle is measured from the base to the vertex (topmost) of the triangle.       Work in pairs  1.Draw a straight line. Mark point on the line.  2.Using a pair of compasses and and a ruler, mark point , 5 away from   3.With as the centre and using radius of  , draw an arc abave the line .  4.with as the centre and using the radius of ,  , draw another arc abave the line to intersect the other arc at point . Use a ruler to join point to and point to . Measure sides , and   5. Measure , and . What do you notice?  6.Share your work with other learners in class.      Constructing right-angled triangle  A right-angled triangle is a type of triangle that has one of its angles equal to . The other two angles sum up to . The sides that include the right angle are perpendicular and the base of the triangle. The third side is called the hypotenuse, which is the longest side of all three sides.  The three sides of the right triangle are related to each other. This relationship is explained by Pythagorean theorem.      Here is an isosceles right-angled triangle.    Play with the vertices (moving them about the plane).    What do you notice?    Why is C coloured red, while A and B are green?    What movements of the vertices cause the angles to change?    What else do you notice?              Work in pairs  1.Draw a straight line of any length. Mark point on the line.     2.With as the center, and  as the radius, draw an arc on both the sides of the point such that the arc touches the horizontal line and mark the points as and .     3. With as the centre and using radius of  , draw an arc abave the line. With the same radius of , draw an arc from the point . Mark the point of intersection of these arcs as .     4. Join the points to and to with a ruler.         Constructing scalene triangle.  This is a triangle in which all three sides are of different lengths and all the three angles of the triangle are also of different measures.       Work in pairs  Constructing triangle such that sides  ,  and  .     Draw a straight line of length  .       With as the centre and using a radius of  , draw an arc abave line .       With as the centre and using a radius of  , draw an arc to intersect the other arc at point .       Join point and point . Measure sides , and .       Measure angle , , and . What do you notice ?          Construction of circle using a ruler and a pair of compasses.      Work in groups.  (i) mark a point .  (ii) Adjust a pair of compasses to a length of from . Turn the compass arm with the pencil until it get back to the initial point.  (iii) Discuss the results and share with other groups        "
 },
 {
   "id": "subsec-Measuring-angles-3",
@@ -5047,7 +4948,7 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "5.2.5",
   "title": "",
-  "body": "  Work in pairs.  What you need: A ruler, a protractor and a pair of compasses.  1.Draw a straight line and mark on it point . With point as the centre, make arcs to cut the line at and as shown below.     2. Using and as the centres, make arcs abave the line to meet at point as shown below.     3.Join points to as shown below.measure angle and . Which angles have you constructed?            "
+  "body": "  Work in pairs.  What you need: A ruler, a protractor and a pair of compasses.  1.Draw a straight line and mark on it point . With point as the centre, make arcs to cut the line at and as shown below.     2. Using and as the centres, make arcs abave the line to meet at point as shown below.     3.Join points to as shown below.measure angle and . Which angles have you constructed?     Expected observations      "
 },
 {
   "id": "subsubsec-Constucting-90-3",
@@ -5257,247 +5158,220 @@ var ptx_lunr_docs = [
   "body": "  "
 },
 {
-  "id": "sec-data",
+  "id": "sec-Data-handling",
   "level": "1",
-  "url": "sec-data.html",
+  "url": "sec-Data-handling.html",
   "type": "Section",
   "number": "6.1",
-  "title": "Data",
-  "body": " Data   This chapter introduces students to the concept of data  what it is, how to collect it, organize it, and interpret it using various tools like tables and graphs. It also covers basic statistical measures.    Data from the Environment  Data is a collection of facts such as numbers and measurements that we learn, make decisions or solve problems.  An example of data in a classroom could be the information on finding out how many pens each group in the classroom has. Here is the data we collected:     Group Names: Group 1, Group 2, Group 3    Number of Pens:      Group 1: 5 pens    Group 2: 8 pens    Group 3: 7 pens     This information is considered data because counting pens helps us manage and organize our resources effectively. For instance, if one group needs more pens, we can identify which group has extra pens to share. You could use this data to figure out things like:  Which group has the most pens?  How many pens are there in total?  What is the average number of pens per group?           Walk around the school and record 5 things you can count (e.g., number of desks, types of plants).    Visit a market or home and observe 5 items you can count or classify (e.g., fruits, colors of clothes).        Collecting of data  A collection of data refers to the process of gathering and assembling relevant pieces of information or facts from various sources for analysis or use.  This data can be quantitative (numerical) or qualitative (descriptive) and is typically organized in a structured manner to allow for efficient examination or decision-making.  Data collection can take many forms, such as:  Surveys and questionnaires: Gathering responses from individuals  Experiments: Recording observations or measurements during controlled experiments.  Interviews: Collecting qualitative data through direct interactions.           Collect data on the number of classrooms in your school.    Count the number of textbooks for each subject in your class.    Collect data on the number of male and female in your class.    Collect information on the number of left handed students in your class.    Discuss and compare with other groups.            Data collected from different situations vary from each other.       Frequency distribution table  A frequency distribution table displays the frequency of each data set in an organized way.  Frequency is the rate at which something occurs over a particular period of time or in a given sample.  It helps us to find patterns in the data and also enables us to analyze the data using measures of central tendency and variance.      (i) Consider the following list showing the favourite fruits for learners.   Frequency distribution table    Learner  Fruit    Kemunto  Banana    Otieno  Apple    Kamau  Apple    Esipisu  Banana    Omar  Guava    Sidika  Apple    Nanjala  Guava    Njoki  Banana    Sagar  Guava    Baraza  Banana    Anyango  Banana    Issa  Banana     (ii) Represent the information in a table that has Fruit, Tally and Frequency.  (iii) Compare and discuss with other groups.         A tally mark represents one unit. One mark represent a frequency of one.    A table having one unit and the number of times it occurs is a frequency table       The height, in centimetres, of 30 tree seedlings were recorded as follows:  15 20 18 15 20 15 16 14 20 14 12 14 15 16 10  12 10 16 18 15 16 11 13 16 14 12 17 16 20 19  Draw a frequency distribution table to represent this information.     Frequency distribution table representing tree seedling    Height  Tally  Frequency    10  \/\/  2    11  \/  1    12  \/\/\/  3    13  \/  1    14  \/\/\/\/  4    15  \/\/\/\/\/  5    16  \/\/\/\/\/\/  6    17  \/  1    18  \/\/  2    19  \/  1    20  \/\/\/\/  4         In a quiz, the marks obtained by 20 students out of 30 are given as follows  12,15,15,29,30,21,30,30,15,17,19,15,20,20,16,21,23,24,23,21  Draw a frequency distribution table to represent this information.     Frequency distribution table representing students marks    Marks  Tally  Frequency    12  \/  1    15  \/\/\/\/  4    16  \/  1    17  \/  1    19  \/  1    20  \/\/  2    21  \/\/\/  3    23  \/\/  2    24  \/  1    29  \/  1    30  \/\/\/  3         Real Life Problems Involving Data  Applying the knowledge of data collection and organization to solve practical problems that students might encounter in their daily lives.         Class Attendance: Collect the attendance of students in your class for one week. Organize the data and identify on which day(s) the attendance was highest and lowest.    A shopkeeper keeps a record of the different sizes of school uniforms sold in a week. How can this data help the shopkeeper in the future?        Line graphs of data  Line graph of data is a visual representation of data where individual data points are connected by straight lines, showing how a variable changes over time or across a continuous scale, typically with the horizontal axis representing time and the vertical axis representing the measured values.  It is used to identify trends and patterns in data over a period of time.         Consider the table shown on the amount of recorded rainfall in a place for a period of six months.   Amount of Rainfall for a period of six months    Month  Jan.  Feb.  March.  April.  May.  June.    Amount of Rainfall(mm)  50  70  80  150  140  110       Represent the information on a line graph.    Share and discuss with other groups.            In line graphs, points are connected with straight lines to represent changes in values over a period of time.       The table shown represents the sale of motorcycles by a company from the month of June to December 2021      Month  June  July  Aug.  Sept.  Oct.  Nov  Dec.    No. of motocycles  10  40  30  20  30  40  50     Draw a line graph to represent the information    Scale 1 cm represents 10 motorcycles.         The table below shows recorded average temperature of a place in a week.   Average temperature in a week    Day  Mon  Tue  Wed  Thur  Fri  Sat  Sun    Average temperature              Scale 1 cm represents         A Learner measured changes in the length of a flag post's shadow at different times. She recorded the lengths as shown. Below is a representation of the line graph   Time vs Lengths in metres    Time  7:00 a.m  9:00 a.m  11:00 a.m  1:00 p.m    Lengths in metres  6 m  4 m  2 m  0 m           Pie charts of data  A pie chart is a type of graph representing data in a circular form, with each slice of the circle representing a fraction or proportionate part of the whole. All slices of the pie add up to make the whole equaling 100 percent and 360 degrees.      (i) Consider the table below      Mode of Transport  Bus  Bicycle  On foot  Car    Number of students  200  100  80  20     (ii) Draw a circle of suitable radius.  (iii) Divide the circle into sectors to represent the information.  (iv) Compare and discuss with other groups.   Learning point     Frequency is represented by the size of a sector in a pie chart.       The Table below shows different types of animals kept by a farmer.      Animals  Cows  Goats  Sheep  Pigs    Number of animals  12  24  18  6     Draw a pie chart to represent this information    The total angle at the centre of a circle is . The central angles of sectors representing the animals are fractions of . The total number of animals in the farm is 12+24+18+6 = 60.      Animal  No. of animals  Fraction  Fraction of 360 degrees    Cows       Goats       Sheep       Pigs               Murunga is a fruit farmer. The table below shows the number of fruit trees on Murunga's farm.   Pie chart to represent the number of trees    Fruit trees  Oranges  Lemons  Apples  Pawpaws    Number of trees  600  300  150  150     Draw a pie chart to represent the number of trees.       Total number of trees is + + + =   Oranges   Apples   Pawpaws   Lemons       Bar graphs of data  Bar graph is a visual representation of data where individual bars (rectangular shapes) are used to represent the values or frequencies of different categories.  The length or height of each bar corresponds to the value it represents, making it easy to compare different categories.      (i) Consider the table below showing the number of loaves of bread sold in a school canteen in a week.      Day  Monday  Tuesday  Wednesday  Thursday  Friday    Number of leaves sold  100  250  200  150  300     (ii) Choose a suitable scale to represent the data on a graph.  (iii) Using bars, represent the data on a graph.  (iii) Compare and discuss with other groups.     The table below shows monthly expenses of a household in a certain month.   Monthly expenses of a household in a certain month    Item  Expenditure (Ksh)    House Rent  3000    Food  3500    Education  2000    Electricity  500    Transport  1500     Represent the data on a bar graph    (i) Choose a suitable scale for the length of bars, for example, let 1cm represent Ksh. 500.  (ii) Work out the Length of the bars as shown.   Frequency table    Items  Expenditure (Ksh.)  No. of squares making the height    House rent  3000  6    Food  3500  7    Education  2000  4    Electricity  500  1    Transport  1500  3     (iii) Draw a bar graph for the data.         The bar graph shown represents favourite games for a number of learners.        Find the number of learners whose favourite game was:  (a) Soccer  (b) Netball  (c) Volleyball    Find the total number of learners whose favourite game was soccer, netball or volleyball.          (a) 15 learners  (b) 10 learners  (c) 20 learners    45 learners         measures of central tendency  work in groups  (i) consider the table below         measures of central tendency      A teacher recorded the ages of 45 students in a school. The ages are:              Find the mean age of the students.    Explain what the mean represents in this case.         The mean also known as average of a data set is the sum of all values divided by the total number of values.  Formula for Mean is given by:       A farmer recorded the number of oranges picked from trees in his orchard. The number of apples picked from each tree is:           Find the mean number of oranges picked per tree.    Add all the apple counts                       Divide by the total number of trees      The mean number of apples picked per tree is .           Taita secondary school football team coach recorded the heights (in cm) of players on the team:           Find the median height of the players.    Explain what the median represents in this scenario         The item in the middle is the median when the items in a data set are sorted in ascending order.    A bakery recorded the number of loaves of bread sold each day for days. The numbers are:        Find the median number of loaves sold per day.    Arrange the data in ascending order        Find the middle values   Since there are values (even number), the median is the average of the and values.     value =      value =         The median number of loaves sold per day is .            Collect data on the different ages of students in your class  Determine the median age    Record the number of students arriving late in class each day for 5 school days   Find the median number of students arriving late per day.    Explain what the median represents in this scenario.           "
+  "title": "Data handling",
+  "body": " Data handling   Meaning of data  Data is a collection of facts such as numbers and measurements that we learn, make decisions or solve problems.  An example of data in a classroom could be the information on finding out how many pens each group in the classroom has. Here is the data we collected:     Group Names: Group 1, Group 2, Group 3    Number of Pens:      Group 1: 5 pens    Group 2: 8 pens    Group 3: 7 pens     This information is considered data because counting pens helps us manage and organize our resources effectively. For instance, if one group needs more pens, we can identify which group has extra pens to share. You could use this data to figure out things like:  Which group has the most pens?  How many pens are there in total?  What is the average number of pens per group?     Work in groups  (i) Each learner state their understanding of the term data.  (ii) Search for the meaning of data from different sources.  (iii) Discuss and compare with other groups.   Learning point     Data is a collection of facts such as numbers and measurements collected to represent information.       Collection of data  A collection of data refers to the process of gathering and assembling relevant pieces of information or facts from various sources for analysis or use.  This data can be quantitative (numerical) or qualitative (descriptive) and is typically organized in a structured manner to allow for efficient examination or decision-making.  Data collection can take many forms, such as:  Surveys and questionnaires: Gathering responses from individuals  Experiments: Recording observations or measurements during controlled experiments.  Interviews: Collecting qualitative data through direct interactions.     Work in groups  (i) Collect data on the number of classrooms in your school.  (ii) Count the number of textbooks for each subject in your class.  (iii) Collect data on the number of male and female in your class.  (iv) Collect information on the number of left handed students in your class.  (v) Discuss and compare with other groups.   Learning point     Data collected from different situations vary from each other.       Frequency distribution table  A frequency distribution table displays the frequency of each data set in an organized way.  Frequency is the rate at which something occurs over a particular period of time or in a given sample.  It helps us to find patterns in the data and also enables us to analyze the data using measures of central tendency and variance.   Work in groups  (i) Consider the following list showing the favourite fruits for learners.   Frequency distribution table    Learner  Fruit    Kemunto  Banana    Otieno  Apple    Kamau  Apple    Esipisu  Banana    Omar  Guava    Sidika  Apple    Nanjala  Guava    Njoki  Banana    Sagar  Guava    Baraza  Banana    Anyango  Banana    Issa  Banana     (ii) Represent the information in a table that has Fruit, Tally and Frequency.  (iii) Compare and discuss with other groups.   Learning points     A tally mark represents one unit. One mark represent a frequency of one.    A table having one unit and the number of times it occurs is a frequency table       The height, in centimetres, of 30 tree seedlings were recorded as follows:  15 20 18 15 20 15 16 14 20 14 12 14 15 16 10  12 10 16 18 15 16 11 13 16 14 12 17 16 20 19  Draw a frequency distribution table to represent this information.     Frequency distribution table representing tree seedling    Height  Tally  Frequency    10  \/\/  2    11  \/  1    12  \/\/\/  3    13  \/  1    14  \/\/\/\/  4    15  \/\/\/\/\/  5    16  \/\/\/\/\/\/  6    17  \/  1    18  \/\/  2    19  \/  1    20  \/\/\/\/  4         In a quiz, the marks obtained by 20 students out of 30 are given as follows  12,15,15,29,30,21,30,30,15,17,19,15,20,20,16,21,23,24,23,21  Draw a frequency distribution table to represent this information.     Frequency distribution table representing students marks    Marks  Tally  Frequency    12  \/  1    15  \/\/\/\/  4    16  \/  1    17  \/  1    19  \/  1    20  \/\/  2    21  \/\/\/  3    23  \/\/  2    24  \/  1    29  \/  1    30  \/\/\/  3         Suitable scale for graphs of data   work in groups  (i) consider the table below      Marks  Frequency    4  2    5  10    6  5    7  20    8  3    9  4     (ii) Determine a suitable scale you would use to draw a bar graph.  (iii) Discuss and compare with other groups.   Learning point     A suitable scale should be chosen in such a way that data is easy to plot and easy to read.       Pictographs of data  A pictograph is a type of data visualization that uses pictures or symbols to represent and convey data.  Each picture or symbol typically represents a specific quantity or value, making it easier to understand and interpret data.   Work in groups  (i) Consider the table shown   Favourite musical instrument    🎸  😊😊😊😊    🥁  😊😊    🎹  😊😊😊    🪈  😊😊😊😊😊     key: 😊represents four children  (ii) Write down the number of children whose favourite musical instrument is: (a) Guitar (b) Drum (c) Keyboard (d) Flute  (iii) Discuss and compare with other groups.   Learning point     A pictograph is a representation of data using images, icons and symbols.       The following pictograph shows the number of students who were absent from a class in a given week.      Days  Number of absentees    Monday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Tuesday     Wednesday  🧍🏼🧍🏼    Thursday  🧍🏼🧍🏼🧍🏼    Friday  🧍🏼     Key: 🧍🏼represents one student  (a) On which day were the maximum number of students absent?  (b) Which day had full attendance?    (a) Monday  (b) Tuesday      The table shows the number of students present in a class of 32 in a week.      Days  Number of students present    Monday  24    Tuesday  20    Wednesday  28    Thursday  32    Friday  28     Represent the information in a pictograph.    Key: 🧍🏼represents 4 students      Days  Number of students present    Monday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Tuesday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Wednesday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Thursday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Friday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼         The pictograph below shows the number of books borrowed from a school library over five days      Days of the week  Number of books borrowed 📙 = 5 vehicles    Monday  📙📙📙📙📙    Tueday  📙📙📙📙    Wednesday  📙📙📙📙📙📙    Thursday  📙📙📙    Friday  📙📙📙📙📙📙📙     Answer the following questions:  (a) How many books were borrowed on Monday?  (b) On which day were the most books borrowed?  (c) How many books were borrowed in total during the week?  (d) How many more books were borrowed on Friday compared to Thursday?    (a) Therefore, 50 books were borrowed on Monday  (b) Friday  (c) Total Books Borrowed:     Monday: 50 books    Tuesday: 40 books    Wednesday: 60 books    Thursday: 30 books    Friday: 70 books     Total =   Therefore, books were borrowed throughout the week.  (d) More Books Borrowed on Friday than Thursday:     Friday: 70 books    Thursday: 30 books    Difference = books         Bar graphs of data  Bar graph is a visual representation of data where individual bars (rectangular shapes) are used to represent the values or frequencies of different categories.  The length or height of each bar corresponds to the value it represents, making it easy to compare different categories.   Work in groups  (i) Consider the table below showing the number of loaves of bread sold in a school canteen in a week.      Day  Monday  Tuesday  Wednesday  Thursday  Friday    Number of leaves sold  100  250  200  150  300     (ii) Choose a suitable scale to represent the data on a graph.  (iii) Using bars, represent the data on a graph.  (iii) Compare and discuss with other groups.     The table below shows monthly expenses of a household in a certain month.   Monthly expenses of a household in a certain month    Item  Expenditure (Ksh)    House Rent  3000    Food  3500    Education  2000    Electricity  500    Transport  1500     Represent the data on a bar graph    (i) Choose a suitable scale for the length of bars, for example, let 1cm represent Ksh. 500.  (ii) Work out the Length of the bars as shown.   Frequency table    Items  Expenditure (Ksh.)  No. of squares making the height    House rent  3000  6    Food  3500  7    Education  2000  4    Electricity  500  1    Transport  1500  3     (iii) Draw a bar graph for the data.         The bar graph shown represents favourite games for a number of learners.        Find the number of learners whose favourite game was:  (a) Soccer  (b) Netball  (c) Volleyball    Find the total number of learners whose favourite game was soccer, netball or volleyball.          (a) 15 learners  (b) 10 learners  (c) 20 learners    45 learners         Pie charts of data  A pie chart is a type of graph representing data in a circular form, with each slice of the circle representing a fraction or proportionate part of the whole. All slices of the pie add up to make the whole equaling 100 percent and 360 degrees.   work in groups  (i) Consider the table below      Mode of Transport  Bus  Bicycle  On foot  Car    Number of students  200  100  80  20     (ii) Draw a circle of suitable radius.  (iii) Divide the circle into sectors to represent the information.  (iv) Compare and discuss with other groups.   Learning point     Frequency is represented by the size of a sector in a pie chart.       The Table below shows different types of animals kept by a farmer.      Animals  Cows  Goats  Sheep  Pigs    Number of animals  12  24  18  6     Draw a pie chart to represent this information    The total angle at the centre of a circle is . The central angles of sectors representing the animals are fractions of . The total number of animals in the farm is 12+24+18+6 = 60.      Animal  No. of animals  Fraction  Fraction of 360 degrees    Cows       Goats       Sheep       Pigs               Murunga is a fruit farmer. The table below shows the number of fruit trees on Murunga's farm.   Pie chart to represent the number of trees    Fruit trees  Oranges  Lemons  Apples  Pawpaws    Number of trees  600  300  150  150     Draw a pie chart to represent the number of trees.       Total number of trees is + + + =   Oranges   Apples   Pawpaws   Lemons       Interpretation of pie charts   Work in groups  (i) Consider the pie chart representing different types of crops planted in a 6 hectare farm shown.     (ii) Find and record the information represented in the pie chart.  (iii) Discuss and share with other groups.   Learning point     Information represented in a pie chart is obtained using the total number of items represented and the angles expressed as fractions of .       The pie chart shows types of vehicles that passed by a school gate within one hour.     If the number of vehicles that passed by the school were 72, find how many lorries, pickups and cars passed by the school gate.    The number of lorries were   The number of pick ups were   The number of cars were       The pie chart below represents careers that learners would love to pursue in future.     (a) How many learners want to pursue Law?  (b) How many learners want to pursue Fine Art?  (c) How many learners want to pursue Medicine?  (d) How many learners want to pursue Teaching?    Measure the angle representing each career.  (a) Number of learners who want to pursue Law is   (b) Number of learners who want to pursue Fine Art is   (c) Number of learners who want to pursue Medicine is   (d) Number of learners who want to pursue Teaching is   Number of learners who prefer Medicine to Teaching is       Line graphs of data  Line graph of data is a visual representation of data where individual data points are connected by straight lines, showing how a variable changes over time or across a continuous scale, typically with the horizontal axis representing time and the vertical axis representing the measured values.  It is used to identify trends and patterns in data over a period of time.   Work in groups     Consider the table shown on the amount of recorded rainfall in a place for a period of six months.   Amount of Rainfall for a period of six months    Month  Jan.  Feb.  March.  April.  May.  June.    Amount of Rainfall(mm)  50  70  80  150  140  110       Represent the information on a line graph.    Share and discuss with other groups.      Learning point     In line graphs, points are connected with straight lines to represent changes in values over a period of time.       The table shown represents the sale of motorcycles by a company from the month of June to December 2021      Month  June  July  Aug.  Sept.  Oct.  Nov  Dec.    No. of motocycles  10  40  30  20  30  40  50     Draw a line graph to represent the information    Scale 1 cm represents 10 motorcycles.         The table below shows recorded average temperature of a place in a week.   Average temperature in a week    Day  Mon  Tue  Wed  Thur  Fri  Sat  Sun    Average temperature              Scale 1 cm represents         A Learner measured changes in the length of a flag post's shadow at different times. She recorded the lengths as shown. Below is a representation of the line graph   Time vs Lengths in metres    Time  7:00 a.m  9:00 a.m  11:00 a.m  1:00 p.m    Lengths in metres  6 m  4 m  2 m  0 m          "
 },
 {
-  "id": "subsec-data_from_the_environment-6",
+  "id": "subsec-Meaning-of-data-6",
   "level": "2",
-  "url": "sec-data.html#subsec-data_from_the_environment-6",
+  "url": "sec-Data-handling.html#subsec-Meaning-of-data-6",
   "type": "Activity",
   "number": "6.1.1",
   "title": "",
-  "body": "       Walk around the school and record 5 things you can count (e.g., number of desks, types of plants).    Visit a market or home and observe 5 items you can count or classify (e.g., fruits, colors of clothes).     "
+  "body": " Work in groups  (i) Each learner state their understanding of the term data.  (ii) Search for the meaning of data from different sources.  (iii) Discuss and compare with other groups.  "
 },
 {
-  "id": "subsec-Collecting-of-data-5",
+  "id": "subsec-Collection-of-data-5",
   "level": "2",
-  "url": "sec-data.html#subsec-Collecting-of-data-5",
+  "url": "sec-Data-handling.html#subsec-Collection-of-data-5",
   "type": "Activity",
   "number": "6.1.2",
   "title": "",
-  "body": "       Collect data on the number of classrooms in your school.    Count the number of textbooks for each subject in your class.    Collect data on the number of male and female in your class.    Collect information on the number of left handed students in your class.    Discuss and compare with other groups.     "
+  "body": " Work in groups  (i) Collect data on the number of classrooms in your school.  (ii) Count the number of textbooks for each subject in your class.  (iii) Collect data on the number of male and female in your class.  (iv) Collect information on the number of left handed students in your class.  (v) Discuss and compare with other groups.  "
 },
 {
-  "id": "subsec-frequency-distribution-table-5",
+  "id": "subsec-Frequency-distribution-table-5",
   "level": "2",
-  "url": "sec-data.html#subsec-frequency-distribution-table-5",
+  "url": "sec-Data-handling.html#subsec-Frequency-distribution-table-5",
   "type": "Activity",
   "number": "6.1.3",
   "title": "",
-  "body": "    (i) Consider the following list showing the favourite fruits for learners.   Frequency distribution table    Learner  Fruit    Kemunto  Banana    Otieno  Apple    Kamau  Apple    Esipisu  Banana    Omar  Guava    Sidika  Apple    Nanjala  Guava    Njoki  Banana    Sagar  Guava    Baraza  Banana    Anyango  Banana    Issa  Banana     (ii) Represent the information in a table that has Fruit, Tally and Frequency.  (iii) Compare and discuss with other groups.  "
+  "body": " Work in groups  (i) Consider the following list showing the favourite fruits for learners.   Frequency distribution table    Learner  Fruit    Kemunto  Banana    Otieno  Apple    Kamau  Apple    Esipisu  Banana    Omar  Guava    Sidika  Apple    Nanjala  Guava    Njoki  Banana    Sagar  Guava    Baraza  Banana    Anyango  Banana    Issa  Banana     (ii) Represent the information in a table that has Fruit, Tally and Frequency.  (iii) Compare and discuss with other groups.  "
 },
 {
-  "id": "subsec-frequency-distribution-table-8",
+  "id": "subsec-Frequency-distribution-table-8",
   "level": "2",
-  "url": "sec-data.html#subsec-frequency-distribution-table-8",
+  "url": "sec-Data-handling.html#subsec-Frequency-distribution-table-8",
   "type": "Example",
   "number": "6.1.2",
   "title": "",
   "body": "  The height, in centimetres, of 30 tree seedlings were recorded as follows:  15 20 18 15 20 15 16 14 20 14 12 14 15 16 10  12 10 16 18 15 16 11 13 16 14 12 17 16 20 19  Draw a frequency distribution table to represent this information.     Frequency distribution table representing tree seedling    Height  Tally  Frequency    10  \/\/  2    11  \/  1    12  \/\/\/  3    13  \/  1    14  \/\/\/\/  4    15  \/\/\/\/\/  5    16  \/\/\/\/\/\/  6    17  \/  1    18  \/\/  2    19  \/  1    20  \/\/\/\/  4      "
 },
 {
-  "id": "subsec-frequency-distribution-table-9",
+  "id": "subsec-Frequency-distribution-table-9",
   "level": "2",
-  "url": "sec-data.html#subsec-frequency-distribution-table-9",
+  "url": "sec-Data-handling.html#subsec-Frequency-distribution-table-9",
   "type": "Example",
   "number": "6.1.4",
   "title": "",
   "body": "  In a quiz, the marks obtained by 20 students out of 30 are given as follows  12,15,15,29,30,21,30,30,15,17,19,15,20,20,16,21,23,24,23,21  Draw a frequency distribution table to represent this information.     Frequency distribution table representing students marks    Marks  Tally  Frequency    12  \/  1    15  \/\/\/\/  4    16  \/  1    17  \/  1    19  \/  1    20  \/\/  2    21  \/\/\/  3    23  \/\/  2    24  \/  1    29  \/  1    30  \/\/\/  3      "
 },
 {
-  "id": "subsec-real-life_problems_involving_data-3",
+  "id": "subsec-Suitable-scale-for-graphs-of-data-2",
   "level": "2",
-  "url": "sec-data.html#subsec-real-life_problems_involving_data-3",
+  "url": "sec-Data-handling.html#subsec-Suitable-scale-for-graphs-of-data-2",
   "type": "Activity",
   "number": "6.1.4",
   "title": "",
-  "body": "       Class Attendance: Collect the attendance of students in your class for one week. Organize the data and identify on which day(s) the attendance was highest and lowest.    A shopkeeper keeps a record of the different sizes of school uniforms sold in a week. How can this data help the shopkeeper in the future?     "
+  "body": " work in groups  (i) consider the table below      Marks  Frequency    4  2    5  10    6  5    7  20    8  3    9  4     (ii) Determine a suitable scale you would use to draw a bar graph.  (iii) Discuss and compare with other groups.  "
 },
 {
-  "id": "subsec-line-graphs-4",
+  "id": "subsec-Pictographs-of-data-4",
   "level": "2",
-  "url": "sec-data.html#subsec-line-graphs-4",
+  "url": "sec-Data-handling.html#subsec-Pictographs-of-data-4",
   "type": "Activity",
   "number": "6.1.5",
   "title": "",
-  "body": "       Consider the table shown on the amount of recorded rainfall in a place for a period of six months.   Amount of Rainfall for a period of six months    Month  Jan.  Feb.  March.  April.  May.  June.    Amount of Rainfall(mm)  50  70  80  150  140  110       Represent the information on a line graph.    Share and discuss with other groups.     "
+  "body": " Work in groups  (i) Consider the table shown   Favourite musical instrument    🎸  😊😊😊😊    🥁  😊😊    🎹  😊😊😊    🪈  😊😊😊😊😊     key: 😊represents four children  (ii) Write down the number of children whose favourite musical instrument is: (a) Guitar (b) Drum (c) Keyboard (d) Flute  (iii) Discuss and compare with other groups.  "
 },
 {
-  "id": "subsec-line-graphs-7",
+  "id": "subsec-Pictographs-of-data-7",
   "level": "2",
-  "url": "sec-data.html#subsec-line-graphs-7",
+  "url": "sec-Data-handling.html#subsec-Pictographs-of-data-7",
   "type": "Example",
-  "number": "6.1.7",
+  "number": "6.1.8",
   "title": "",
-  "body": "  The table shown represents the sale of motorcycles by a company from the month of June to December 2021      Month  June  July  Aug.  Sept.  Oct.  Nov  Dec.    No. of motocycles  10  40  30  20  30  40  50     Draw a line graph to represent the information    Scale 1 cm represents 10 motorcycles.      "
+  "body": "  The following pictograph shows the number of students who were absent from a class in a given week.      Days  Number of absentees    Monday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Tuesday     Wednesday  🧍🏼🧍🏼    Thursday  🧍🏼🧍🏼🧍🏼    Friday  🧍🏼     Key: 🧍🏼represents one student  (a) On which day were the maximum number of students absent?  (b) Which day had full attendance?    (a) Monday  (b) Tuesday   "
 },
 {
-  "id": "subsec-line-graphs-8",
+  "id": "subsec-Pictographs-of-data-8",
   "level": "2",
-  "url": "sec-data.html#subsec-line-graphs-8",
+  "url": "sec-Data-handling.html#subsec-Pictographs-of-data-8",
   "type": "Example",
-  "number": "6.1.9",
+  "number": "6.1.10",
   "title": "",
-  "body": "  The table below shows recorded average temperature of a place in a week.   Average temperature in a week    Day  Mon  Tue  Wed  Thur  Fri  Sat  Sun    Average temperature              Scale 1 cm represents       "
+  "body": "  The table shows the number of students present in a class of 32 in a week.      Days  Number of students present    Monday  24    Tuesday  20    Wednesday  28    Thursday  32    Friday  28     Represent the information in a pictograph.    Key: 🧍🏼represents 4 students      Days  Number of students present    Monday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Tuesday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Wednesday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Thursday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼    Friday  🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼🧍🏼      "
 },
 {
-  "id": "subsec-line-graphs-9",
+  "id": "subsec-Pictographs-of-data-9",
   "level": "2",
-  "url": "sec-data.html#subsec-line-graphs-9",
+  "url": "sec-Data-handling.html#subsec-Pictographs-of-data-9",
   "type": "Example",
-  "number": "6.1.11",
+  "number": "6.1.13",
   "title": "",
-  "body": " A Learner measured changes in the length of a flag post's shadow at different times. She recorded the lengths as shown. Below is a representation of the line graph   Time vs Lengths in metres    Time  7:00 a.m  9:00 a.m  11:00 a.m  1:00 p.m    Lengths in metres  6 m  4 m  2 m  0 m        "
+  "body": "  The pictograph below shows the number of books borrowed from a school library over five days      Days of the week  Number of books borrowed 📙 = 5 vehicles    Monday  📙📙📙📙📙    Tueday  📙📙📙📙    Wednesday  📙📙📙📙📙📙    Thursday  📙📙📙    Friday  📙📙📙📙📙📙📙     Answer the following questions:  (a) How many books were borrowed on Monday?  (b) On which day were the most books borrowed?  (c) How many books were borrowed in total during the week?  (d) How many more books were borrowed on Friday compared to Thursday?    (a) Therefore, 50 books were borrowed on Monday  (b) Friday  (c) Total Books Borrowed:     Monday: 50 books    Tuesday: 40 books    Wednesday: 60 books    Thursday: 30 books    Friday: 70 books     Total =   Therefore, books were borrowed throughout the week.  (d) More Books Borrowed on Friday than Thursday:     Friday: 70 books    Thursday: 30 books    Difference = books      "
+},
+{
+  "id": "subsec-Bar-graphs-of-data-4",
+  "level": "2",
+  "url": "sec-Data-handling.html#subsec-Bar-graphs-of-data-4",
+  "type": "Activity",
+  "number": "6.1.6",
+  "title": "",
+  "body": " Work in groups  (i) Consider the table below showing the number of loaves of bread sold in a school canteen in a week.      Day  Monday  Tuesday  Wednesday  Thursday  Friday    Number of leaves sold  100  250  200  150  300     (ii) Choose a suitable scale to represent the data on a graph.  (iii) Using bars, represent the data on a graph.  (iii) Compare and discuss with other groups.  "
+},
+{
+  "id": "subsec-Bar-graphs-of-data-5",
+  "level": "2",
+  "url": "sec-Data-handling.html#subsec-Bar-graphs-of-data-5",
+  "type": "Example",
+  "number": "6.1.16",
+  "title": "",
+  "body": "  The table below shows monthly expenses of a household in a certain month.   Monthly expenses of a household in a certain month    Item  Expenditure (Ksh)    House Rent  3000    Food  3500    Education  2000    Electricity  500    Transport  1500     Represent the data on a bar graph    (i) Choose a suitable scale for the length of bars, for example, let 1cm represent Ksh. 500.  (ii) Work out the Length of the bars as shown.   Frequency table    Items  Expenditure (Ksh.)  No. of squares making the height    House rent  3000  6    Food  3500  7    Education  2000  4    Electricity  500  1    Transport  1500  3     (iii) Draw a bar graph for the data.      "
+},
+{
+  "id": "subsec-Bar-graphs-of-data-6",
+  "level": "2",
+  "url": "sec-Data-handling.html#subsec-Bar-graphs-of-data-6",
+  "type": "Example",
+  "number": "6.1.19",
+  "title": "",
+  "body": "  The bar graph shown represents favourite games for a number of learners.        Find the number of learners whose favourite game was:  (a) Soccer  (b) Netball  (c) Volleyball    Find the total number of learners whose favourite game was soccer, netball or volleyball.          (a) 15 learners  (b) 10 learners  (c) 20 learners    45 learners      "
 },
 {
   "id": "subsec-Pie-charts-of-data-3",
   "level": "2",
-  "url": "sec-data.html#subsec-Pie-charts-of-data-3",
+  "url": "sec-Data-handling.html#subsec-Pie-charts-of-data-3",
   "type": "Activity",
-  "number": "6.1.6",
+  "number": "6.1.7",
   "title": "",
-  "body": "    (i) Consider the table below      Mode of Transport  Bus  Bicycle  On foot  Car    Number of students  200  100  80  20     (ii) Draw a circle of suitable radius.  (iii) Divide the circle into sectors to represent the information.  (iv) Compare and discuss with other groups.  "
+  "body": " work in groups  (i) Consider the table below      Mode of Transport  Bus  Bicycle  On foot  Car    Number of students  200  100  80  20     (ii) Draw a circle of suitable radius.  (iii) Divide the circle into sectors to represent the information.  (iv) Compare and discuss with other groups.  "
 },
 {
   "id": "subsec-Pie-charts-of-data-6",
   "level": "2",
-  "url": "sec-data.html#subsec-Pie-charts-of-data-6",
+  "url": "sec-Data-handling.html#subsec-Pie-charts-of-data-6",
   "type": "Example",
-  "number": "6.1.14",
+  "number": "6.1.21",
   "title": "",
   "body": "  The Table below shows different types of animals kept by a farmer.      Animals  Cows  Goats  Sheep  Pigs    Number of animals  12  24  18  6     Draw a pie chart to represent this information    The total angle at the centre of a circle is . The central angles of sectors representing the animals are fractions of . The total number of animals in the farm is 12+24+18+6 = 60.      Animal  No. of animals  Fraction  Fraction of 360 degrees    Cows       Goats       Sheep       Pigs            "
 },
 {
   "id": "subsec-Pie-charts-of-data-7",
   "level": "2",
-  "url": "sec-data.html#subsec-Pie-charts-of-data-7",
+  "url": "sec-Data-handling.html#subsec-Pie-charts-of-data-7",
   "type": "Example",
-  "number": "6.1.17",
+  "number": "6.1.24",
   "title": "",
   "body": "  Murunga is a fruit farmer. The table below shows the number of fruit trees on Murunga's farm.   Pie chart to represent the number of trees    Fruit trees  Oranges  Lemons  Apples  Pawpaws    Number of trees  600  300  150  150     Draw a pie chart to represent the number of trees.       Total number of trees is + + + =   Oranges   Apples   Pawpaws   Lemons    "
 },
 {
-  "id": "subsec-bar-graphs-of-data-4",
+  "id": "subsec-Interpretation-of-pie-charts-2",
   "level": "2",
-  "url": "sec-data.html#subsec-bar-graphs-of-data-4",
-  "type": "Activity",
-  "number": "6.1.7",
-  "title": "",
-  "body": "    (i) Consider the table below showing the number of loaves of bread sold in a school canteen in a week.      Day  Monday  Tuesday  Wednesday  Thursday  Friday    Number of leaves sold  100  250  200  150  300     (ii) Choose a suitable scale to represent the data on a graph.  (iii) Using bars, represent the data on a graph.  (iii) Compare and discuss with other groups.  "
-},
-{
-  "id": "subsec-bar-graphs-of-data-5",
-  "level": "2",
-  "url": "sec-data.html#subsec-bar-graphs-of-data-5",
-  "type": "Example",
-  "number": "6.1.20",
-  "title": "",
-  "body": "  The table below shows monthly expenses of a household in a certain month.   Monthly expenses of a household in a certain month    Item  Expenditure (Ksh)    House Rent  3000    Food  3500    Education  2000    Electricity  500    Transport  1500     Represent the data on a bar graph    (i) Choose a suitable scale for the length of bars, for example, let 1cm represent Ksh. 500.  (ii) Work out the Length of the bars as shown.   Frequency table    Items  Expenditure (Ksh.)  No. of squares making the height    House rent  3000  6    Food  3500  7    Education  2000  4    Electricity  500  1    Transport  1500  3     (iii) Draw a bar graph for the data.      "
-},
-{
-  "id": "subsec-bar-graphs-of-data-6",
-  "level": "2",
-  "url": "sec-data.html#subsec-bar-graphs-of-data-6",
-  "type": "Example",
-  "number": "6.1.23",
-  "title": "",
-  "body": "  The bar graph shown represents favourite games for a number of learners.        Find the number of learners whose favourite game was:  (a) Soccer  (b) Netball  (c) Volleyball    Find the total number of learners whose favourite game was soccer, netball or volleyball.          (a) 15 learners  (b) 10 learners  (c) 20 learners    45 learners      "
-},
-{
-  "id": "subsec-histogram-4",
-  "level": "2",
-  "url": "sec-data.html#subsec-histogram-4",
+  "url": "sec-Data-handling.html#subsec-Interpretation-of-pie-charts-2",
   "type": "Activity",
   "number": "6.1.8",
   "title": "",
-  "body": "    "
+  "body": " Work in groups  (i) Consider the pie chart representing different types of crops planted in a 6 hectare farm shown.     (ii) Find and record the information represented in the pie chart.  (iii) Discuss and share with other groups.  "
 },
 {
-  "id": "subsec-measures_of_central_tendency-2",
+  "id": "subsec-Interpretation-of-pie-charts-5",
   "level": "2",
-  "url": "sec-data.html#subsec-measures_of_central_tendency-2",
+  "url": "sec-Data-handling.html#subsec-Interpretation-of-pie-charts-5",
+  "type": "Example",
+  "number": "6.1.26",
+  "title": "",
+  "body": "  The pie chart shows types of vehicles that passed by a school gate within one hour.     If the number of vehicles that passed by the school were 72, find how many lorries, pickups and cars passed by the school gate.    The number of lorries were   The number of pick ups were   The number of cars were    "
+},
+{
+  "id": "subsec-Interpretation-of-pie-charts-6",
+  "level": "2",
+  "url": "sec-Data-handling.html#subsec-Interpretation-of-pie-charts-6",
+  "type": "Example",
+  "number": "6.1.27",
+  "title": "",
+  "body": "  The pie chart below represents careers that learners would love to pursue in future.     (a) How many learners want to pursue Law?  (b) How many learners want to pursue Fine Art?  (c) How many learners want to pursue Medicine?  (d) How many learners want to pursue Teaching?    Measure the angle representing each career.  (a) Number of learners who want to pursue Law is   (b) Number of learners who want to pursue Fine Art is   (c) Number of learners who want to pursue Medicine is   (d) Number of learners who want to pursue Teaching is   Number of learners who prefer Medicine to Teaching is    "
+},
+{
+  "id": "subsec-Line-graphs-of-data-4",
+  "level": "2",
+  "url": "sec-Data-handling.html#subsec-Line-graphs-of-data-4",
   "type": "Activity",
   "number": "6.1.9",
   "title": "",
-  "body": "    A teacher recorded the ages of 45 students in a school. The ages are:              Find the mean age of the students.    Explain what the mean represents in this case.     "
+  "body": " Work in groups     Consider the table shown on the amount of recorded rainfall in a place for a period of six months.   Amount of Rainfall for a period of six months    Month  Jan.  Feb.  March.  April.  May.  June.    Amount of Rainfall(mm)  50  70  80  150  140  110       Represent the information on a line graph.    Share and discuss with other groups.     "
 },
 {
-  "id": "subsec-measures_of_central_tendency-7",
+  "id": "subsec-Line-graphs-of-data-7",
   "level": "2",
-  "url": "sec-data.html#subsec-measures_of_central_tendency-7",
+  "url": "sec-Data-handling.html#subsec-Line-graphs-of-data-7",
   "type": "Example",
-  "number": "6.1.24",
+  "number": "6.1.29",
   "title": "",
-  "body": "  A farmer recorded the number of oranges picked from trees in his orchard. The number of apples picked from each tree is:           Find the mean number of oranges picked per tree.    Add all the apple counts                       Divide by the total number of trees      The mean number of apples picked per tree is .   "
+  "body": "  The table shown represents the sale of motorcycles by a company from the month of June to December 2021      Month  June  July  Aug.  Sept.  Oct.  Nov  Dec.    No. of motocycles  10  40  30  20  30  40  50     Draw a line graph to represent the information    Scale 1 cm represents 10 motorcycles.      "
 },
 {
-  "id": "subsec-measures_of_central_tendency-9",
+  "id": "subsec-Line-graphs-of-data-8",
   "level": "2",
-  "url": "sec-data.html#subsec-measures_of_central_tendency-9",
-  "type": "Activity",
-  "number": "6.1.10",
-  "title": "",
-  "body": "    Taita secondary school football team coach recorded the heights (in cm) of players on the team:           Find the median height of the players.    Explain what the median represents in this scenario     "
-},
-{
-  "id": "subsec-measures_of_central_tendency-12",
-  "level": "2",
-  "url": "sec-data.html#subsec-measures_of_central_tendency-12",
+  "url": "sec-Data-handling.html#subsec-Line-graphs-of-data-8",
   "type": "Example",
-  "number": "6.1.25",
+  "number": "6.1.31",
   "title": "",
-  "body": "  A bakery recorded the number of loaves of bread sold each day for days. The numbers are:        Find the median number of loaves sold per day.    Arrange the data in ascending order        Find the middle values   Since there are values (even number), the median is the average of the and values.     value =      value =         The median number of loaves sold per day is .   "
+  "body": "  The table below shows recorded average temperature of a place in a week.   Average temperature in a week    Day  Mon  Tue  Wed  Thur  Fri  Sat  Sun    Average temperature              Scale 1 cm represents       "
 },
 {
-  "id": "subsec-measures_of_central_tendency-13",
+  "id": "subsec-Line-graphs-of-data-9",
   "level": "2",
-  "url": "sec-data.html#subsec-measures_of_central_tendency-13",
-  "type": "Activity",
-  "number": "6.1.11",
+  "url": "sec-Data-handling.html#subsec-Line-graphs-of-data-9",
+  "type": "Example",
+  "number": "6.1.33",
   "title": "",
-  "body": "        Collect data on the different ages of students in your class  Determine the median age    Record the number of students arriving late in class each day for 5 school days   Find the median number of students arriving late per day.    Explain what the median represents in this scenario.         "
-},
-{
-  "id": "sec-chance_or_probability",
-  "level": "1",
-  "url": "sec-chance_or_probability.html",
-  "type": "Section",
-  "number": "6.2",
-  "title": "Chance or Probability",
-  "body": " Chance or Probability   measures of central tendency  work in groups  (i) consider the table below         measures of central tendency  work in groups  (i) consider the table below         measures of central tendency  work in groups  (i) consider the table below        "
-},
-{
-  "id": "subsec-describing_events-4",
-  "level": "2",
-  "url": "sec-chance_or_probability.html#subsec-describing_events-4",
-  "type": "Activity",
-  "number": "6.2.1",
-  "title": "",
-  "body": "    "
-},
-{
-  "id": "subsec-describing_outcomes-4",
-  "level": "2",
-  "url": "sec-chance_or_probability.html#subsec-describing_outcomes-4",
-  "type": "Activity",
-  "number": "6.2.2",
-  "title": "",
-  "body": "    "
-},
-{
-  "id": "subsec-probability_of_the_event-4",
-  "level": "2",
-  "url": "sec-chance_or_probability.html#subsec-probability_of_the_event-4",
-  "type": "Activity",
-  "number": "6.2.3",
-  "title": "",
-  "body": "    "
+  "body": " A Learner measured changes in the length of a flag post's shadow at different times. She recorded the lengths as shown. Below is a representation of the line graph   Time vs Lengths in metres    Time  7:00 a.m  9:00 a.m  11:00 a.m  1:00 p.m    Lengths in metres  6 m  4 m  2 m  0 m        "
 },
 {
   "id": "backmatter-2",
