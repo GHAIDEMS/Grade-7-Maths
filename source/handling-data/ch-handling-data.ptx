@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xml:id="ch-handling-data">
-    <title>Handling Data</title>
-    <p>
-        
-    </p>
+
+<chapter xml:id="ch-Handling_Data" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Handling Data</title>
+
+  <introduction>
+    <p></p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-data.ptx" />
+
+  <!-- include sections -->
+  <xi:include href="sections/sec-chance_or_probability.ptx" />
+
 </chapter>

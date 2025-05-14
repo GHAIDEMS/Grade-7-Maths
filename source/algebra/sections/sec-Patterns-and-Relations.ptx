@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-patterns-and-relations" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Patterns and Relations</title>
+
+  <introduction>
+    <p>
+    </p>
+  </introduction>
+
+    <xi:include href="./subsections/patterns-and-relations/subsec-establishing-relations.ptx" />
+
+    <xi:include href="./subsections/patterns-and-relations/subsec-developing-patterns.ptx" />
+
+</section>

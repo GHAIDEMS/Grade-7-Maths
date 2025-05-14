@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="variables-and-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Variables and Equations</title>
+
+    <introduction>
+      <p>
+        
+      </p>
+    </introduction>
+
+    <xi:include href="./subsections/variables-and-equations/subsec-linear-equations.ptx" />
+    <xi:include href="./subsections/variables-and-equations/subsec-using-flag-diagram-to-solve-equation.ptx" />
+    <xi:include href="./subsections/variables-and-equations/subsec-translating-word-problems-into-linear-equations-and-solve-them-using-models.ptx" />
+    <xi:include href="./subsections/variables-and-equations/subsec-solving-linear-equations-using-algebraic-tiles.ptx" />
+    <xi:include href="./subsections/variables-and-equations/subsec-solve-linear-equations-in-one-variable.ptx" />
+</section>

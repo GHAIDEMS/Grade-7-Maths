@@ -1,0 +1,7 @@
+<chapter xml:id="ch-geometry-and-measurement" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Geometry and Measurement</title>
+    <!-- include sections -->
+     <xi:include href="sections/sec-shapes-and-space.ptx" />
+     <xi:include href="sections/sec-measurement.ptx" />
+     <xi:include href="sections/sec-position-and-transformation.ptx" />
+</chapter>

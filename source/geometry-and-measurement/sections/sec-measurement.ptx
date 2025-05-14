@@ -1,0 +1,13 @@
+<section xml:id="sec-measurement" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Measurement</title>
+    <xi:include href="subsections/measurement/subsec-perimeter-and-length.ptx" />
+    <xi:include href="subsections/measurement/subsec-part-of-a-circle.ptx" />
+    <xi:include href="subsections/measurement/subsec-pi.ptx" />
+    <xi:include href="subsections/measurement/subsec-area.ptx" />
+    <xi:include href="subsections/measurement/subsec-parallelogram.ptx" />
+    <xi:include href="subsections/measurement/subsec-area-of-a-rectangle.ptx" />
+    <xi:include href="subsections/measurement/subsec-area-of-a-triangle.ptx" />
+    <xi:include href="subsections/measurement/subsec-area-of-a-parallelogram-and-rhombus.ptx" />
+
+
+</section>

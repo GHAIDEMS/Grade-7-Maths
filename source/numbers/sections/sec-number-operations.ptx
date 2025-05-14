@@ -1,0 +1,9 @@
+<section xml:id="sec-number-operations" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Number Operations</title>
+
+    <xi:include href="subsections/number-operations/subsec-mental-strategies.ptx" />
+    <xi:include href="subsections/number-operations/subsec-operations-on-whole-numbers.ptx" />
+    <xi:include href="subsections/number-operations/subsec-powers-of-numbers.ptx" />
+    <xi:include href="subsections/number-operations/subsec-hcf-and-lcm.ptx" />
+
+</section>

@@ -15,7 +15,7 @@
     <!-- Included Units -->
     <xi:include href="./numbers/ch-numbers.ptx" />
     <xi:include href="./algebra/ch-algebra.ptx" />
-    <xi:include href="./geometry/ch-geometry-and-measurement.ptx" />
+    <xi:include href="./geometry-and-measurement/ch-geometry-and-measurement.ptx" />
     <xi:include href="./handling-data/ch-handling-data.ptx" />
     
     <!-- Include backmatter -->

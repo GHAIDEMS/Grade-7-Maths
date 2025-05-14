@@ -1,0 +1,17 @@
+<section xml:id="sec-shapes-and-space" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Shapes and Space</title>
+
+    
+    <xi:include href="subsections/shapes-and-space/subsec-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-types-of-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-complementary-and-supplementary-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-naming-of-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-properties-of-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-angles-around-a-point.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-vertically-opposite-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-constructing-the-perpendicular-bisector-of-a-line-segement.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-bisecting-of-angles.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-construct-angle-of-60-and-30.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-construct-angle-of-90-45-and-85.ptx" />
+    <xi:include href="subsections/shapes-and-space/subsec-perpendicular-line-segments-perpendicular-bisectors-and-angle-bisectors-in-the-environment.ptx" />
+</section>

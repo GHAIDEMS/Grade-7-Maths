@@ -1,0 +1,9 @@
+<section xml:id="sec-bearings">
+    <title>Bearings</title>
+    <xi:include href="subsections/bearings/subsec-bearings.ptx" />
+    <xi:include href="subsections/bearings/subsec-back-bearing.ptx" />
+    <xi:include href="subsections/bearings/subsec-vectors.ptx" />
+    <xi:include href="subsections/bearings/subsec-equality-of-vectors.ptx" />
+    <xi:include href="subsections/bearings/subsec-magnitude-of-vectors.ptx" />
+    <xi:include href="subsections/bearings/subsec-finding-the-magnitude-and-the-direction-of-a-column-of-vectors.ptx" />
+</section>

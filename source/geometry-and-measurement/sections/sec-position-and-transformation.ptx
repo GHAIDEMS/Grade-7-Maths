@@ -1,0 +1,13 @@
+
+<section xml:id="sec-position-and-transformation" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Position and Transformation</title>
+    <xi:include href="subsections/position-and-transformation/subsec-determining-shape-in-real-life-that-have-reflectional-symmetries.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-plotting-points-and-shapes-on-a-coordinate-plane.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-the-cartesian-plane.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-reflection-in-the-x-axis.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-reflection-in-the-y-axis.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-reflection-in-the-line-y-x-axis.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-reflection-in-the-line-x-y-axis.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-translation.ptx" />
+    <xi:include href="subsections/position-and-transformation/subsec-congruent-and-similar-shapes-in-coordinate-plane.ptx" />
+</section>

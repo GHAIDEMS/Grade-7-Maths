@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-algebraic-expressions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebraic Expressions</title>
+
+  <introduction>
+    <p>
+        
+    </p>
+  </introduction>
+
+    <xi:include href="./subsections/algebraic-expressions/subsec-keywords-use-in-algebraic-expression.ptx" />
+    <xi:include href="./subsections/algebraic-expressions/subsec-translate-set-of-instructions-into-algebraic-expression-and-vice-versa.ptx" />
+    <xi:include href="./subsections/algebraic-expressions/subsec-addition-and-subtraction-of-algebraic-expressions-with-rational-coefficients.ptx" />
+    <xi:include href="./subsections/algebraic-expressions/subsec-multiplication-and-division-of-algebraic-expressions-with-rational-coefficients.ptx" />
+    <xi:include href="./subsections/algebraic-expressions/subsec-substitute-values-to-evaluate-algebraic-expressions.ptx" />
+    <xi:include href="./subsections/algebraic-expressions/subsec-use-properties-of-the-four-operations-to-simplify-algebraic-expressions.ptx" />
+</section>

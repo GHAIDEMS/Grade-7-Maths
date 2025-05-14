@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="sec-number-and-numeration-system" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Numbers and Numeration System</title>
+
+    <xi:include href="subsections/number-and-numeration-system/subsec-numbers-and-numerals.ptx" />
+    <xi:include href="subsections/number-and-numeration-system/subsec-place-value.ptx" />
+    <xi:include href="subsections/number-and-numeration-system/subsec-skip-counting.ptx" />
+    <xi:include href="subsections/number-and-numeration-system/subsec-rounding-off-up-and-down-of-numbers-using-approximations.ptx" />
+    
+</section>

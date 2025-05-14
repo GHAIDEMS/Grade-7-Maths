@@ -2,7 +2,10 @@
 
 <chapter xml:id="ch-numbers" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Numbers</title>
-    <p>
-        
-    </p>
+  
+  <xi:include href="./sections/sec-number-and-numeration-system.ptx" />
+  <xi:include href="./sections/sec-number-operations.ptx" />
+  <xi:include href="./sections/sec-fractions-decimals-and-percentages.ptx" />
+  <xi:include href="./sections/sec-ratios-and-proportions.ptx" />
+
 </chapter>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xml:id="ch-algebra">
-    <title>Algebra</title>
-    <p>
+
+<chapter xml:id="ch-algebra" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Algebra</title>
+
+    <introduction>
+        <p> 
         
-    </p>
+        </p>
+    </introduction>
+
+    <!-- include sections -->
+    <xi:include href="sections/sec-Patterns-and-Relations.ptx" />
+
+    <!-- include sections -->
+    <xi:include href="sections/sec-algebraic-expressions.ptx" />
+
+    <!-- include sections -->
+    <xi:include href="sections/sec-variables-and-equations.ptx" />
+
 </chapter>
