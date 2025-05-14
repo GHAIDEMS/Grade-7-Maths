@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<!--******************************************-->
+<!--*  Authored with PreTeXt                 *-->
+<!--*  pretextbook.org                       *-->
+<!--*  Theme: denver                         *-->
+<!--*  Palette:                              *-->
+<!--******************************************-->
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Geometrical constructions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+<link href="_static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/ol-markers.css" rel="stylesheet" type="text/css">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Grade 7 Mathematics">
+<meta property="book:author" content="MURUNGA DANIEL">
+<meta property="book:author" content="CHEROTICH SHEILA">
+<meta property="book:author" content="MARAGIA RODGERS">
+<meta property="book:author" content="ONYIMBO MICHAEL">
+<meta property="book:author" content="ONYANGO HENRY">
+<meta property="book:author" content="MORAA HARRIET">
+<meta property="book:author" content="MORARA ERIC">
+<meta property="book:author" content="OCHIENG` ISDORA">
+<meta property="book:author" content="BAYA JOSEPH">
+<meta property="book:author" content="EKADELI PURITY">
+<script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><!--** eBookCongig is necessary to configure interactive       **-->
+<!--** Runestone components to run locally in reader's browser **-->
+<!--** No external communication:                              **-->
+<!--**     log level is 0, Runestone Services are disabled     **-->
+<script type="text/javascript">
+eBookConfig = {};
+eBookConfig.useRunestoneServices = false;
+eBookConfig.host = 'http://127.0.0.1:8000';
+eBookConfig.course = 'PTX_Course_Title_Here';
+eBookConfig.basecourse = 'PTX_Base_Course';
+eBookConfig.isLoggedIn = false;
+eBookConfig.email = '';
+eBookConfig.isInstructor = false;
+eBookConfig.logLevel = 0;
+eBookConfig.username = '';
+eBookConfig.readings = null;
+eBookConfig.activities = null;
+eBookConfig.downloadsEnabled = false;
+eBookConfig.allow_pairs = false;
+eBookConfig.enableScratchAC = false;
+eBookConfig.build_info = "";
+eBookConfig.python3 = null;
+eBookConfig.runestone_version = '7.6.3';
+eBookConfig.jobehost = '';
+eBookConfig.proxyuri_runs = '';
+eBookConfig.proxyuri_files = '';
+eBookConfig.enable_chatcodes =  false;
+</script>
+<!--*** Runestone Services ***-->
+<script src="_static/prefix-runtime.1dbf799015a9933a.bundle.js"></script><script src="_static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="_static/prefix-runestone.253ff4af1e53e55f.bundle.js"></script><link rel="stylesheet" type="text/css" href="_static/prefix-723.3bccd435914aa0ff.css">
+<link rel="stylesheet" type="text/css" href="_static/prefix-runestone.541c9106f2c605b9.css">
+<script src="_static/pretext/js/lti_iframe_resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script>
+</head>
+<body id="changeme" class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
+<h1 class="heading"><a href="my-great-book.html"><span class="title">Grade 7 Mathematics:</span> <span class="subtitle">Learner’s Book</span></a></h1>
+<p class="byline">MURUNGA DANIEL, CHEROTICH SHEILA, MARAGIA RODGERS, ONYIMBO MICHAEL, ONYANGO HENRY, MORAA HARRIET, MORARA ERIC, OCHIENG` ISDORA, BAYA JOSEPH, EKADELI PURITY</p>
+</div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"><button id="light-dark-button" class="light-dark-button button" title="Dark Mode"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe51c;</span><span class="name">Dark Mode</span></button></span><span class="treebuttons"><a class="previous-button button" href="sec-section-Angles.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="ch-Geometry.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="ch-Handling_Data.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2 focused" data-preexpanded-levels="0" data-max-levels="2"><ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-frontmatter"><div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-numbers.html" class="internal"><span class="codenumber">1</span> <span class="title">Numbers</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html" class="internal"><span class="codenumber">1.1</span> <span class="title">Whole Numbers</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Place-Value-of-digits-in-a-number" class="internal"><span class="codenumber">1.1.1</span> <span class="title">Place Value of digits in a number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Total-Value-of-digits-in-a-number" class="internal"><span class="codenumber">1.1.2</span> <span class="title">Total Value of digits in a number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Reading-and-writing-numbers-in-symbols" class="internal"><span class="codenumber">1.1.3</span> <span class="title">Reading and writing numbers in symbols</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Reading-and-writing-numbers-in-words" class="internal"><span class="codenumber">1.1.4</span> <span class="title">Reading and writing numbers in words.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Rounding-off-numbers-to-the-nearest-hundreds-of-million" class="internal"><span class="codenumber">1.1.5</span> <span class="title">Rounding off numbers to the nearest hundreds of million</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Natural-numbers" class="internal"><span class="codenumber">1.1.6</span> <span class="title">Natural numbers</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-Even-numbers" class="internal"><span class="codenumber">1.1.6.1</span> <span class="title">Even numbers</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Odd-numbers" class="internal"><span class="codenumber">1.1.6.2</span> <span class="title">Odd numbers</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Prime-numbers" class="internal"><span class="codenumber">1.1.7</span> <span class="title">Prime numbers</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-Operations-on-whole-numbers" class="internal"><span class="codenumber">1.1.8</span> <span class="title">Operations on whole numbers</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-addition" class="internal"><span class="codenumber">1.1.8.1</span> <span class="title">Addition</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-subtraction-of-whole-numbers" class="internal"><span class="codenumber">1.1.8.2</span> <span class="title">Subtraction of whole numbers</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-multiplication-of-whole-number" class="internal"><span class="codenumber">1.1.8.3</span> <span class="title">Multiplication of whole number</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-division-of-whole-numbers" class="internal"><span class="codenumber">1.1.8.4</span> <span class="title">Division of whole numbers</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-combined-operations-of-whole-numbers" class="internal"><span class="codenumber">1.1.8.5</span> <span class="title">Combined operations of whole numbers</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsec-number-sequence" class="internal"><span class="codenumber">1.1.9</span> <span class="title">Number sequence</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-identifying-a-number-sequence" class="internal"><span class="codenumber">1.1.9.1</span> <span class="title">Identifying a number sequence</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-whole-numbers-ch1.html#subsubsec-creating-a-number-sequence" class="internal"><span class="codenumber">1.1.9.2</span> <span class="title">Creating a number sequence</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-fractions.html" class="internal"><span class="codenumber">1.2</span> <span class="title">Fractions</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Arranging-fractions-in-ascending-order" class="internal"><span class="codenumber">1.2.1</span> <span class="title">Arranging fractions in ascending order</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Arranging-fractions-in-descending-order" class="internal"><span class="codenumber">1.2.2</span> <span class="title">Arranging fractions in descending order</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Adding-proper-fractions" class="internal"><span class="codenumber">1.2.3</span> <span class="title">Adding proper fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Adding-mixed-fractions" class="internal"><span class="codenumber">1.2.4</span> <span class="title">Adding mixed fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Subtracting-proper-fractions" class="internal"><span class="codenumber">1.2.5</span> <span class="title">Subtracting proper fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Subtracting-mixed-fractions" class="internal"><span class="codenumber">1.2.6</span> <span class="title">Subtracting mixed fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Multiplying-a-fraction-by-a-whole-number" class="internal"><span class="codenumber">1.2.7</span> <span class="title">Multiplying a fraction by a whole number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Multiplying-a-fraction-by-a-fraction" class="internal"><span class="codenumber">1.2.8</span> <span class="title">Multiplying a proper fraction by a proper fraction</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Multiplying-a-fraction-by-a-mixed-number" class="internal"><span class="codenumber">1.2.9</span> <span class="title">Multiplying a fraction by a mixed number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Reciprocal-of-fractions" class="internal"><span class="codenumber">1.2.10</span> <span class="title">Reciprocal of fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Division-of-a-fraction-by-a-whole-number" class="internal"><span class="codenumber">1.2.11</span> <span class="title">Division of a fraction by a whole number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Division-of-a-fraction-by-a-fraction" class="internal"><span class="codenumber">1.2.12</span> <span class="title">Division of a proper fraction by a proper fraction</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Division-of-a-fraction-by-a-mixed-number" class="internal"><span class="codenumber">1.2.13</span> <span class="title">Division of a fraction by a mixed number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Division-of-a-whole-number-by-a-fraction" class="internal"><span class="codenumber">1.2.14</span> <span class="title">Division of a whole number by a fraction</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Number-sequence-involving-fractions" class="internal"><span class="codenumber">1.2.15</span> <span class="title">Number sequence involving fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-fractions.html#subsec-Creating-number-sequences-involving-fractions" class="internal"><span class="codenumber">1.2.16</span> <span class="title">Creating number sequences involving fractions</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-decimals.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Decimals</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-decimals.html#subsec-place-value-of-digits-in-decimals" class="internal"><span class="codenumber">1.3.1</span> <span class="title">Place value of digits in decimals</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-decimals.html#subsec-Total-value-of-digits-in-decimals" class="internal"><span class="codenumber">1.3.2</span> <span class="title">Total value of digits in decimals</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-decimals.html#subsec-Multiplying-decimals-by-a-whole-number" class="internal"><span class="codenumber">1.3.3</span> <span class="title">Multiplying decimals by a whole number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-decimals.html#subsec-Multiplying-decimals-by-decimals" class="internal"><span class="codenumber">1.3.4</span> <span class="title">Multiplying decimals by decimals</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-decimals.html#subsec-Division-of-a-decimal-by-a-whole-number" class="internal"><span class="codenumber">1.3.5</span> <span class="title">Division of a decimal by a whole number</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-decimals.html#subsec-Division-of-a-decimal-number-by-a-decimal-number" class="internal"><span class="codenumber">1.3.6</span> <span class="title">Division of a decimal number by a decimal number</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-squares-and-square-roots.html" class="internal"><span class="codenumber">1.4</span> <span class="title">Squares and square roots</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-squares-and-square-roots.html#subsec-Squares-of-whole-numbers" class="internal"><span class="codenumber">1.4.1</span> <span class="title">Squares of whole numbers</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-squares-and-square-roots.html#subsec-Squares-of-fractions" class="internal"><span class="codenumber">1.4.2</span> <span class="title">Squares of fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-squares-and-square-roots.html#subsec-Squares-of-decimals" class="internal"><span class="codenumber">1.4.3</span> <span class="title">Squares of decimals</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-squares-and-square-roots.html#subsec-Squares-roots-of-whole-numbers" class="internal"><span class="codenumber">1.4.4</span> <span class="title">Squares roots of whole numbers</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-squares-and-square-roots.html#subsec-Square-roots-of-fractions" class="internal"><span class="codenumber">1.4.5</span> <span class="title">Square roots of fractions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-squares-and-square-roots.html#subsec-Square-roots-of-decimals" class="internal"><span class="codenumber">1.4.6</span> <span class="title">Square roots of decimals</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-number-operations.html" class="internal"><span class="codenumber">1.5</span> <span class="title">Number Operations</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-number-operations.html#subsec-mental-strategies" class="internal"><span class="codenumber">1.5.1</span> <span class="title">Mental Strategies</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-multiplying-and-dividing-numbers-by-powers-of-10-icluding-decimals-and-benchmark-fractions" class="internal"><span class="codenumber">1.5.1.1</span> <span class="title">Multiplying and Dividing Numbers by Powers of 10.</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-using-mental-math-strategies-and-number-properties-to-perform-calculations" class="internal"><span class="codenumber">1.5.1.2</span> <span class="title">Using Mental Math Strategies and Number Properties to Perform Calculations</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-applying-mental-math-strategies-to-solve-real-world-problems" class="internal"><span class="codenumber">1.5.1.3</span> <span class="title">Applying Mental Math Strategies to Solve Real-World Problems</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-operations-on-whole-numbers" class="internal"><span class="codenumber">1.5.2</span> <span class="title">Operations on whole numbers</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-number-operations.html#subsec-power-of-numbers" class="internal"><span class="codenumber">1.5.3</span> <span class="title">Powers of numbers</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-understanding-repeated-factors-through-grouping-and-counting-objects" class="internal"><span class="codenumber">1.5.3.1</span> <span class="title">Understanding repeated factors through grouping and counting objects</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-Expressing-numbers-as-products-and-powers" class="internal"><span class="codenumber">1.5.3.2</span> <span class="title">Expressing numbers as products and powers</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-understanding-zero-exponents-and-their-applications" class="internal"><span class="codenumber">1.5.3.3</span> <span class="title">Understanding Zero exponents and their applications</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsubsec-evaluating-numbers-written-in-index-form" class="internal"><span class="codenumber">1.5.3.4</span> <span class="title">Evaluating Numbers written in index form</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-highest-factor-and-least-common-multiple" class="internal"><span class="codenumber">1.5.4</span> <span class="title">Highest Factor (HCF) and Least Common Multiple (LCM)</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-addition-and-subtraction-of-whole-and-decimal-numbers" class="internal"><span class="codenumber">1.5.5</span> <span class="title">Addition and Subtraction of Whole and Decimal Numbers Upto Four-Digit Numbers</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-for-2" class="internal"><span class="codenumber">1.5.6</span> <span class="title">Divisibility test for 2</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-of-3" class="internal"><span class="codenumber">1.5.7</span> <span class="title">Divisibility test for 3</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-for-four" class="internal"><span class="codenumber">1.5.8</span> <span class="title">Divisibility test for 4</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-divisibility-test-for-5" class="internal"><span class="codenumber">1.5.9</span> <span class="title">Divisibility test for 5</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-divisibility-test-for-6" class="internal"><span class="codenumber">1.5.10</span> <span class="title">Divisibility test for 6</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-for-8" class="internal"><span class="codenumber">1.5.11</span> <span class="title">Divisibility test for 8</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-for-9" class="internal"><span class="codenumber">1.5.12</span> <span class="title">Divisibility test for 9</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-for-10" class="internal"><span class="codenumber">1.5.13</span> <span class="title">Divisibility test for 10</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-Divisibility-test-for-11" class="internal"><span class="codenumber">1.5.14</span> <span class="title">Divisibility test for 11</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-number-operations.html#subsec-multiplication-and-division-of-multi-digit-numbers-by-one-or-two-digit-numbers" class="internal"><span class="codenumber">1.5.15</span> <span class="title">Multiplication and Division of Multi-Digit Numbers by One- or Two-Digit Numbers</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html" class="internal"><span class="codenumber">1.6</span> <span class="title">Fractions, Decimals and Percentages</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsec-concept-of-fractions" class="internal"><span class="codenumber">1.6.1</span> <span class="title">Concept of fractions</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsubsec-understanding-benchmark-fractions" class="internal"><span class="codenumber">1.6.1.1</span> <span class="title">Understanding Benchmark Fractions and Their Decimal and Percentage Equivalents</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsubsec-comparing-and-ordering-fractions" class="internal"><span class="codenumber">1.6.1.2</span> <span class="title">Arranging fractions in ascending order</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsubsec-comparing-fractions" class="internal"><span class="codenumber">1.6.1.3</span> <span class="title">Arranging fractions in descending order</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsec-operations-with-fractions" class="internal"><span class="codenumber">1.6.2</span> <span class="title">Operation with fractions</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsubsec-addition-and-subtraction-of-fractions" class="internal"><span class="codenumber">1.6.2.1</span> <span class="title">Aaddition and subtraction of two or three unlike and mixed fractions.</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsubsec-addition-and-subtraction-of-fractions-2" class="internal"><span class="codenumber">1.6.2.2</span> <span class="title">Solving problems involving addition or subtraction of fractions.</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-fractions-decimals-and-percentages.html#subsubsec-multiplication-of-fractions" class="internal"><span class="codenumber">1.6.2.3</span> <span class="title">Multiplication of fractions.</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-algebra.html" class="internal"><span class="codenumber">2</span> <span class="title">Algebra</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-patterns-and-relationships.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Patterns and Relationships</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-patterns-and-relationships.html#number-patterns" class="internal"><span class="codenumber">2.1.1</span> <span class="title">Number Patterns</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-patterns-and-relationships.html#pattern-tables" class="internal"><span class="codenumber">2.1.2</span> <span class="title">Pattern Tables</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-patterns-and-relationships.html#pattern-rules" class="internal"><span class="codenumber">2.1.3</span> <span class="title">Describing Rules in Words and Algebra</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-patterns-and-relationships.html#real-life-patterns" class="internal"><span class="codenumber">2.1.4</span> <span class="title">Patterns in Real Life</span></a></div></li>
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-patterns-and-relationships.html#pattern-assessment" class="internal"><span class="codenumber">2.1.1</span> <span class="title">Assessment Exercises</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="algebraic-expressions-and-equations.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Algebraic Expressions and Equations</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="algebraic-expressions-and-equations.html#real-life-word-problems" class="internal"><span class="codenumber">2.2.1</span> <span class="title">Solving Real-Life Problems</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="algebraic-expressions-and-equations.html#sharing-distribution" class="internal"><span class="codenumber">2.2.2</span> <span class="title">Sharing and Equal Distribution</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="algebraic-expressions-and-equations.html#time-money-distance" class="internal"><span class="codenumber">2.2.3</span> <span class="title">Time, Money, and Distance Problems</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="algebraic-expressions-and-equations.html#contextual-assessment" class="internal"><span class="codenumber">2.2.4</span> <span class="title">Assessment Exercises</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="variables-and-equations.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Variables and Equations</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="variables-and-equations.html#understanding-variables" class="internal"><span class="codenumber">2.3.1</span> <span class="title">Understanding Variables</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="variables-and-equations.html#forming-equations" class="internal"><span class="codenumber">2.3.2</span> <span class="title">Forming Equations from Real-Life Problems</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="variables-and-equations.html#identifying-equations-vs-expressions" class="internal"><span class="codenumber">2.3.3</span> <span class="title">Equations vs Expressions</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="variables-and-equations.html#variables-assessment" class="internal"><span class="codenumber">2.3.4</span> <span class="title">Assessment Exercises</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-Linear-equations.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Linear Equations</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-equations.html#subsec-Forming_Equations_in_one_Unknown" class="internal"><span class="codenumber">2.4.1</span> <span class="title">Forming Equations in One Unknown</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-equations.html#subsec-Solving_Linear_Equations_in_One_Unknown" class="internal"><span class="codenumber">2.4.2</span> <span class="title">Solving Linear Equations in One Unknown.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-equations.html#subsec-Application_of_Linear_Equations_in_One_Unknown" class="internal"><span class="codenumber">2.4.3</span> <span class="title">Application of Linear Equations in One Unknown</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-Linear-inequalities.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Linear Inequalities</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-inequalities.html#subsec-Applying_Linear_Inequality_Symbols_to_inequality_statements" class="internal"><span class="codenumber">2.5.1</span> <span class="title">Applying Linear Inequality Symbols to Inequality Statements.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-inequalities.html#subsec-Forming_a_Simple_Linear_Inequalities_in_Real_Life_Situatuans" class="internal"><span class="codenumber">2.5.2</span> <span class="title">Forming a Simple Linear Inequalities in Real Life Situatuans</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-inequalities.html#subsec-Illustrating_simple_linear_inequality_on_a_number_line" class="internal"><span class="codenumber">2.5.3</span> <span class="title">Illustrating simple linear inequality on a number line</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-inequalities.html#subsec-Forming_Compound_Linear_Inequality_in_one_unkown" class="internal"><span class="codenumber">2.5.4</span> <span class="title">Forming Compound Linear Inequality in one unkown.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Linear-inequalities.html#subsec-Illustrating_compound_inequalities_on_a_number_line" class="internal"><span class="codenumber">2.5.5</span> <span class="title">Illustrating compound inequalities on a number line</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-geometry-and-measurement.html" class="internal"><span class="codenumber">3</span> <span class="title">Geometry and Measurement</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-shapes-and-space.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Shapes and Space</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-introduction" class="internal"><span class="codenumber">3.1.1</span> <span class="title">Introduction</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-types-of-angles" class="internal"><span class="codenumber">3.1.2</span> <span class="title">Types of Angles</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-subsec-measuring-and-classifying-angles" class="internal"><span class="codenumber">3.1.3</span> <span class="title">Measuring and Classifying Angles</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-complementary-and-supplementary-angles" class="internal"><span class="codenumber">3.1.4</span> <span class="title">Complementary and Supplementary Angles</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-angles-in-a-straight-line" class="internal"><span class="codenumber">3.1.5</span> <span class="title">Angles in a Straight Line</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-angles-at-a-point" class="internal"><span class="codenumber">3.1.6</span> <span class="title">Angles Around a Point</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-construct-a-line-segment-perpendicular-to-another-line-segment" class="internal"><span class="codenumber">3.1.7</span> <span class="title">Construct a Line Segment Perpendicular to another Line Segment</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-constructing-the-perpendicular-bisector-of-a-line-segement" class="internal"><span class="codenumber">3.1.8</span> <span class="title">Constructing the Perpendicular Bisector of a Line Segement</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-bisecting-of-angles" class="internal"><span class="codenumber">3.1.9</span> <span class="title">Bisecting of Angles</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-construct-angle-of-90-and-45" class="internal"><span class="codenumber">3.1.10</span> <span class="title">Construct Angles Of 90° and 45°</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-construct-angles-of-60-and-30" class="internal"><span class="codenumber">3.1.11</span> <span class="title">Construct Angles Of 60° and 30°</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-construct-angle-of-15-and-75" class="internal"><span class="codenumber">3.1.12</span> <span class="title">Construct Angles Of 15° and 75°</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-Constructing-angle-120-degrees" class="internal"><span class="codenumber">3.1.13</span> <span class="title">Constructing <span class="process-math">\(\angle 120^\circ\)</span></span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-shapes-and-space.html#exercises-construct-angles" class="internal"><span class="codenumber">3.1.13</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-shapes-and-space.html#subsec-perpendicular-line-segments-perpendicular-bisectors-and-angle-bisectors-in-the-environment" class="internal"><span class="codenumber">3.1.14</span> <span class="title">Perpendicular Line Segments,Perpendicular Bisectors and Angle Bisectors in the Environment</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-measurement.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Measurement</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-measurement.html#subsec-perimeter-and-length" class="internal"><span class="codenumber">3.2.1</span> <span class="title">Perimeter and length</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-measurement.html#subsubsec-Calculate-the-perimeter-of-given-shapes" class="internal"><span class="codenumber">3.2.1.1</span> <span class="title">Calculating the perimeter of given shapes whose dimensions are in two units.</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-measurement.html#subsubsec-perimeter-of-plane-figures" class="internal"><span class="codenumber">3.2.1.2</span> <span class="title">Perimeter of plane figures</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-measurement.html#subsec-part-of-a-circle" class="internal"><span class="codenumber">3.2.2</span> <span class="title">Part of a circle</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-measurement.html#subsubsec-Circumference-of-a-circles" class="internal"><span class="codenumber">3.2.2.1</span> <span class="title">Circumference of a circle</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-measurement.html#subsubsec-length-of-an-arc" class="internal"><span class="codenumber">3.2.2.2</span> <span class="title">Length of an arc</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-pi" class="internal"><span class="codenumber">3.2.3</span> <span class="title">Pi(π)</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-area" class="internal"><span class="codenumber">3.2.4</span> <span class="title">Area</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-parallelogram" class="internal"><span class="codenumber">3.2.5</span> <span class="title">Parallelogram</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-area-of-a-rectangle" class="internal"><span class="codenumber">3.2.6</span> <span class="title">Area of a rectangle</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-area-of-a-triangle" class="internal"><span class="codenumber">3.2.7</span> <span class="title">Area of a triangle</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-area-of-a-parallelogram-and-rhombus" class="internal"><span class="codenumber">3.2.8</span> <span class="title">Area of a parallelogram and rhombus</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-bearings" class="internal"><span class="codenumber">3.2.9</span> <span class="title">Bearings</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-back-bearing" class="internal"><span class="codenumber">3.2.10</span> <span class="title">Back Bearing</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-vectors" class="internal"><span class="codenumber">3.2.11</span> <span class="title">Vectors</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-equality-of-vectors" class="internal"><span class="codenumber">3.2.12</span> <span class="title">Equality of Vectors</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-magnitude-of-vectors" class="internal"><span class="codenumber">3.2.13</span> <span class="title">Magnitude of Vectors</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-measurement.html#subsec-column-of-vectors" class="internal"><span class="codenumber">3.2.14</span> <span class="title">Column Vectors</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-position-and-transformation.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Position and Transformation</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-position-and-transformation.html#subsec-determining-shape-in-real-life-that-have-reflectional-symmetries" class="internal"><span class="codenumber">3.3.1</span> <span class="title">Determining Shape in Real Life that have Reflectional Symmetries</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-position-and-transformation.html#exercises-determining-shape-in-real-life-that-have-reflectional-symmetries" class="internal"><span class="codenumber">3.3.1</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsec-the-coordinate-plane" class="internal"><span class="codenumber">3.3.2</span> <span class="title">The Coordinate Plane</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsec-plotting-points-and-shapes-on-a-coordinate-plane" class="internal"><span class="codenumber">3.3.3</span> <span class="title">Plotting Points and Shapes on a Cartesian Plane</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-position-and-transformation.html#subsec-reflection-of-different-shapes-on-a-plane" class="internal"><span class="codenumber">3.3.4</span> <span class="title">Reflection of Different Shapes on a Plane</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsubsec-reflection-on-the-y-axis" class="internal"><span class="codenumber">3.3.4.1</span> <span class="title">Reflection on the y-Axis</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsubsec-reflection-on-the-line-y-equals-x" class="internal"><span class="codenumber">3.3.4.2</span> <span class="title">Reflection on the Line y = x</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsubsec-reflection-on-the-line-y-equals-negative-x" class="internal"><span class="codenumber">3.3.4.3</span> <span class="title">Reflection on the Line y = -x</span></a></div></li>
+<li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sec-position-and-transformation.html#exercises-reflection-of-different-shapes-on-a-plane" class="internal"><span class="codenumber">3.3.4.4</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsec-translation" class="internal"><span class="codenumber">3.3.5</span> <span class="title">Translation</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-position-and-transformation.html#subsec-congruent-and-similar-shapes-in-coordinate-plane" class="internal"><span class="codenumber">3.3.6</span> <span class="title">Congruent and Similar Shapes in Coordinate Plane</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-chapter-Mesurements.html" class="internal"><span class="codenumber">4</span> <span class="title">Mesurements</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section"><div class="toc-title-box"><a href="sec-section-Pythagorean-relationship.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Pythagorean relationship</span></a></div></li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Length.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Length</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Length.html#subsec-conversion-of-units-of-length" class="internal"><span class="codenumber">4.2.1</span> <span class="title">conversion of units of length</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Length.html#subsec-Addition-and-Subraction-of-units-of-length" class="internal"><span class="codenumber">4.2.2</span> <span class="title">Addition and Subraction of units of length</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Length.html#subsec-Multiplication-involving-units-of-length" class="internal"><span class="codenumber">4.2.3</span> <span class="title">Multiplication involving units of length</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Length.html#subsec-perimeter-of-plane-figures" class="internal"><span class="codenumber">4.2.4</span> <span class="title">Perimeter of plane figures</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Length.html#subsec-circumfrence-of-circles" class="internal"><span class="codenumber">4.2.5</span> <span class="title">Circumference of circles</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Area.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Area</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Area.html#subsec-square-metres-acres-and-hectares" class="internal"><span class="codenumber">4.3.1</span> <span class="title">Square metres<span class="process-math">\((m^2)\text{,}\)</span>acres and hectares</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsubsec-Square-metres" class="internal"><span class="codenumber">4.3.1.1</span> <span class="title">Square metres<span class="process-math">\((m^2)\)</span></span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsubsec-Acres" class="internal"><span class="codenumber">4.3.1.2</span> <span class="title">Acres</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsubsec-Hectares" class="internal"><span class="codenumber">4.3.1.3</span> <span class="title">Hectares</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-a-Rectangle" class="internal"><span class="codenumber">4.3.2</span> <span class="title">Area of a rectangle</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-a-parallelogram" class="internal"><span class="codenumber">4.3.3</span> <span class="title">Area of a parallelogram</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-a-rhombus" class="internal"><span class="codenumber">4.3.4</span> <span class="title">Area of a rhombus</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-trapeziam" class="internal"><span class="codenumber">4.3.5</span> <span class="title">Area of trapeziam</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-a-circle" class="internal"><span class="codenumber">4.3.6</span> <span class="title">Area of a circle</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-a-semicircle" class="internal"><span class="codenumber">4.3.7</span> <span class="title">Area of a semicircle</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Area.html#subsec-area-of-borders-and-combined-shapes" class="internal"><span class="codenumber">4.3.8</span> <span class="title">Area of borders and combined shapes</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Volume and Capacity</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html#subsec-cubic-metre-as-a-unit-of-measuring-volume" class="internal"><span class="codenumber">4.4.1</span> <span class="title">Cubic metre as a unit of measuring volume</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html#subsec-volume-of-cubes" class="internal"><span class="codenumber">4.4.2</span> <span class="title">Volume of cubes.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html#subsec-volume-of-cuboids" class="internal"><span class="codenumber">4.4.3</span> <span class="title">volume of cuboids</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html#subsec-volume-of-cylinders" class="internal"><span class="codenumber">4.4.4</span> <span class="title">Volume of cylinders</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html#subsec-relationship-between-cubic-centimetres-cubic-metres-and-litres" class="internal"><span class="codenumber">4.4.5</span> <span class="title">Relationship between cubic centimetres(cm³), cubic metres(m³) and Litres</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Volume-and-Capacity.html#subsec-relating-volume-to-capacty" class="internal"><span class="codenumber">4.4.6</span> <span class="title">Relating volume to capacity.</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html" class="internal"><span class="codenumber">4.5</span> <span class="title">Time,Distance and speed</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsec-time-distance-and-speed" class="internal"><span class="codenumber">4.5.1</span> <span class="title">Time,Distance and speed</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsec-units-of-measuring-time" class="internal"><span class="codenumber">4.5.2</span> <span class="title">Units of measuring time</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Convertin-hours-to-minutes" class="internal"><span class="codenumber">4.5.2.1</span> <span class="title">Converting hours to minutes</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-minutes-into-hours" class="internal"><span class="codenumber">4.5.2.2</span> <span class="title">Converting minutes into hours</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-minutes-into-seconds" class="internal"><span class="codenumber">4.5.2.3</span> <span class="title">Converting minutes into seconds</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-minutes" class="internal"><span class="codenumber">4.5.2.4</span> <span class="title">Converting second into minutes.</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-hours-into-seconds" class="internal"><span class="codenumber">4.5.2.5</span> <span class="title">Converting hours into seconds</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-second-into-hours" class="internal"><span class="codenumber">4.5.2.6</span> <span class="title">Converting second into hours</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsec-units-of-measuring-distance" class="internal"><span class="codenumber">4.5.3</span> <span class="title">Units of measuring distance.</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-kilometres-into-metres" class="internal"><span class="codenumber">4.5.3.1</span> <span class="title">Converting kilometres into metres</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-metres-to-kilometres" class="internal"><span class="codenumber">4.5.3.2</span> <span class="title">Converting metres to kilometres.</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsec-speed" class="internal"><span class="codenumber">4.5.4</span> <span class="title">Speed</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Speed-in-kilometres-per-hour" class="internal"><span class="codenumber">4.5.4.1</span> <span class="title">Speed in kilometres per hour (km/h).</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Speed-in-metres-per-second" class="internal"><span class="codenumber">4.5.4.2</span> <span class="title">Speed in metres per-second(m/s)</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsec-converting-units-of-speed" class="internal"><span class="codenumber">4.5.5</span> <span class="title">Converting units of speed.</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-speed-in-kilometre-per-hour-to-metres-per-second" class="internal"><span class="codenumber">4.5.5.1</span> <span class="title">Converting speed in kilometre per hour<span class="process-math">\((km/h)\)</span> to metres per second<span class="process-math">\((m/s)\text{.}\)</span></span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Time-Distance-and-speed.html#subsubsec-Converting-speed-in-metres-per-second-to-kilometres-per-hour" class="internal"><span class="codenumber">4.5.5.2</span> <span class="title">Converting speed in metres per second<span class="process-math">\((m/s)\)</span> to kilometres per hour<span class="process-math">\(km/h\)</span></span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Temperature.html" class="internal"><span class="codenumber">4.6</span> <span class="title">Temperature</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Temperature.html#subsec-comparing-temperatures" class="internal"><span class="codenumber">4.6.1</span> <span class="title">Comparing temperatures</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Temperature.html#subsec-units-of-measuring-temperatures" class="internal"><span class="codenumber">4.6.2</span> <span class="title">Units of measuring temperatures.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Temperature.html#subsec-converting-temperature-in-degrees-celsius-to-kelvin" class="internal"><span class="codenumber">4.6.3</span> <span class="title">Converting temperature in degrees Celsius to Kelvin.</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Money.html" class="internal"><span class="codenumber">4.7</span> <span class="title">Money</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Money.html#subsec-profit" class="internal"><span class="codenumber">4.7.1</span> <span class="title">Profit</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsec-Percentage-profit" class="internal"><span class="codenumber">4.7.1.1</span> <span class="title">Percentage profit.</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Money.html#subsec-loss" class="internal"><span class="codenumber">4.7.2</span> <span class="title">Loss.</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsubsec-Percentage-loss" class="internal"><span class="codenumber">4.7.2.1</span> <span class="title">Percentage loss.</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Money.html#subsec-discount" class="internal"><span class="codenumber">4.7.3</span> <span class="title">Discount</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsubsec-Percentage-discount" class="internal"><span class="codenumber">4.7.3.1</span> <span class="title">Percentage discount.</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsec-commission-and-percentage-commission" class="internal"><span class="codenumber">4.7.4</span> <span class="title">Commission and percentage commission.</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Money.html#subsec-bills" class="internal"><span class="codenumber">4.7.5</span> <span class="title">Bills</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsubsec-Interpreting-bills" class="internal"><span class="codenumber">4.7.5.1</span> <span class="title">Interpreting bills.</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsubsec-Preparing-bills" class="internal"><span class="codenumber">4.7.5.2</span> <span class="title">Preparing bills</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsec-postal-charges" class="internal"><span class="codenumber">4.7.6</span> <span class="title">Postal charges.</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Money.html#subsec-mobile-money-services" class="internal"><span class="codenumber">4.7.7</span> <span class="title">Mobile money services</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsubsec-Mobile-money-transaction-1" class="internal"><span class="codenumber">4.7.7.1</span> <span class="title">Mobile money transaction 1</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Money.html#subsubsec-Mobile-money-transaction-2" class="internal"><span class="codenumber">4.7.7.2</span> <span class="title">Mobile money transaction 2</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter contains-active">
+<div class="toc-title-box"><a href="ch-Geometry.html" class="internal"><span class="codenumber">5</span> <span class="title">Geometry</span></a></div>
+<ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-section-Angles.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Angles</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Introduction" class="internal"><span class="codenumber">5.1.1</span> <span class="title">Introduction</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Angles-in-a-straightline" class="internal"><span class="codenumber">5.1.2</span> <span class="title">Angles in a straight line</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Angles-at-a-point" class="internal"><span class="codenumber">5.1.3</span> <span class="title">Angles at a point.</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-complementary-and-supplimentary-angles" class="internal"><span class="codenumber">5.1.4</span> <span class="title">Complementary and supplimentary angles</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Angles-on-a-tranversal" class="internal"><span class="codenumber">5.1.5</span> <span class="title">Angles on a transversal</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Corresponding-angles" class="internal"><span class="codenumber">5.1.5.1</span> <span class="title">Corresponding angles</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Co-interior-angle" class="internal"><span class="codenumber">5.1.5.2</span> <span class="title">Co-interior angle</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Alternate-interior-and-alternate-exterior-angles" class="internal"><span class="codenumber">5.1.5.3</span> <span class="title">Alternate interior and alternate exterior angles</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Angles-in-a-parallelogram" class="internal"><span class="codenumber">5.1.6</span> <span class="title">Angles in a parallelogram</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#Angle-properties-of-polygons" class="internal"><span class="codenumber">5.1.7</span> <span class="title">Angle properties of polygons.</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-section-Angles.html#Interior-angles-of-a-polygon" class="internal"><span class="codenumber">5.1.8</span> <span class="title">Interior angles of a polygon</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Triangle" class="internal"><span class="codenumber">5.1.8.1</span> <span class="title">Triangle</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Rectangle" class="internal"><span class="codenumber">5.1.8.2</span> <span class="title">Rectangle</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Square" class="internal"><span class="codenumber">5.1.8.3</span> <span class="title">Square</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Rhombus" class="internal"><span class="codenumber">5.1.8.4</span> <span class="title">Rhombus</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Parallelograms" class="internal"><span class="codenumber">5.1.8.5</span> <span class="title">Parallelogram</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Trapezium" class="internal"><span class="codenumber">5.1.8.6</span> <span class="title">Trapezium</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Pentagon" class="internal"><span class="codenumber">5.1.8.7</span> <span class="title">Pentagon</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Hexagon" class="internal"><span class="codenumber">5.1.8.8</span> <span class="title">Hexagon</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsubsec-Summary" class="internal"><span class="codenumber">5.1.8.9</span> <span class="title">Summary</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Relating-interrior-angles-to-the-number-of-sides-of-a-polygon" class="internal"><span class="codenumber">5.1.9</span> <span class="title">Relating interrior angles to the number of sides of a polygon</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Rlating-exterior-angles-and-the-numer-of-sides-of-a-polygon" class="internal"><span class="codenumber">5.1.10</span> <span class="title">Relating exterior angles and the numer of sides of a polygon</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-section-Angles.html#subsec-Solving-angles-of-polygons" class="internal"><span class="codenumber">5.1.11</span> <span class="title">Solving angles of polygons</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section contains-active">
+<div class="toc-title-box"><a href="sec-Geometrical-constructions.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Geometrical constructions</span></a></div>
+<ul class="structural toc-item-list active">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Measuring-angles" class="internal"><span class="codenumber">5.2.1</span> <span class="title">Measuring angles</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Bisecting-angles" class="internal"><span class="codenumber">5.2.2</span> <span class="title">Bisecting angles</span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Constucting-angle-90-45-22" class="internal"><span class="codenumber">5.2.3</span> <span class="title">Geometrical construction of <span class="process-math">\(90^\circ, 45^\circ, 22.5^\circ\)</span></span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-angle-game" class="internal"><span class="codenumber">5.2.3.1</span> <span class="title">Drawing Angles Game</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-Constucting-90" class="internal"><span class="codenumber">5.2.3.2</span> <span class="title">Constucting <span class="process-math">\(90^\circ\)</span></span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-Constucting-45" class="internal"><span class="codenumber">5.2.3.3</span> <span class="title">Constucting <span class="process-math">\(45^\circ\)</span></span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Constructing-angle-60-30-15" class="internal"><span class="codenumber">5.2.4</span> <span class="title">Geometrical construction of <span class="process-math">\(60^\circ, 30^\circ, 15^\circ, 7.5^\circ\)</span></span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-60" class="internal"><span class="codenumber">5.2.4.1</span> <span class="title">constructing <span class="process-math">\(60^\circ\)</span></span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-Constructing-angle-30" class="internal"><span class="codenumber">5.2.4.2</span> <span class="title">Constructing <span class="process-math">\(30^\circ\)</span></span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-constucting-angle-15" class="internal"><span class="codenumber">5.2.4.3</span> <span class="title">Constucting angle <span class="process-math">\(15^\circ\)</span></span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Constructing-angle-120" class="internal"><span class="codenumber">5.2.5</span> <span class="title">Constructing <span class="process-math">\(\angle 120^\circ\)</span></span></a></div></li>
+<li class="toc-item toc-subsection">
+<div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Constructing-triangles" class="internal"><span class="codenumber">5.2.6</span> <span class="title">Constructing triangles</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-Equalateral" class="internal"><span class="codenumber">5.2.6.1</span> <span class="title">Constructing equalateral triangles</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-Isosceles" class="internal"><span class="codenumber">5.2.6.2</span> <span class="title">Constructing isosceles triangle</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-Right-angle" class="internal"><span class="codenumber">5.2.6.3</span> <span class="title">Constructing right-angled triangle</span></a></div></li>
+<li class="toc-item toc-subsubsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsubsec-scalene" class="internal"><span class="codenumber">5.2.6.4</span> <span class="title">Constructing scalene triangle.</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-Geometrical-constructions.html#subsec-Constructing-of-circle" class="internal"><span class="codenumber">5.2.7</span> <span class="title">Construction of circle using a ruler and a pair of compasses.</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="ch-Handling_Data.html" class="internal"><span class="codenumber">6</span> <span class="title">Handling Data</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-data.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Data</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-data_from_the_environment" class="internal"><span class="codenumber">6.1.1</span> <span class="title">Data from the Environment</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-Collecting-of-data" class="internal"><span class="codenumber">6.1.2</span> <span class="title">Collecting of data</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-frequency-distribution-table" class="internal"><span class="codenumber">6.1.3</span> <span class="title">Frequency distribution table</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-real-life_problems_involving_data" class="internal"><span class="codenumber">6.1.4</span> <span class="title">Real Life Problems Involving Data</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-line-graphs" class="internal"><span class="codenumber">6.1.5</span> <span class="title">Line graphs of data</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-Pie-charts-of-data" class="internal"><span class="codenumber">6.1.6</span> <span class="title">Pie charts of data</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-bar-graphs-of-data" class="internal"><span class="codenumber">6.1.7</span> <span class="title">Bar graphs of data</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-histogram" class="internal"><span class="codenumber">6.1.8</span> <span class="title">Histogram</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-data.html#subsec-measures_of_central_tendency" class="internal"><span class="codenumber">6.1.9</span> <span class="title">measures of central tendency</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="sec-chance_or_probability.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Chance or Probability</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-chance_or_probability.html#subsec-describing_events" class="internal"><span class="codenumber">6.2.1</span> <span class="title">measures of central tendency</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-chance_or_probability.html#subsec-describing_outcomes" class="internal"><span class="codenumber">6.2.2</span> <span class="title">measures of central tendency</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="sec-chance_or_probability.html#subsec-probability_of_the_event" class="internal"><span class="codenumber">6.2.3</span> <span class="title">measures of central tendency</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="sec-Geometrical-constructions"><h2 class="heading hide-type">
+<span class="type">Section</span><span class="space"> </span><span class="codenumber">5.2</span><span class="space"> </span><span class="title">Geometrical constructions</span>
+</h2>
+<section class="introduction" id="sec-Geometrical-constructions-2"><div class="para" id="sec-Geometrical-constructions-2-1">Geometrical construction is the process of creating geometric shapes, figures, or diagrams using basic tools, like a compass, ruler and protractor. The goal is to draw precise shapes without measurements, relying on rules of geometry. Examples of geometric constructions include drawing a line segment, bisecting an angle, or constructing a perpendicular e.t.c</div></section><section class="subsection" id="subsec-Measuring-angles"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.1</span><span class="space"> </span><span class="title">Measuring angles</span>
+</h3>
+<div class="para logical" id="subsec-Measuring-angles-2"><ul class="disc" id="subsec-Measuring-angles-2-1">
+<li id="subsec-Measuring-angles-2-1-1"><div class="para" id="subsec-Measuring-angles-2-1-1-1">Measuring angles is a significant topic in geometry. An angle can be measured using a protractor. An angle is measured in degrees, hence its called degree measure. One complete revolution is equal to <span class="process-math">\(360^\circ\text{,}\)</span> hence it is divided into <span class="process-math">\(360\)</span> parts. Each part of the revolution is a degree. If we know how to measure angle, then it will be very easy to construct an angle using a protractor.</div></li>
+<li id="subsec-Measuring-angles-2-1-2"><div class="para" id="subsec-Measuring-angles-2-1-2-1">A protractor is a semi-circular tool used to draw and measure angles. It is marked with degrees from <span class="process-math">\(0^\circ\)</span> to <span class="process-math">\(180^\circ\text{.}\)</span> It can be directly used to measure any angle from <span class="process-math">\(0^\circ\)</span> to <span class="process-math">\(360^\circ\)</span> . The markings are made in two ways, <span class="process-math">\(0^\circ\)</span> to <span class="process-math">\(180^\circ\)</span>  from right to left and vice versa.</div></li>
+</ul></div>
+<article class="activity project-like" id="subsec-Measuring-angles-3"><h4 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.1</span><span class="period">.</span>
+</h4>
+<div class="para logical" id="subsec-Measuring-angles-3-1"><ol class="decimal" id="subsec-Measuring-angles-3-1-1">
+<li id="subsec-Measuring-angles-3-1-1-1"><div class="para" id="subsec-Measuring-angles-3-1-1-1-1">Click on the New Angle button.</div></li>
+<li id="subsec-Measuring-angles-3-1-1-2"><div class="para" id="subsec-Measuring-angles-3-1-1-2-1">Using the protractor, measure the size of the angle.</div></li>
+<li id="subsec-Measuring-angles-3-1-1-3"><div class="para" id="subsec-Measuring-angles-3-1-1-3-1">Enter the value and click on Check.</div></li>
+<li id="subsec-Measuring-angles-3-1-1-4"><div class="para" id="subsec-Measuring-angles-3-1-1-4-1">Repeat the process several times to ensure that you understand how to use a protractor.</div></li>
+</ol></div>
+<figure class="figure figure-like" id="subsec-Measuring-angles-3-2"><iframe src="https://www.geogebra.org/material/iframe/id/n3hdkqpr/width/800/height/622/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-determining-angle-measure" width="600" height="467"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.1<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="activity project-like" id="subsec-Measuring-angles-4"><h4 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.2</span><span class="period">.</span>
+</h4>
+<div class="para" id="subsec-Measuring-angles-4-1">Suppose we have an angle to measure say, <span class="process-math">\(\angle ABC\text{.}\)</span> Follow the steps given below to measure the angle.</div>
+<div class="para logical" id="subsec-Measuring-angles-4-2"><ol class="decimal" id="subsec-Measuring-angles-4-2-1">
+<li id="subsec-Measuring-angles-4-2-1-1"><div class="para" id="subsec-Measuring-angles-4-2-1-1-1">Put the protractor above the line <span class="process-math">\(BC\)</span> such that the midpoint of protractor is at point <span class="process-math">\(B\text{.}\)</span>
+</div></li>
+<li id="subsec-Measuring-angles-4-2-1-2"><div class="para" id="subsec-Measuring-angles-4-2-1-2-1">Adjust the protractor in such a way that <span class="process-math">\(BC\)</span> is parallel to the straight-edge of the protractor.</div></li>
+<li id="subsec-Measuring-angles-4-2-1-3"><div class="para" id="subsec-Measuring-angles-4-2-1-3-1">The protractor has two scales marked from <span class="process-math">\(0^\circ\)</span> to <span class="process-math">\(180^\circ\)</span> on both the ends. Take the reading where <span class="process-math">\(BC\)</span> coincides with the <span class="process-math">\(0^\circ\text{.}\)</span>
+</div></li>
+<li id="subsec-Measuring-angles-4-2-1-4"><div class="para" id="subsec-Measuring-angles-4-2-1-4-1">Now from <span class="process-math">\(0^\circ\text{,}\)</span> check the line <span class="process-math">\(BA\)</span> coincides with the curved edges of the protractor. This reading gives us the measure of angle <span class="process-math">\(ABC\text{.}\)</span>
+</div></li>
+</ol></div>
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external//measure.png" class="contained"></div></article><article class="example example-like" id="subsec-Measuring-angles-5"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">5.2.2</span><span class="period">.</span>
+</h4>
+<figure class="figure figure-like" id="subsec-Measuring-angles-5-1"><iframe src="https://www.geogebra.org/material/iframe/id/wkgtn6nu/width/800/height/640/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-determining-angle-" width="600" height="480"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.3<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="exercise exercise-like" id="subsec-Measuring-angles-6"><h4 class="heading">
+<span class="type">Checkpoint</span><span class="space"> </span><span class="codenumber">5.2.4</span><span class="period">.</span>
+</h4>
+<figure class="figure figure-like" id="subsec-Measuring-angles-6-1"><iframe src="https://www.geogebra.org/material/iframe/id/kaeuyeqb/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-measuring-angles" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.5<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article></section><section class="subsection" id="subsec-Bisecting-angles"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.2</span><span class="space"> </span><span class="title">Bisecting angles</span>
+</h3>
+<div class="para" id="subsec-Bisecting-angles-2">What is an angle bisector ?</div>
+<div class="para" id="subsec-Bisecting-angles-3">An angle bisector or the bisector of an angle is a line that divides an angle into two equal parts. For example, In the applet below, the blue line is said to be an angle bisector of angle <span class="process-math">\(BAC\text{.}\)</span>
+</div>
+<div class="para" id="subsec-Bisecting-angles-4">The gray slider adjusts the entire measure of angle <span class="process-math">\(BAC\text{.}\)</span>
+</div>
+<div class="para" id="subsec-Bisecting-angles-5">The black slider dynamically illustrates what it means for a line to bisect an angle.</div>
+<figure class="figure figure-like" id="subsec-Bisecting-angles-6"><iframe src="https://www.geogebra.org/material/iframe/id/uawgksk9/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-bisector" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.6<span class="period">.</span></span><span class="space"> </span></figcaption></figure><article class="activity project-like" id="subsec-Bisecting-angles-7"><h4 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.3</span><span class="period">.</span>
+</h4>
+<div class="para" id="subsec-Bisecting-angles-7-1-1">How to construct an angle bisector?</div> <div class="para" id="subsec-Bisecting-angles-7-1-2">You require a ruler and a compass to construct angles and their bisectors. Given a known or unknown <span class="process-math">\(\angle PQR\text{,}\)</span> the steps to construct its angle bisector are:</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//a12.png" class="contained"></div> <div class="para logical" id="subsec-Bisecting-angles-7-1-4"><ol class="decimal" id="subsec-Bisecting-angles-7-1-4-1">
+<li id="subsec-Bisecting-angles-7-1-4-1-1">
+<div class="para" id="subsec-Bisecting-angles-7-1-4-1-1-1">Place the compass pointer at <span class="process-math">\(Q\)</span> and make an arc that cuts the two arms of the angle at two different points.</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//a13.png" class="contained"></div>
+</li>
+<li id="subsec-Bisecting-angles-7-1-4-1-2">
+<div class="para" id="subsec-Bisecting-angles-7-1-4-1-2-1">From the point where the first arc cut the arm <span class="process-math">\(QP\text{,}\)</span> make another arc towards the interior of the angle.</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//a14.png" class="contained"></div>
+</li>
+<li id="subsec-Bisecting-angles-7-1-4-1-3">
+<div class="para" id="subsec-Bisecting-angles-7-1-4-1-3-1">Without changing the radius on the compass, repeat step <span class="process-math">\(2\)</span> from the point where the first arc cut <span class="process-math">\(QR\text{.}\)</span>
+</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//a15.png" class="contained"></div>
+</li>
+<li id="subsec-Bisecting-angles-7-1-4-1-4">
+<div class="para" id="subsec-Bisecting-angles-7-1-4-1-4-1">Using a ruler, draw a line from <span class="process-math">\(Q\)</span> to the point where the arcs intersect.</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//a16.png" class="contained"></div>
+</li>
+</ol></div> <div class="para" id="subsec-Bisecting-angles-7-1-5">The line that was drawn through <span class="process-math">\(Q\)</span> represents the angle bisector of the <span class="process-math">\(\angle PQR\text{.}\)</span>
+</div> <div class="para" id="subsec-Bisecting-angles-7-1-6">Note: If an angle bisector bisects a line segment at <span class="process-math">\(90^\circ\text{,}\)</span> it is known as the perpendicular bisector of that line.</div> <div class="para" id="subsec-Bisecting-angles-7-1-7">The figure below shows a Perpendicular Bisector of a Line Segment</div> <figure class="figure figure-like" id="subsec-Bisecting-angles-7-1-8"><iframe src="https://www.geogebra.org/material/iframe/id/a49vptkn/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-perpendicular-bisector-1" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.7<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="example example-like" id="subsec-Bisecting-angles-8"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">5.2.8</span><span class="period">.</span>
+</h4>
+<figure class="figure figure-like" id="subsec-Bisecting-angles-8-1"><iframe src="https://www.geogebra.org/material/iframe/id/hdn9cw4v/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-bisector-1" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.9<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="example example-like" id="subsec-Bisecting-angles-9"><h4 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">5.2.10</span><span class="period">.</span>
+</h4>
+<div class="para" id="subsec-Bisecting-angles-9-1-1">If an angle bisector divides an angle of <span class="process-math">\(120\)</span> degrees, then what is the measure of each angle?</div>
+<div class="solutions"><details id="subsec-Bisecting-angles-9-2" class="solution solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Solution</span><span class="period">.</span></summary><div class="solution solution-like knowl__content">
+<div class="para" id="subsec-Bisecting-angles-9-2-1">Given, a measure of an angle is <span class="process-math">\(120^\circ\)</span>
+</div>
+<div class="para" id="subsec-Bisecting-angles-9-2-2">As we know, the angle bisector divides the angle into equal two parts.</div>
+<div class="para" id="subsec-Bisecting-angles-9-2-3">Therefore, <span class="process-math">\(120^\circ\)</span>  is divided into equal two parts, say <span class="process-math">\(x\text{.}\)</span>
+</div>
+<div class="para" id="subsec-Bisecting-angles-9-2-4">Hence,</div>
+<div class="para logical" id="subsec-Bisecting-angles-9-2-5"><div class="displaymath process-math">
+\begin{equation*}
+x^\circ + x^\circ = 120^\circ
+\end{equation*}
+</div></div>
+<div class="para logical" id="subsec-Bisecting-angles-9-2-6"><div class="displaymath process-math">
+\begin{equation*}
+2x = 120^\circ
+\end{equation*}
+</div></div>
+<div class="para logical" id="subsec-Bisecting-angles-9-2-7"><div class="displaymath process-math">
+\begin{equation*}
+x = \frac{120^\circ}{2}
+\end{equation*}
+</div></div>
+<div class="para logical" id="subsec-Bisecting-angles-9-2-8"><div class="displaymath process-math">
+\begin{equation*}
+x=60^\circ 
+\end{equation*}
+</div></div>
+</div></details></div></article></section><section class="subsection" id="subsec-Constucting-angle-90-45-22"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.3</span><span class="space"> </span><span class="title">Geometrical construction of <span class="process-math">\(90^\circ, 45^\circ, 22.5^\circ\)</span></span>
+</h3>
+<section class="subsubsection" id="subsubsec-angle-game"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.3.1</span><span class="space"> </span><span class="title">Drawing Angles Game</span>
+</h4>
+<article class="activity project-like" id="subsubsec-angle-game-2"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.4</span><span class="period">.</span>
+</h5>
+<div class="para logical" id="subsubsec-angle-game-2-1"><ul class="disc" id="subsubsec-angle-game-2-1-1"><li id="subsubsec-angle-game-2-1-1-1"><div class="para" id="subsubsec-angle-game-2-1-1-1-1">Draw angles as accurately as you can and improve your angle sense in this interactive game.(Drawing angles by estimation)</div></li></ul></div>
+<figure class="figure figure-like" id="subsubsec-angle-game-2-2"><iframe src="https://www.geogebra.org/material/iframe/id/afjpb5ch/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-game" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.11<span class="period">.</span></span><span class="space"> </span></figcaption></figure><div class="para logical" id="subsubsec-angle-game-2-3"><ul class="disc" id="subsubsec-angle-game-2-3-1"><li id="subsubsec-angle-game-2-3-1-1"><div class="para" id="subsubsec-angle-game-2-3-1-1-1">Which angles were the easiest for you to draw?  Why do you think so?</div></li></ul></div></article></section><section class="subsubsection" id="subsubsec-Constucting-90"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.3.2</span><span class="space"> </span><span class="title">Constucting <span class="process-math">\(90^\circ\)</span></span>
+</h4>
+<article class="activity project-like" id="subsubsec-Constucting-90-2"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.5</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-Constucting-90-2-1-1">Work in pairs.</div> <div class="para" id="subsubsec-Constucting-90-2-1-2">What you need: A ruler, a protractor and a pair of compasses.</div> <div class="para" id="subsubsec-Constucting-90-2-1-3">1.Draw a straight line and mark on it point <span class="process-math">\(O\text{.}\)</span> With point <span class="process-math">\(O\)</span> as the centre, make arcs to cut the line at <span class="process-math">\(A\)</span> and <span class="process-math">\(B\)</span> as shown below.</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//lineAB.png" class="contained"></div> <div class="para" id="subsubsec-Constucting-90-2-1-5">2. Using <span class="process-math">\(A\)</span> and <span class="process-math">\(B\)</span> as the centres, make arcs abave the line to meet at point <span class="process-math">\(C\)</span> as shown below.</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//arcs.png" class="contained"></div> <div class="para" id="subsubsec-Constucting-90-2-1-7">3.Join points <span class="process-math">\(O\)</span> to <span class="process-math">\(C\)</span> as shown below.measure angle <span class="process-math">\(BOC\)</span> and <span class="process-math">\(COA\text{.}\)</span> Which angles have you constructed?</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//bisector.png" class="contained"></div> <div class="para" id="subsubsec-Constucting-90-2-1-9"><span class="process-math">\(\textbf{Key Takeaway}\)</span></div> <div class="para logical" id="subsubsec-Constucting-90-2-1-10"><div class="displaymath process-math">
+\begin{equation*}
+\angle BOC = \angle COA = 90^\circ
+\end{equation*}
+</div></div></article><article class="example example-like" id="subsubsec-Constucting-90-3"><h5 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">5.2.12</span><span class="period">.</span>
+</h5>
+<figure class="figure figure-like" id="subsubsec-Constucting-90-3-1"><iframe src="https://www.geogebra.org/material/iframe/id/a7qgvybf/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-90" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.13<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article></section><section class="subsubsection" id="subsubsec-Constucting-45"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.3.3</span><span class="space"> </span><span class="title">Constucting <span class="process-math">\(45^\circ\)</span></span>
+</h4>
+<article class="activity project-like" id="subsubsec-Constucting-45-2"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.6</span><span class="period">.</span>
+</h5>
+<figure class="figure figure-like" id="subsubsec-Constucting-45-2-1"><iframe src="https://www.geogebra.org/material/iframe/id/vjqew3mp/width/800/height/622/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angles-45" width="600" height="467"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.14<span class="period">.</span></span><span class="space"> </span></figcaption></figure><figure class="figure figure-like" id="subsubsec-Constucting-45-2-2"><iframe src="https://www.geogebra.org/material/iframe/id/meqbydqc/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angles-45-2" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.15<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article></section></section><section class="subsection" id="subsec-Constructing-angle-60-30-15"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.4</span><span class="space"> </span><span class="title">Geometrical construction of <span class="process-math">\(60^\circ, 30^\circ, 15^\circ, 7.5^\circ\)</span></span>
+</h3>
+<section class="subsubsection" id="subsubsec-60"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.4.1</span><span class="space"> </span><span class="title">constructing <span class="process-math">\(60^\circ\)</span></span>
+</h4>
+<article class="activity project-like" id="subsubsec-60-2"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.7</span><span class="period">.</span>
+</h5>
+<figure class="figure figure-like" id="subsubsec-60-2-1"><iframe src="https://www.geogebra.org/material/iframe/id/z5mzq6vz/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-60" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.16<span class="period">.</span></span><span class="space"> </span></figcaption></figure><figure class="figure figure-like" id="subsubsec-60-2-2"><iframe src="https://www.geogebra.org/material/iframe/id/sa4uv9pg/width/800/height/560/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-60-1" width="600" height="420"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.17<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="activity project-like" id="subsubsec-60-3"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.8</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-60-3-1-1">Work in pairs</div> <div class="para" id="subsubsec-60-3-1-2">What you need: A ruler, a protractor and a pair of compasses.</div> <div class="para" id="subsubsec-60-3-1-3">Explore</div> <div class="para" id="subsubsec-60-3-1-4">1.Draw a straight line and mark a point <span class="process-math">\(O\)</span> on it as shown below.</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l4.png" class="contained"></div> <div class="para" id="subsubsec-60-3-1-6">2. With <span class="process-math">\(O\)</span> as center draw an arc of any radius to cut the line at <span class="process-math">\(A\text{.}\)</span>With the same radius and <span class="process-math">\(A\)</span> as center draw an arc to cut the previous arc at <span class="process-math">\(B\text{.}\)</span>
+</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l5.png" class="contained"></div> <div class="para" id="subsubsec-60-3-1-8">3. Join <span class="process-math">\(OB\text{.}\)</span> Measure angle <span class="process-math">\(AOB\text{.}\)</span> Which angle have you constructed?</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l6.png" class="contained"></div> <div class="para" id="subsubsec-60-3-1-10">Expected observation.</div> <div class="para" id="subsubsec-60-3-1-11">We get the required angle</div> <div class="para logical" id="subsubsec-60-3-1-12"><div class="displaymath process-math">
+\begin{equation*}
+\angle AOB = 60^\circ
+\end{equation*}
+</div></div></article><article class="example example-like" id="subsubsec-60-4"><h5 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">5.2.18</span><span class="period">.</span>
+</h5>
+<figure class="figure figure-like" id="subsubsec-60-4-1"><iframe src="https://www.geogebra.org/material/iframe/id/v59rdbd7/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-60-2" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.19<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="example example-like" id="subsubsec-60-5"><h5 class="heading">
+<span class="type">Example</span><span class="space"> </span><span class="codenumber">5.2.20</span><span class="period">.</span>
+</h5>
+<figure class="figure figure-like" id="subsubsec-60-5-1"><iframe src="https://www.geogebra.org/material/iframe/id/nrjepwry/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angle-60-3" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.21<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article></section><section class="subsubsection" id="subsubsec-Constructing-angle-30"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.4.2</span><span class="space"> </span><span class="title">Constructing <span class="process-math">\(30^\circ\)</span></span>
+</h4>
+<figure class="figure figure-like" id="subsubsec-Constructing-angle-30-2"><iframe src="https://www.geogebra.org/material/iframe/id/meqbydqc/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angles-30" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.22<span class="period">.</span></span><span class="space"> </span></figcaption></figure><article class="activity project-like" id="subsubsec-Constructing-angle-30-3"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.9</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-Constructing-angle-30-3-1">Work in pairs</div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-2">What you need: A ruler, a protractor and a pair of compasses.</div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-3">Explore.</div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-4">1.Construct <span class="process-math">\(60^\circ\)</span> (as shown in the above activity).</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l6.png" class="contained"></div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-6">2.With <span class="process-math">\(A\)</span> as center, draw an arc of radius more than half of <span class="process-math">\(AB\)</span> in the interior of <span class="process-math">\(\angle AOB\text{.}\)</span> With the same radius and with <span class="process-math">\(B\)</span> as center draw an arc to cut the previous one at <span class="process-math">\(C\text{.}\)</span>
+</div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-7">3.Join OC. Measure <span class="process-math">\(\angle AOC\text{.}\)</span>
+</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l7.png" class="contained"></div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-9">Expected observation.</div>
+<div class="para" id="subsubsec-Constructing-angle-30-3-10">We get the required angle</div>
+<div class="para logical" id="subsubsec-Constructing-angle-30-3-11"><div class="displaymath process-math">
+\begin{equation*}
+\angle AOC = 30^\circ
+\end{equation*}
+</div></div></article></section><section class="subsubsection" id="subsubsec-constucting-angle-15"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.4.3</span><span class="space"> </span><span class="title">Constucting angle <span class="process-math">\(15^\circ\)</span></span>
+</h4>
+<figure class="figure figure-like" id="subsubsec-constucting-angle-15-2"><iframe src="https://www.geogebra.org/material/iframe/id/wpvpj9tg/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-angles-15" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.23<span class="period">.</span></span><span class="space"> </span></figcaption></figure></section></section><section class="subsection" id="subsec-Constructing-angle-120"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.5</span><span class="space"> </span><span class="title">Constructing <span class="process-math">\(\angle 120^\circ\)</span></span>
+</h3>
+<article class="activity project-like" id="subsec-Constructing-angle-120-2"><h4 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.10</span><span class="period">.</span>
+</h4>
+<div class="para" id="subsec-Constructing-angle-120-2-1-1">Work in pairs</div> <div class="para" id="subsec-Constructing-angle-120-2-1-2">What  you need: A ruler, a protractor and a pair of compasses.</div> <div class="para" id="subsec-Constructing-angle-120-2-1-3">Explore.</div> <div class="para" id="subsec-Constructing-angle-120-2-1-4">1.Draw a line  and mark a point <span class="process-math">\(O\)</span> on it.</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l8.png%20" class="contained"></div> <div class="para" id="subsec-Constructing-angle-120-2-1-6">2.With <span class="process-math">\(O\)</span> as center draw an arc of any radius to cut the line  at <span class="process-math">\(A\text{.}\)</span>
+</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l9.png" class="contained"></div> <div class="para" id="subsec-Constructing-angle-120-2-1-8">3.With same radius and with <span class="process-math">\(A\)</span> as center draw another arc to cut the previous arc at <span class="process-math">\(B\text{.}\)</span> With <span class="process-math">\(B\)</span> as center draw another arc of same radius to cut the first arc at <span class="process-math">\(C\text{.}\)</span>
+</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l10.png" class="contained"></div> <div class="para logical" id="subsec-Constructing-angle-120-2-1-10">
+<div class="para">4.Join <span class="process-math">\(OC\text{.}\)</span> We get the required angle</div>
+<div class="displaymath process-math">
+\begin{equation*}
+\angle AOC = 120^\circ\text{.}
+\end{equation*}
+</div>
+</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l11.png" class="contained"></div></article><article class="exercise exercise-like" id="subsec-Constructing-angle-120-3"><h4 class="heading">
+<span class="type">Checkpoint</span><span class="space"> </span><span class="codenumber">5.2.24</span><span class="period">.</span>
+</h4>
+<figure class="figure figure-like" id="subsec-Constructing-angle-120-3-1"><iframe src="https://www.geogebra.org/material/iframe/id/hdhq7car/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-constucting-angles-using-protractor" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.25<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article></section><section class="subsection" id="subsec-Constructing-triangles"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.6</span><span class="space"> </span><span class="title">Constructing triangles</span>
+</h3>
+<div class="para" id="subsec-Constructing-triangles-2">A triangle is a basic shape with three sides and three angles. The three sides of a triangle can have different lengths, and the angles can vary in size, but the sum of the angles in any triangle is always  <span class="process-math">\(180^\circ\text{.}\)</span>
+</div>
+<figure class="figure figure-like" id="subsec-Constructing-triangles-3"><iframe src="https://www.geogebra.org/material/iframe/id/vtgbmpak/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="triangle" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.26<span class="period">.</span></span><span class="space"> </span>Determine whether three segments can form a triangle</figcaption></figure><div class="para" id="subsec-Constructing-triangles-4">Types of Triangles</div>
+<div class="para" id="subsec-Constructing-triangles-5">Triangles can be classified based on angles and sides.</div>
+<div class="para logical" id="subsec-Constructing-triangles-6"><ol class="decimal" id="subsec-Constructing-triangles-6-1">
+<li id="subsec-Constructing-triangles-6-1-1"><div class="para" id="subsec-Constructing-triangles-6-1-1-1">Scalene Triangle.</div></li>
+<li id="subsec-Constructing-triangles-6-1-2"><div class="para" id="subsec-Constructing-triangles-6-1-2-1">Equilateral Triangle.</div></li>
+<li id="subsec-Constructing-triangles-6-1-3"><div class="para" id="subsec-Constructing-triangles-6-1-3-1">Isosceles Triangle.</div></li>
+<li id="subsec-Constructing-triangles-6-1-4"><div class="para" id="subsec-Constructing-triangles-6-1-4-1">Obtuse Triangle.</div></li>
+<li id="subsec-Constructing-triangles-6-1-5"><div class="para" id="subsec-Constructing-triangles-6-1-5-1">Acute triangle</div></li>
+<li id="subsec-Constructing-triangles-6-1-6"><div class="para" id="subsec-Constructing-triangles-6-1-6-1">Right-angled triange.</div></li>
+</ol></div>
+<figure class="figure figure-like" id="subsec-Constructing-triangles-7"><iframe src="https://www.geogebra.org/material/iframe/id/cwxj7ahk/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-triangles" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.27<span class="period">.</span></span><span class="space"> </span>Draw triangles with given characteristics.</figcaption></figure><section class="subsubsection" id="subsubsec-Equalateral"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.6.1</span><span class="space"> </span><span class="title">Constructing equalateral triangles</span>
+</h4>
+<div class="para" id="subsubsec-Equalateral-2">An equilateral triangle is a triangle that has all its sides equal in length. Also, the three angles of the equilateral triangle are equal to <span class="process-math">\(60^\circ\text{.}\)</span> The sum of all three angles of an equilateral triangle is equal to <span class="process-math">\(180^\circ\)</span> .</div>
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external//et.png" class="contained"></div>
+<article class="activity project-like" id="subsubsec-Equalateral-4"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.11</span><span class="period">.</span>
+</h5>
+<figure class="figure figure-like" id="subsubsec-Equalateral-4-1"><iframe src="https://www.geogebra.org/material/iframe/id/nyq7tpfh/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-equalateral-triangles" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.28<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><article class="activity project-like" id="subsubsec-Equalateral-5"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.12</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-Equalateral-5-1-1">Work in pairs</div> <div class="para" id="subsubsec-Equalateral-5-1-2">What you need: A ruler, a pair of compasses and a protractor.</div> <div class="para" id="subsubsec-Equalateral-5-1-3">Explore.</div> <div class="para" id="subsubsec-Equalateral-5-1-4">1.Draw a straight line. Mark point <span class="process-math">\(Y\)</span> on the line.</div> <div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external//e1.png" class="contained"></div> <div class="para" id="subsubsec-Equalateral-5-1-6">2.Using a pair of compasses and and a ruler, mark  point <span class="process-math">\(X\text{,}\)</span> <span class="process-math">\(6\)</span> <span class="process-math">\(cm\)</span> away from <span class="process-math">\(Y\text{.}\)</span>
+</div> <div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external//e2.png" class="contained"></div> <div class="para" id="subsubsec-Equalateral-5-1-8">3.With <span class="process-math">\(Y\)</span> as the centre and using radius of <span class="process-math">\(6\)</span> <span class="process-math">\(cm\text{,}\)</span> draw an arc abave the line.</div> <div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external//e3.png" class="contained"></div> <div class="para" id="subsubsec-Equalateral-5-1-10">4.with <span class="process-math">\(X\)</span> as the centre and using the same radius draw another arc abave the line to intersect the other arc at <span class="process-math">\(Z\text{.}\)</span> Use a ruler to join point <span class="process-math">\(Z\)</span> to <span class="process-math">\(Y\)</span> and point <span class="process-math">\(Z\)</span> to <span class="process-math">\(X\)</span>
+</div> <div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external//e4.png" class="contained"></div> <div class="para" id="subsubsec-Equalateral-5-1-12">5. Measure  <span class="process-math">\(\angle XYZ\text{,}\)</span> <span class="process-math">\(\angle ZXY\)</span> and <span class="process-math">\(\angle XZY\text{.}\)</span> What do you notice?</div> <div class="para" id="subsubsec-Equalateral-5-1-13">6.Share your work with other learners in class.</div></article></section><section class="subsubsection" id="subsubsec-Isosceles"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.6.2</span><span class="space"> </span><span class="title">Constructing isosceles triangle</span>
+</h4>
+<div class="para" id="subsubsec-Isosceles-2">An Isosceles triangle is a triangle that has two equal sides. Also, the two angles opposite the two equal sides are equal.</div>
+<figure class="figure figure-like" id="subsubsec-Isosceles-3"><iframe src="https://www.geogebra.org/material/iframe/id/nhz7gu7q/width/800/height/533/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-isosceles-triangle" width="600" height="400"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.29<span class="period">.</span></span><span class="space"> </span></figcaption></figure><div class="para" id="subsubsec-Isosceles-4">Properties of isosceles triangle.</div>
+<div class="para logical" id="subsubsec-Isosceles-5"><ol class="decimal" id="subsubsec-Isosceles-5-1">
+<li id="subsubsec-Isosceles-5-1-1"><div class="para" id="subsubsec-Isosceles-5-1-1-1">As the two sides are equal in this triangle, the unequal side is called the base of the triangle</div></li>
+<li id="subsubsec-Isosceles-5-1-2"><div class="para" id="subsubsec-Isosceles-5-1-2-1">The angles opposite to the two equal sides of the triangle are always equal.</div></li>
+<li id="subsubsec-Isosceles-5-1-3"><div class="para" id="subsubsec-Isosceles-5-1-3-1">The altitude of an isosceles triangle is measured from the base to the vertex (topmost) of the triangle.</div></li>
+</ol></div>
+<article class="activity project-like" id="subsubsec-Isosceles-6"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.13</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-Isosceles-6-1-1">Work in pairs</div> <div class="para" id="subsubsec-Isosceles-6-1-2">1.Draw a straight line. Mark point <span class="process-math">\(M\)</span> on the line.</div> <div class="para" id="subsubsec-Isosceles-6-1-3">2.Using a pair of compasses and and a ruler, mark  point <span class="process-math">\(N\text{,}\)</span> 5 <span class="process-math">\(cm\)</span> away from <span class="process-math">\(M\)</span>
+</div> <div class="para" id="subsubsec-Isosceles-6-1-4">3.With <span class="process-math">\(M\)</span> as the centre and using radius of <span class="process-math">\(7\)</span> <span class="process-math">\(cm\text{,}\)</span> draw an arc abave the line <span class="process-math">\(MN\text{.}\)</span>
+</div> <div class="para" id="subsubsec-Isosceles-6-1-5">4.with <span class="process-math">\(N\)</span> as the centre and using the radius of ,<span class="process-math">\(5\)</span> <span class="process-math">\(cm\text{,}\)</span> draw another arc abave the line to intersect the other arc at point <span class="process-math">\(P\text{.}\)</span> Use a ruler to join point <span class="process-math">\(P\)</span> to <span class="process-math">\(M\)</span> and point <span class="process-math">\(P\)</span> to <span class="process-math">\(N\text{.}\)</span> Measure sides <span class="process-math">\(PM\text{,}\)</span> <span class="process-math">\(MN\)</span> and <span class="process-math">\(NP\)</span>
+</div> <div class="para" id="subsubsec-Isosceles-6-1-6">5. Measure  <span class="process-math">\(\angle MNP\text{,}\)</span> <span class="process-math">\(\angle MPN\)</span> and <span class="process-math">\(\angle PMN\text{.}\)</span> What do you notice?</div> <div class="para" id="subsubsec-Isosceles-6-1-7">6.Share your work with other learners in class.</div></article></section><section class="subsubsection" id="subsubsec-Right-angle"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.6.3</span><span class="space"> </span><span class="title">Constructing right-angled triangle</span>
+</h4>
+<div class="para" id="subsubsec-Right-angle-2">A right-angled triangle is a type of triangle that has one of its angles equal to <span class="process-math">\(90^\circ\text{.}\)</span> The other two angles sum up to <span class="process-math">\(90^\circ\text{.}\)</span> The sides that include the right angle are perpendicular and the base of the triangle. The third side is called the hypotenuse, which is the longest side of all three sides.</div>
+<div class="para" id="subsubsec-Right-angle-3">The three sides of the right triangle are related to each other. This relationship is explained by Pythagorean theorem.</div>
+<article class="activity project-like" id="subsubsec-Right-angle-4"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.14</span><span class="period">.</span>
+</h5>
+<div class="para logical" id="subsubsec-Right-angle-4-1"><ul class="disc" id="subsubsec-Right-angle-4-1-1">
+<li id="subsubsec-Right-angle-4-1-1-1"><div class="para" id="subsubsec-Right-angle-4-1-1-1-1">Here is an isosceles right-angled triangle.</div></li>
+<li id="subsubsec-Right-angle-4-1-1-2"><div class="para" id="subsubsec-Right-angle-4-1-1-2-1">Play with the vertices (moving them about the plane).</div></li>
+<li id="subsubsec-Right-angle-4-1-1-3"><div class="para" id="subsubsec-Right-angle-4-1-1-3-1">What do you notice?</div></li>
+<li id="subsubsec-Right-angle-4-1-1-4"><div class="para" id="subsubsec-Right-angle-4-1-1-4-1">Why is C coloured red, while A and B are green?</div></li>
+<li id="subsubsec-Right-angle-4-1-1-5"><div class="para" id="subsubsec-Right-angle-4-1-1-5-1">What movements of the vertices cause the angles to change?</div></li>
+<li id="subsubsec-Right-angle-4-1-1-6"><div class="para" id="subsubsec-Right-angle-4-1-1-6-1">What else do you notice?</div></li>
+</ul></div>
+<figure class="figure figure-like" id="subsubsec-Right-angle-4-2"><iframe src="https://www.geogebra.org/material/iframe/id/dskmk68p/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-right-angled" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.30<span class="period">.</span></span><span class="space"> </span></figcaption></figure></article><div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external//rt.png" class="contained"></div>
+<article class="activity project-like" id="subsubsec-Right-angle-6"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.15</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-Right-angle-6-1-1">Work in pairs</div> <div class="para" id="subsubsec-Right-angle-6-1-2">1.Draw a straight line of any length. Mark point <span class="process-math">\(Q\)</span> on the line.</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//r1.png" class="contained"></div> <div class="para" id="subsubsec-Right-angle-6-1-4">2.With <span class="process-math">\(Q\)</span> as the center, and <span class="process-math">\(5\)</span> <span class="process-math">\(cm\)</span> as the radius, draw an arc on both the sides of the point such that the arc touches the horizontal line and mark the points as <span class="process-math">\(S\)</span> and <span class="process-math">\(R\text{.}\)</span>
+</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//r2.png" class="contained"></div> <div class="para" id="subsubsec-Right-angle-6-1-6">3. With <span class="process-math">\(S\)</span> as the centre and using radius of <span class="process-math">\(8\)</span> <span class="process-math">\(cm\text{,}\)</span> draw an arc abave the line. With the same radius of <span class="process-math">\(8\)</span><span class="process-math">\(cm\text{,}\)</span> draw an arc from the point <span class="process-math">\(R\text{.}\)</span> Mark the point of intersection of these arcs as <span class="process-math">\(P\text{.}\)</span>
+</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//r3.png" class="contained"></div> <div class="para" id="subsubsec-Right-angle-6-1-8">4.  Join the points <span class="process-math">\(P\)</span> to <span class="process-math">\(Q\)</span> and <span class="process-math">\(P\)</span> to <span class="process-math">\(R\)</span> with a ruler.</div> <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//r4.png" class="contained"></div></article></section><section class="subsubsection" id="subsubsec-scalene"><h4 class="heading hide-type">
+<span class="type">Subsubsection</span><span class="space"> </span><span class="codenumber">5.2.6.4</span><span class="space"> </span><span class="title">Constructing scalene triangle.</span>
+</h4>
+<div class="para" id="subsubsec-scalene-2">This is a triangle in which all three sides are of different lengths and all the three angles of the triangle are also of different measures.</div>
+<figure class="figure figure-like" id="subsubsec-scalene-3"><iframe src="https://www.geogebra.org/material/iframe/id/bfjymvpa/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-scalene" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.31<span class="period">.</span></span><span class="space"> </span></figcaption></figure><article class="activity project-like" id="subsubsec-scalene-4"><h5 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.16</span><span class="period">.</span>
+</h5>
+<div class="para" id="subsubsec-scalene-4-1-1">Work in pairs</div> <div class="para" id="subsubsec-scalene-4-1-2">Constructing triangle <span class="process-math">\(ABC\)</span> such that sides <span class="process-math">\(AB=4\)</span> <span class="process-math">\(cm\text{,}\)</span> <span class="process-math">\(BC=6\)</span> <span class="process-math">\(cm\)</span> and <span class="process-math">\(AC=7\)</span> <span class="process-math">\(cm\text{.}\)</span>
+</div> <div class="para logical" id="subsubsec-scalene-4-1-3"><ol class="decimal" id="subsubsec-scalene-4-1-3-1">
+<li id="subsubsec-scalene-4-1-3-1-1">
+<div class="para" id="subsubsec-scalene-4-1-3-1-1-1">Draw a straight line <span class="process-math">\(AC\)</span> of length <span class="process-math">\(7\)</span> <span class="process-math">\(cm\text{.}\)</span>
+</div>
+<div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external//l16.png" class="contained"></div>
+</li>
+<li id="subsubsec-scalene-4-1-3-1-2">
+<div class="para" id="subsubsec-scalene-4-1-3-1-2-1">With <span class="process-math">\(A\)</span> as the centre and using a radius of <span class="process-math">\(4\)</span> <span class="process-math">\(cm\text{,}\)</span> draw an arc abave line <span class="process-math">\(AC\text{.}\)</span>
+</div>
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external//l17.png" class="contained"></div>
+</li>
+<li id="subsubsec-scalene-4-1-3-1-3">
+<div class="para" id="subsubsec-scalene-4-1-3-1-3-1">With <span class="process-math">\(C\)</span> as the centre and using a radius of <span class="process-math">\(6\)</span> <span class="process-math">\(cm\text{,}\)</span> draw an arc to intersect the other arc at point <span class="process-math">\(B\text{.}\)</span>
+</div>
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external//l18.png" class="contained"></div>
+</li>
+<li id="subsubsec-scalene-4-1-3-1-4">
+<div class="para" id="subsubsec-scalene-4-1-3-1-4-1">Join point <span class="process-math">\(AB\)</span> and point <span class="process-math">\(BC\text{.}\)</span> Measure sides <span class="process-math">\(AB\text{,}\)</span> <span class="process-math">\(BC\)</span> and <span class="process-math">\(AC\text{.}\)</span>
+</div>
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external//L19.png" class="contained"></div>
+</li>
+<li id="subsubsec-scalene-4-1-3-1-5"><div class="para" id="subsubsec-scalene-4-1-3-1-5-1">Measure angle <span class="process-math">\(ACB\text{,}\)</span> <span class="process-math">\(ABC\text{,}\)</span> and <span class="process-math">\(BAC\text{.}\)</span> What do you notice ?</div></li>
+</ol></div></article></section></section><section class="subsection" id="subsec-Constructing-of-circle"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space"> </span><span class="codenumber">5.2.7</span><span class="space"> </span><span class="title">Construction of circle using a ruler and a pair of compasses.</span>
+</h3>
+<div class="para" id="subsec-Constructing-of-circle-2"></div>
+<article class="activity project-like" id="subsec-Constructing-of-circle-3"><h4 class="heading">
+<span class="type">Activity</span><span class="space"> </span><span class="codenumber">5.2.17</span><span class="period">.</span>
+</h4>
+<div class="para" id="subsec-Constructing-of-circle-3-1-1">Work in groups.</div> <div class="para" id="subsec-Constructing-of-circle-3-1-2">(i) mark a point <span class="process-math">\(O\text{.}\)</span>
+</div> <div class="para" id="subsec-Constructing-of-circle-3-1-3">(ii) Adjust a pair of compasses to a length of <span class="process-math">\(7\)</span><span class="process-math">\(cm\)</span> from <span class="process-math">\(O\text{.}\)</span> Turn the compass arm with the pencil until it get back to the initial point.</div> <div class="para" id="subsec-Constructing-of-circle-3-1-4">(iii) Discuss the results and share with other groups</div></article><figure class="figure figure-like" id="subsec-Constructing-of-circle-4"><iframe src="https://www.geogebra.org/material/iframe/id/ptdqmucd/width/800/height/444/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" id="geogebra-circle" width="600" height="333"></iframe><figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.2.32<span class="period">.</span></span><span class="space"> </span></figcaption></figure></section></section></div>
+<div id="ptx-content-footer" class="ptx-content-footer">
+<a class="previous-button button" href="sec-section-Angles.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="ch-Handling_Data.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="338 3000 8772 6866" role="img"><title>PreTeXt logo</title><g style="stroke-width:.025in; stroke:currentColor; fill:none"><polyline points="472,3590 472,9732 " style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png" alt="Runstone Academy logo"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png" alt="MathJax logo"></a>
+</div>
+</body>
+</html>
